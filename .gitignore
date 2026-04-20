@@ -1,6 +1,4 @@
 __pycache__/
-*.faiss
-*.pkl
 output/
 eval_results.txt
 .env
