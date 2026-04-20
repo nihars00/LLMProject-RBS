@@ -1,5 +1,4 @@
 __pycache__/
-output/
 eval_results.txt
 .env
 venv/
