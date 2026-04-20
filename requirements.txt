@@ -82,3 +82,4 @@ tzdata==2026.1
 urllib3==2.6.3
 uuid_utils==0.14.1
 zstandard==0.25.0
+python-dotenv
