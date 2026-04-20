@@ -1,0 +1,324 @@
+# Category: courses
+# Generated (UTC): 2026-03-22T03:00:36.534380+00:00
+
+========================================================================
+## schedule_of_classes_sis
+URL: https://sis.rutgers.edu/soc
+Description: Schedule of classes via SIS
+
+Title: University Schedule Of Classes
+
+Select a term, campus location, and level of study
+Term:
+Fall / Spring Term:
+FALL_SPRING_1
+FALL_SPRING_2
+Winter / Summer Term:
+SUMMER_WINTER_1
+SUMMER_WINTER_2
+Previous Terms
++
+-
+PREVIOUS_1
+PREVIOUS_2
+PREVIOUS_3
+PREVIOUS_4
+PREVIOUS_5
+Location:
+Courses offered entirely online.  Hybrid courses are NOT included.
+Level:
+Undergraduate
+Graduate
+School
+<alternate school sort>
+Continue ->
+Search by:
+School/Unit
+Subject
+Keyword
+Core Code
+Search by Keyword
+----
+Fields include: course string (01:198:111), course title, expanded title, registration index, section notes, section subtitle, subject description, print comment, instructor
+alternate subject sort
+|
+search multiple subjects
+Submit
+Filters
+reset
+|
+hide
+Section Status
+Open
+Closed
+Level of Study
+100
+200
+300
+400
+500
+600
+700
+800
+Course Types
+Traditional/Face-to-Face
+Hybrid
+Online & Remote Instruction
+To view all sections with
+in-person meetings
+, keep both
+Traditional/Face-to-Face
+and
+Hybrid
+checked.
+Courses meet entirely in-person
+Courses include both in-person and online instruction
+Courses delivered entirely online
+Day & Time
+M
+T
+W
+Th
+F
+Sa
+Su
+Morning
+Monday morning
+Tuesday morning
+Wednesday morning
+Thursday morning
+Friday morning
+Saturday morning
+Sunday morning
+Afternoon
+Monday afternoon
+Tuesday afternoon
+Wednesday afternoon
+Thursday afternoon
+Friday afternoon
+Saturday afternoon
+Sunday afternoon
+Evening
+Monday evening
+Tuesday evening
+Wednesday evening
+Thursday evening
+Friday evening
+Saturday evening
+Sunday evening
+Asynchronous
+Summer Session Dates
+Campus Location
+Course Credits
+School
+Subject
+NB Core Code
+Back to top
+7am - 11:59am
+12pm - 5:59pm
+6pm - 11pm
+Back to Home Page
+Back to Home Page
+show filters
+Back to top
+Instructions
+Search for courses by single subject, multiple subjects or keyword
+Search for courses by single subject, multiple subjects, keyword or
+Core Code
+Click on a course to view its sections
+Use filters, enabled after a search, to narrow your results
+Register for a section using provided links to
+WebReg
+*
+Supported browsers
+include:
+IE 11+
+,
+Firefox 53+
+,
+Chrome 59+
+,
+Safari 5+
+For help, please contact the
+Office of Information Technology Help Desk
+.
+For any comments or suggestions regarding this site, you may contact us at
+soc_support@email.rutgers.edu
+.
+Course Schedule Planner (CSP)
+Rutgers students may use
+Course Schedule Planner (CSP)
+to build, compare, review, and register schedules for available semesters. Long term planning, course catalog search, automated schedule generation, improved calendar view, advanced filtering, wish list and WebReg integration are just a few features that will make planning a schedule easier and faster than ever.
+Disclaimer
+The University reserves the right to change, add and delete course offerings and to alter, add or cancel course sections without further general notice.
+Textbook Pricing and ISBN Information
+Textbook information, including retail pricing and International Standard Book Numbers (ISBN) for courses offered at Rutgers may be obtained at the links below if such information is available. To find textbook information for a particular course, student will need to have the following information: level of study (e.g. undergraduate); (ii) semester course is offered; (iii) department offering course (e.g. English: 350); (iv) course number; and (v) section number.
+These links are to the respective campus bookstores, and although students may purchase the textbooks at these sites, students are not required to purchase the textbooks to view the textbook information.
+Camden Bookstore
+|
+Newark Bookstore
+|
+New Brunswick Bookstore
+Related Links
+University Registrar
+Registration schedules for
+Camden
+,
+Newark
+and
+New Brunswick
+WebReg
+Course Schedule Planner (CSP)
+Degree Navigator (Undergraduate)
+Academic Departments and Programs
+Student Instructional Rating Survey
+Scheduling Office
+
+========================================================================
+## explore_undergraduate_programs
+URL: https://www.rutgers.edu/academics/explore-undergraduate-programs
+Description: Explore Rutgers undergraduate programs
+
+Title: Explore Undergraduate Programs
+
+Academics
+Undergraduate Academics
+Explore Undergraduate Programs
+Filter
+Keyword
+Field of Study
+All
+Biological and Life Sciences
+Business
+Communication, IT, and Journalism
+Criminal Justice
+Engineering
+Environmental Sciences
+Fine and Performing Arts
+Foreign Languages
+Health Professions
+Humanities and Social Sciences
+Mathematics and Physical Sciences
+Location
+All
+Off Campus and Online
+Rutgers-New Brunswick
+Rutgers-Newark
+Rutgers-Camden
+Name Alpha
+Alphabet Navigation
+All
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Accounting
+Location
+School
+Rutgers-Camden
+School of Business - Camden
+Learn More
+about a4x1U0000004taQQAQ - Accounting - CMD
+Rutgers-Newark
+Rutgers Business School - Newark
+Learn More
+about a4x1U0000004taQQAQ - Accounting - NWK
+Rutgers-New Brunswick
+Rutgers Business School - New Brunswick
+Learn More
+about a4x1U0000004taQQAQ - Accounting - NB
+Aerospace Engineering
+Location
+School
+Rutgers-New Brunswick
+School of Engineering
+Learn More
+about a4x1U0000004taRQAQ - Aerospace Engineering - NB
+African American and African Studies
+Location
+School
+Rutgers-Camden
+Camden College of Arts and Sciences
+Learn More
+about a4x1U0000004taSQAQ - African American and African Studies - CMD
+African, Middle Eastern, and South Asian Languages and Literatures
+Location
+School
+Rutgers-New Brunswick
+School of Arts and Sciences
+Learn More
+about a4x1U0000004taTQAQ - African, Middle Eastern, and South Asian Languages and Literatures - NB
+Africana Studies
+Location
+School
+Rutgers-Newark
+Newark College of Arts and Sciences
+Learn More
+about a4x1U0000004taUQAQ - Africana Studies - NWK
+Rutgers-New Brunswick
+School of Arts and Sciences
+Learn More
+about a4x1U0000004taUQAQ - Africana Studies - NB
+Agricultural and Food Systems
+Location
+School
+Rutgers-New Brunswick
+School of Environmental and Biological Sciences
+Learn More
+about a4x1U0000004taVQAQ - Agricultural and Food Systems - NB
+American Studies
+Location
+School
+Rutgers-New Brunswick
+School of Arts and Sciences
+Learn More
+about a4x1U0000004taWQAQ - American Studies - NB
+Animal Science
+Location
+School
+Rutgers-New Brunswick
+School of Environmental and Biological Sciences
+Learn More
+about a4x1U0000004taXQAQ - Animal Science - NB
+Anthropology
+Location
+School
+Rutgers-Newark
+University College - Newark
+Newark College of Arts and Sciences
+Learn More
+about a4x1U0000004taYQAQ - Anthropology - NWK
+Rutgers-New Brunswick
+School of Arts and Sciences
+Learn More
+about a4x1U0000004taYQAQ - Anthropology - NB
+Anthropology, Evolutionary
+Location
+School
+Rutgers-New Brunswick
+School of Arts and Sciences
+Learn More
+about a4x1U0000004taZQAQ - Anthropology, Evolutionary - NB
+Load More

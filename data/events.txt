@@ -1,0 +1,751 @@
+# Category: events
+# Generated (UTC): 2026-03-22T03:00:36.534380+00:00
+
+========================================================================
+## rbs_main_events_listing
+URL: https://www.business.rutgers.edu/events-listing
+Description: Main RBS events listing page
+
+Title: Calendar of Events
+
+Calendar of Events
+Update Results
+Narrow your results
+Filter by location
+All
+Livingston
+New Brunswick
+Newark
+Off Campus
+Online
+Piscataway
+Somerset, NJ
+Virtual Live
+Filter by event type
+All
+Admissions
+Alumni
+Career Events
+Featured
+Open to the Public
+Ph.D. Program
+Small Business Development
+Filter Events
+23
+Mar
+M.S. in Healthcare Analytics and Intelligence Information Session (Online)
+Mon, Mar 23, 2026
+9:00AM
+-
+10:00AM EDT
+Online
+Admissions
+Join us to learn more about the program.
+8
+Mon, Mar 23, 2026
+9:00AM
+24
+Mar
+RBS on the Road: Beijing
+Tue, Mar 24, 2026
+6:30AM
+-
+8:30AM EDT
+Sunworld Dynasty Hotel | 50 Wangfujing Ave, Dongcheng, Beijing, China, 100006
+Admissions
+We invite you to RSVP and learn more about RBS's graduate Programs.
+0
+Tue, Mar 24, 2026
+6:30AM
+25
+Mar
+Master of Science in Business of Fashion Information Session (Online)
+Wed, Mar 25, 2026
+6:00PM
+-
+7:00PM EDT
+Online
+Admissions
+Are you ready to start an innovative Master's program at Rutgers Business School?
+2
+Wed, Mar 25, 2026
+6:00PM
+27
+Mar
+RBS on the Road: Shanghai
+Fri, Mar 27, 2026
+6:30AM
+-
+8:30AM EDT
+Park Hotel | 170 Nanjing West Road, Huangpu District, Shanghai 200003
+Admissions
+We invite you to RSVP and learn more about RBS's graduate Programs.
+0
+Fri, Mar 27, 2026
+6:30AM
+27
+Mar
+Master of Financial Analysis Information Session
+Fri, Mar 27, 2026
+8:00AM
+-
+9:00AM EDT
+Online
+Admissions
+Join us to learn more about the program.
+2
+Fri, Mar 27, 2026
+8:00AM
+27
+Mar
+Master of Supply Chain Analytics Information Session (Online)
+Fri, Mar 27, 2026
+10:00AM
+-
+11:00AM EDT
+Online
+Admissions
+Please join us for a presentation on the program plus question and answer session with the program director.
+2
+Fri, Mar 27, 2026
+10:00AM
+28
+Mar
+Graduate Open House (Newark Campus)
+Sat, Mar 28, 2026
+9:00AM
+-
+1:00PM EDT
+1 Washington Park Newark, NJ 07102
+Admissions
+Considering an advanced degree in business? Come in person to the Newark Campus to learn about Rutgers Business School’s highly regarded graduate programs.
+0
+Sat, Mar 28, 2026
+9:00AM
+28
+Mar
+Undergraduate New Brunswick Information Session
+Sat, Mar 28, 2026
+10:00AM
+-
+12:00PM EDT
+100 Rockafeller Road, Piscataway, NJ 08854
+Admissions
+Rutgers Business School – New Brunswick cordially invites you to attend a Prospective Student Info Session.
+5
+Sat, Mar 28, 2026
+10:00AM
+01
+Apr
+M.S. in Supply Chain Management Information Session
+Wed, Apr 01, 2026
+5:30PM
+-
+6:30PM EDT
+Online
+Admissions
+Please join us for a presentation on the program plus question and answer session with the program director and/or coordinator.
+7
+Wed, Apr 01, 2026
+5:30PM
+04
+Apr
+RBS on the Road: Delhi
+Sat, Apr 04, 2026
+5:30AM
+-
+7:30AM EDT
+GradRight | Chime, 142, Sector 44, Gurugram, Haryana 122003, India
+Admissions
+We invite you to RSVP and learn more about RBS's graduate Programs.
+0
+Sat, Apr 04, 2026
+5:30AM
+06
+Apr
+M.S. in Marketing Analytics and Insights Information Session
+Mon, Apr 06, 2026
+5:00PM
+-
+6:00PM EDT
+Online
+Admissions
+Join us to learn more about the program.
+14
+Mon, Apr 06, 2026
+5:00PM
+07
+Apr
+MBA Information Session (Online)
+Tue, Apr 07, 2026
+12:00PM
+-
+1:00PM EDT
+Online
+Admissions
+Join us to learn more about our MBA programs.
+15
+Tue, Apr 07, 2026
+12:00PM
+08
+Apr
+Accounting Information Session (Online)
+Wed, Apr 08, 2026
+12:00PM
+-
+1:00PM EDT
+Online
+Admissions
+Join us to learn more about our accounting graduate programs.
+9
+Wed, Apr 08, 2026
+12:00PM
+25
+Mar
+Master of Science in Business of Fashion Information Session (Online)
+Wed, Mar 25, 2026
+6:00PM
+-
+7:00PM EDT
+Online
+Admissions
+Are you ready to start an innovative Master's program at Rutgers Business School?
+3
+Thu, Apr 09, 2026
+6:00PM
+09
+Apr
+Master of Quantitative Finance Information Session (Online)
+Thu, Apr 09, 2026
+8:00PM
+-
+9:00PM EDT
+Online
+Admissions
+Join us to learn more about the program.
+10
+Thu, Apr 09, 2026
+8:00PM
+10
+Apr
+M.S. in Digital Marketing Information Session
+Fri, Apr 10, 2026
+12:00PM
+-
+1:00PM EDT
+Online
+Admissions
+Join us to learn more about the program.
+3
+Fri, Apr 10, 2026
+12:00PM
+07
+Apr
+MBA Information Session (Online)
+Tue, Apr 07, 2026
+12:00PM
+-
+1:00PM EDT
+Online
+Admissions
+Join us to learn more about our MBA programs.
+16
+Mon, Apr 13, 2026
+12:00PM
+27
+Mar
+Master of Financial Analysis Information Session
+Fri, Mar 27, 2026
+8:00AM
+-
+9:00AM EDT
+Online
+Admissions
+Join us to learn more about the program.
+3
+Tue, Apr 14, 2026
+7:00PM
+01
+Apr
+M.S. in Supply Chain Management Information Session
+Wed, Apr 01, 2026
+5:30PM
+-
+6:30PM EDT
+Online
+Admissions
+Please join us for a presentation on the program plus question and answer session with the program director and/or coordinator.
+8
+Wed, Apr 15, 2026
+5:30PM
+16
+Apr
+Rutgers Stackable Business Innovation (rSBI) Information Session
+Thu, Apr 16, 2026
+12:00PM
+-
+1:00PM EDT
+Online
+Admissions
+Upskill your knowledge. The rSBI program provides stackable graduate-level classes of your choosing to gain relevant business knowledge and skills.
+10
+Thu, Apr 16, 2026
+12:00PM
+Show More
+
+========================================================================
+## myrbs_community_events
+URL: https://myrbs.business.rutgers.edu/events
+Description: myRBS community events
+
+Title: Rutgers Business School Events
+
+Rutgers Business School Events
+Events
+Select Date
+Select Date
+Filter
+Filter results
+Close filter
+Hide recurring events
+Layout small
+Layout medium
+Layout big
+Sort by
+Date
+Name
+Popularity
+When
+Experience
+All Experiences
+In-Person
+Virtual
+Event Types
+Seminar (4)
+Conference (0)
+Event (0)
+Meeting (0)
+Training & Workshops (0)
+Topics
+Management & Global Business (4)
+Accounting (0)
+Accounting & Information Systems (0)
+Analytics (0)
+Artificial Intelligence (0)
+Entrepreneurship (0)
+Fashion (0)
+Finance (0)
+Finance & Economics (0)
+Global Business (0)
+Healthcare (0)
+Information Technology (0)
+Management (0)
+Management Science & Information Systems (0)
+Marketing (0)
+Real Estate (0)
+Strategy & Leadership (0)
+Supply Chain (0)
+Supply Chain Management (0)
+Audience
+Doctoral Students (4)
+Faculty (4)
+Alumni (0)
+Graduate Students (0)
+Public (0)
+Staff (0)
+Undergraduate Students (0)
+Subscribe to Displayed Results
+Save to Google Calendar
+Save to iCal
+Save to Outlook
+Save to RSS
+Cancel
+Apply filters
+More Options
+Calendar Resources
+Close
+Explore
+All Events
+Places to Go
+Departments
+Student Career Events
+Events by Department
+Events by Departments
+Accounting & Information
+                            Systems
+Finance
+                            & Economics
+Management & Global Business
+Management Science &
+                            Information Systems
+Marketing
+Supply Chain Management
+Share Events
+Submit your own event using our simple
+event submission form
+. It only takes a minute!
+Embed events anywhere on the web with our
+Widget builder
+.
+Get a personalized list of events in your inbox with our
+Digest emailer
+.
+Upcoming
+Calendar View
+Management & Global Business Spring 2026 Seminar
+Wed, Mar 25 11:45am to 1:45pm EDT
+1 Washington Park, 1027
+Seminar
+I'm Interested
+Share Management & Global Business Spring 2026 Seminar
+Share Management & Global Business Spring 2026 Seminar on Facebook
+Share Management & Global Business Spring 2026 Seminar on X
+Share Management & Global Business Spring 2026 Seminar on LinkedIn
+Management & Global Business Spring 2026 Seminar
+Wed, Apr 1 11:45am to 1:45pm EDT
+1 Washington Park, 1027
+Seminar
+I'm Interested
+Share Management & Global Business Spring 2026 Seminar
+Share Management & Global Business Spring 2026 Seminar on Facebook
+Share Management & Global Business Spring 2026 Seminar on X
+Share Management & Global Business Spring 2026 Seminar on LinkedIn
+Management & Global Business Spring 2026 Seminar
+Wed, Apr 15 11:45am to 1:45pm EDT
+1 Washington Park, 1027
+Seminar
+I'm Interested
+Share Management & Global Business Spring 2026 Seminar
+Share Management & Global Business Spring 2026 Seminar on Facebook
+Share Management & Global Business Spring 2026 Seminar on X
+Share Management & Global Business Spring 2026 Seminar on LinkedIn
+Management & Global Business Spring 2026 Seminar
+Wed, Apr 22 11:45am to 1:45pm EDT
+1 Washington Park, 1027
+Seminar
+I'm Interested
+Share Management & Global Business Spring 2026 Seminar
+Share Management & Global Business Spring 2026 Seminar on Facebook
+Share Management & Global Business Spring 2026 Seminar on X
+Share Management & Global Business Spring 2026 Seminar on LinkedIn
+Show all events
+March 2026
+←
+→
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+1
+2
+3
+4
+11:45am EST Management & Global Business Spring 2026 Seminar
+5
+6
+7
+8
+9
+10
+11
+11:45am EDT Management & Global Business PhD Student Presentations
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+11:45am EDT Management & Global Business Spring 2026 Seminar
+26
+27
+28
+29
+30
+31
+Wednesday, March 4
+11:45am EST Management & Global Business Spring 2026 Seminar
+Wednesday, March 11
+11:45am EDT Management & Global Business PhD Student Presentations
+Wednesday, March 25
+11:45am EDT Management & Global Business Spring 2026 Seminar
+Show all events
+Student Career Events
+Planning an event?
+Share your event with our community by using our simple event submission form.
+Submit an event
+Calendar Links
+All Events
+Places to Go
+Departments
+
+========================================================================
+## full_events_calendar_by_dept
+URL: https://events.business.rutgers.edu/
+Description: Full RBS events calendar by department
+
+Title: Rutgers Business School Events
+
+Rutgers Business School Events
+Events
+Select Date
+Select Date
+Filter
+Filter results
+Close filter
+Hide recurring events
+Layout small
+Layout medium
+Layout big
+Sort by
+Date
+Name
+Popularity
+When
+Experience
+All Experiences
+In-Person
+Virtual
+Event Types
+Seminar (4)
+Conference (0)
+Event (0)
+Meeting (0)
+Training & Workshops (0)
+Topics
+Management & Global Business (4)
+Accounting (0)
+Accounting & Information Systems (0)
+Analytics (0)
+Artificial Intelligence (0)
+Entrepreneurship (0)
+Fashion (0)
+Finance (0)
+Finance & Economics (0)
+Global Business (0)
+Healthcare (0)
+Information Technology (0)
+Management (0)
+Management Science & Information Systems (0)
+Marketing (0)
+Real Estate (0)
+Strategy & Leadership (0)
+Supply Chain (0)
+Supply Chain Management (0)
+Audience
+Doctoral Students (4)
+Faculty (4)
+Alumni (0)
+Graduate Students (0)
+Public (0)
+Staff (0)
+Undergraduate Students (0)
+Subscribe to Displayed Results
+Save to Google Calendar
+Save to iCal
+Save to Outlook
+Save to RSS
+Cancel
+Apply filters
+More Options
+Calendar Resources
+Close
+Explore
+All Events
+Places to Go
+Departments
+Student Career Events
+Events by Department
+Events by Departments
+Accounting & Information
+                            Systems
+Finance
+                            & Economics
+Management & Global Business
+Management Science &
+                            Information Systems
+Marketing
+Supply Chain Management
+Share Events
+Submit your own event using our simple
+event submission form
+. It only takes a minute!
+Embed events anywhere on the web with our
+Widget builder
+.
+Get a personalized list of events in your inbox with our
+Digest emailer
+.
+Upcoming
+Calendar View
+Management & Global Business Spring 2026 Seminar
+Wed, Mar 25 11:45am to 1:45pm EDT
+1 Washington Park, 1027
+Seminar
+I'm Interested
+Share Management & Global Business Spring 2026 Seminar
+Share Management & Global Business Spring 2026 Seminar on Facebook
+Share Management & Global Business Spring 2026 Seminar on X
+Share Management & Global Business Spring 2026 Seminar on LinkedIn
+Management & Global Business Spring 2026 Seminar
+Wed, Apr 1 11:45am to 1:45pm EDT
+1 Washington Park, 1027
+Seminar
+I'm Interested
+Share Management & Global Business Spring 2026 Seminar
+Share Management & Global Business Spring 2026 Seminar on Facebook
+Share Management & Global Business Spring 2026 Seminar on X
+Share Management & Global Business Spring 2026 Seminar on LinkedIn
+Management & Global Business Spring 2026 Seminar
+Wed, Apr 15 11:45am to 1:45pm EDT
+1 Washington Park, 1027
+Seminar
+I'm Interested
+Share Management & Global Business Spring 2026 Seminar
+Share Management & Global Business Spring 2026 Seminar on Facebook
+Share Management & Global Business Spring 2026 Seminar on X
+Share Management & Global Business Spring 2026 Seminar on LinkedIn
+Management & Global Business Spring 2026 Seminar
+Wed, Apr 22 11:45am to 1:45pm EDT
+1 Washington Park, 1027
+Seminar
+I'm Interested
+Share Management & Global Business Spring 2026 Seminar
+Share Management & Global Business Spring 2026 Seminar on Facebook
+Share Management & Global Business Spring 2026 Seminar on X
+Share Management & Global Business Spring 2026 Seminar on LinkedIn
+Show all events
+March 2026
+←
+→
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+1
+2
+3
+4
+11:45am EST Management & Global Business Spring 2026 Seminar
+5
+6
+7
+8
+9
+10
+11
+11:45am EDT Management & Global Business PhD Student Presentations
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+11:45am EDT Management & Global Business Spring 2026 Seminar
+26
+27
+28
+29
+30
+31
+Wednesday, March 4
+11:45am EST Management & Global Business Spring 2026 Seminar
+Wednesday, March 11
+11:45am EDT Management & Global Business PhD Student Presentations
+Wednesday, March 25
+11:45am EDT Management & Global Business Spring 2026 Seminar
+Show all events
+Student Career Events
+Planning an event?
+Share your event with our community by using our simple event submission form.
+Submit an event
+Calendar Links
+All Events
+Places to Go
+Departments
+
+========================================================================
+## supply_chain_events
+URL: https://www.business.rutgers.edu/supply-chain-center/events
+Description: Supply Chain Center events
+
+Title: Events
+
+Events
+Center for Supply Chain Management
+Educational Programs
+The center offers several educational programs with events held throughout the year.
+SCM High School Program
+SCM Certificate Program
+Project Management Professional (PMP) Certification Program
+Lean Six Sigma Certification and Procurement Certification
+SCM Spring Career Fair
+Planned Schedule of Events
+Date
+Event
+Jan. 3 - Feb. 28
+PMP Certification
+Feb. 28
+RBS Career Fair
+Mar. 13 - May 15
+PMP Certification
+Apr. 30
+Hot Topics/TBD
+Apr. 24
+Procurement Exam
+May 1
+Lean Six-Sigma Certification
+May 29 - Jul 31
+PMP Certification
+Jun. 22 - Jul 1
+SCM High School Program
+Sept. 4 - Nov.6
+PMP Certification
+Oct. 15
+Hot Topics- TBD
+Oct TBA
+Fall Career Expo
+
+========================================================================
+## mba_club_events
+URL: https://myrbs.business.rutgers.edu/mba/club-events
+Description: MBA club events
+
+[ERROR] HTTP 403
+
+========================================================================
+## ug_career_events
+URL: https://myrbs.business.rutgers.edu/office-career-management/undergraduate/events
+Description: Undergraduate career management events
+
+Title: Undergraduate Events
+
+Join the Undergraduate Office of Career Management at our Professional Development Events!
+The Office of Career Management is always exploring new ways to help students meet their professional goals. Be sure to constantly check our calendar of events, social media,
+CareerKnight
+, and yourREAL app for weekly webinars, virtual networking opportunities, student club events, and resources available for students.
+We strive to provide you with the best tools to successfully reach your career goals. Don’t miss out on these events and opportunities!
+For more information, please click
+here
+.

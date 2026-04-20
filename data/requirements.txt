@@ -1,0 +1,823 @@
+# Category: requirements
+# Generated (UTC): 2026-03-22T03:00:36.534380+00:00
+
+========================================================================
+## nb_undergrad_catalog_2425_home
+URL: https://catalogs.rutgers.edu/generated/nb-ug_2425/
+Description: New Brunswick undergraduate catalog 2024-25 home
+
+Title: Catalog Navigator : New Brunswick Undergraduate Catalog 2024-2025
+
+Search Rutgers–New Brunswick Undergraduate  Catalog
+
+========================================================================
+## nb_catalog_majors_minors
+URL: https://newbrunswick-undergrad-25-26.catalogs.rutgers.edu/pages/k7UMe5VjZryidQzLHNrr
+Description: NB catalog majors and minors listing 2025-26
+
+Title: Rutgers University
+
+Navigated to Programs of Study: Majors and Minors (RBS-NB).
+PROGRAMS OF STUDY: MAJORS AND MINORS
+The business studies program is only part of the student's academic program. Students will complement their professional education with coursework in the humanities, mathematics, natural sciences, and social and behavioral sciences. In order to design an integrated academic program, full-time students should plan their program over four years. During the first three semesters, the student should formulate a schedule that is comprised of the five foundational courses and liberal arts core curriculum requirements. During the remaining five semesters, the schedule focuses on completing the remaining credits required of the business major. Students should also plan to take additional general elective credits to ensure that their total degree credits equals 120, the number of credits needed for the bachelor of science degree. Business majors should consult with a Rutgers Business School: Undergraduate-New Brunswick advisor when they are planning their academic program.
+The following are the five foundational courses that students should complete during their first three (four at most) semesters:
+Foundational Courses (16 credits)
+01:198:170  Computer Applications for Business (3)
+01:220:102  Introduction to Microeconomics (3)
+01:220:103  Introduction to Macroeconomics (3)
+01:640:135  Calculus I (4)
+01:960:285  Introductory Statistics for Business (3)
+Liberal Arts Core Curriculum Requirements (minimum 27 credits)
+In addition to the five eligibility courses and courses that are required for the major, all Rutgers Business School: Undergraduate-New Brunswick students must complete the following liberal arts
+core curriculum
+requirements:
+1) Contemporary Challenges (two courses)
+2) Areas of Inquiry (six courses)
+3) Cognitive Skills and Processes (five courses).
+All courses must be at least 3 credits and must be taken for degree credit. Pass/no credit courses may not be used to fulfill these requirements. Students should see
+Degree Navigator
+for specific courses and conditions.
+Major Requirements (60-63 credits)
+The major requirements for Rutgers Business School: Undergraduate-New Brunswick programs of study can be divided into two parts: business core course requirements that all students must complete regardless of their choice of major program (accounting, business analytics and information technology, finance, leadership and management, marketing, or supply chain management), and a combination of required and elective courses that students take according to their choice of major. Students must complete the requirements of the major that are in effect at the time of their admission into the major. All core courses and required courses specific to the major must be completed with a grade of C or better.
+010 Accounting Major
+136 Business Analytics Concentration
+390 Finance Major
+605 Leadership and Management Major
+630 Marketing Major
+799 Supply Chain Management Major
+135 Business Administration Minor
+382 Entrepreneurship Minor
+
+========================================================================
+## finance_major_nb
+URL: https://www.business.rutgers.edu/undergraduate-newark/finance
+Description: Finance major requirements (Newark)
+
+Title: Finance Major
+
+Finance Major
+Undergraduate Program in Newark
+Play Video
+There are two tracks for students who wish to major in finance:
+Financial Management and Capital Markets
+Real Estate
+The requirements for each track are different although there is some overlap.
+*Previously there were three tracks available but the Financial Planning track has been suspended for the time being. Currently only the two tracks listed above are available.
+Financial Management and Capital Markets track
+The Finance sector is comprised of establishments primarily engaged in financial transactions, which involve the creation, liquidation, or change in ownership of financial assets. Almost every firm, government agency, and other type of organization employ one or more financial managers. Working in offices often close to top managers and with departments that develop the financial data those managers need, financial managers typically have direct access to state-of-the-art computer systems and information services. Our finance graduates secure careers ranging from managing finances for startups to working in the biggest, most prestigious financial firms on Wall Street. Students must be Finance and/or Accounting majors to complete the program.
+Career Paths
+Financial managers generally oversee the preparation of financial reports, direct investment activities, and implement cash management strategies. Managers also develop and implement the strategies for the long - term goals of their organization. A bachelor’s degree in finance, accounting, economics, or business administration is the minimum academic preparation for financial managers. This track academic programs develops analytical skills and teaches financial analysis methods and technology.
+The duties of financial managers vary with their specific titles, which include: equity/bond analyst or trader, investment banker, controller, treasurer or finance officer, credit manager, cash manager, risk and insurance manager, compliance officer, operations manager and international banking supervisor. Candidates for financial management positions need many different skills. Interpersonal skills are key because these jobs involve managing people and working as part of a team to solve problems. Financial managers must also have excellent communication skills in order to explain complex financial data and their interactions. Because financial managers work extensively with various departments in their firm, a broad understanding of business is also essential.
+Financial managers should be creative thinkers and problem-solvers, applying their analytical skills to business. They must have knowledge of international finance as financial operations are increasingly being affected by the global economy. In addition, a good knowledge of regulatory compliance procedures is essential.
+Rutgers Business School provides students with the skills and industry connections they need to get jobs in the most prominent financial institutions in New York City and beyond. With easy access to the city from either campus, internships, networking events, and alumni connections on Wall Street are minutes away, and provide valuable experiences for our students.
+Career Advice
+Watch: Lisa Hornby, RU ’07, offers tips on getting noticed as a reliable professional that opens up paths forward in your career.
+Sample Occupations
+Securities Trader
+Financial Analyst
+Project Manager
+Financial Economist
+Claim Adjuster/Examiner
+Market Research Analyst
+Underwriter
+External Auditor
+Where Graduates are Working
+Credit Suisse
+Ally Bank
+J.P. Morgan Chase
+Northwestern Mutual Financial Services
+John Hancock Financial
+State Farm Insurance Companies
+Bank of New York Mellon
+Schering – Plough
+Compensation
+According to the 2012 U.S. Bureau of Labor Occupational Outlook Handbook, bachelor’s degree candidates in finance received offers with a median salary of $76,950.
+How to Apply
+Learn more about the admissions process
+Curriculum
+In addition to the RBS Core Courses, students must take at least 24 major credits, including 12 credits of the required courses and at least 12 credits of electives.
+RBS Core Courses (42 Credits)
+Course
+Credits
+Notes and Prerequisites
+29:010:203 Financial Accounting
+3
+29:010:204 Managerial Accounting
+3
+Prereq: 29:010:203
+29:011:301 Foundations for Your Career Journey
+1
+29:011:302 Building Your Brand
+1
+Prereq: 29:011:301
+29:011:303 Conquering Your Transition
+1
+Prereq: 29:011:302
+29:623:220 Management Information Systems
+3
+29:623:340 Business Research Methods
+3
+MIS and Statistics
+29:623:311 Production & Operations Management
+3
+MIS and Statistics
+29:522:334 Ethics in Business OR 29:010:319 Business Law
+3
+Prereqs: 355:102, 220:101&102 & 29:010:204
+29:390:329 Finance*
+3
+Prereqs: All Business Foundations Courses Including Calculus
+29:620:301 Intro to Management
+3
+29:620:302 Management Skills
+3
+29:620:368 International Business
+3
+Prereq: 29:620:301
+29:630:301 Intro. to Marketing
+3
+29:799:301 Intro. to Supply Chain Management
+3
+29:620:492 Business Policy and Strategy
+3
+Prereqs: Finance, Marketing, Management, Supply Chain Management, and 86+ Earned Credits.
+Credit Total
+42
+Finance [29:390:329] *RBS 24/7™
+Financial concepts and methods of analysis. The time value of money and its relation to such concepts as net present value and internal rate of return; principles of valuation and financial markets. The use of capital budgeting, management of cash flow, and working capital management.
+Prerequisites: 21:220:102, 21:220:231, 21:355:101
+*
+RBS 24/7™
+designates that this is a synchronous class, where the content is video streamed live and recorded, so that it is available for asynchronous viewing anytime (24/7). In addition,
+RBS 24/7™
+classes offer access to a virtual helpdesk that offers extended, supplemental learning support. Contact the
+finance and economics
+department to learn more.
+Required (12 credits)
+Financial Econometrics
+All finance majors must take Financial Econometrics. Economics majors who are also finance majors may use Introduction to Econometrics (21:220:322).
+Investments [29:390:315]
+Introduction and analysis of the dimensions of risk and return. Portfolio theory and its application in the management and performance evaluation of investment portfolios. Equilibrium theories of risk and return-capital asset pricing model and the arbitrage pricing model. Interest rate theory, yield curve, linkage between short-term and long-term rates, credit risk, and interest rate risk. Analysis of individual securities: money market securities, bonds and mortgage-backed securities, common and preferred stocks, and derivatives-futures and options.
+Prerequisite: 29:390:329
+Corporate Finance [29:390:330]
+Issues relating to the financing of capital investments. How financial risk affects the cost of capital and helps determine the capital structure of the corporation. Interactions between investment and financing decisions. The uses of various securities to finance an investment, as well as methods such as lease financing.
+Prerequisites: 29:390:329, 21:355:102, 21:220:101
+Financial Institutions and Markets [29:390:370]
+Detailed overview of the theory and institutional features of the U.S. financial system; comprehensive review of the U.S. financial markets.
+Prerequisite: 29:320:329
+Electives (12 credits)
+Students have the option to choose any combination of the following electives.
+Ethics in Finance [29:390:331]
+This course addresses the ethical dilemmas and conflicts of interest faced in banking, corporate finance, and financial investing. Course materials and discussions address important issues such as fiduciary duties, insider trading, financial reporting, derivative trading, customer deception, churning, bankruptcy, tax evasion, bank lending practices, and the influence of compensation schemes. Throughout the course, frameworks and decision-making tools will be introduced to guide in-class analyses and help individuals manage ethical dilemmas in their own workplaces.
+Prerequisite: 29:390:329
+Financial Statements and Security Analysis [29:390:340]
+Techniques for examining and interpreting financial statements to support business and investment decisions. The viewpoints of short-term creditors, long-term lenders, equity investors, and internal management used as the focus of the analysis. Topics include ratio analysis, cash flow forecasting, and security valuation.
+Prerequisites: 29:390:315, 29:390:329
+International Financial Management [29:390:375]
+Provides a comprehensive review of the international financial markets. Covers a survey of the organization of the international financial markets and institutions, such as the international banking system, equity, and bond markets. The course provides the theoretical underpinnings as to how the structure of the international capital markets impacts the price of financial securities and exchange rates.
+Prerequisite: 29:390:329
+Futures and Options [29:390:386]
+Introduction to derivatives-futures and options contracts on commodities, interest rates, and equities. Historical development, institutional features, and economic functions of the futures and options markets. Pricing of the contracts. Understanding the role of expectations, arbitrage, and the relationship to their cash market counterparts. Analyzing risk exposures and exploring the hedging and speculative potential of the markets. Implementing and evaluating hedges in commodity, interest rate, and equity markets.
+Prerequisite: 29:390:329
+Treasury Management [29:390:440]
+This elective course introduces how a Corporate Treasurer manages the finances of a business along with supporting the supply chain component of a business through various supply chain finance concepts. The course will take an in-depth look at firm’s working capital, domestic and international cash management, financial risk, receivables/payables and inventory, debt and investment, capital structure, cash forecasting, technology in the treasury area, and ethical issues. There will be case studies reviewed in the class that discuss the use of various treasury techniques. The various subjects taught in this class will be taught by a Treasury Practitioner who has extensive experience in all the various topics. For all the topics discussed the students will be provided actual business experiences that provide a clear understanding of the material.
+Prerequisite: 29:390:329 (Finance)
+Advanced Corporate Finance [29:390:450]
+Complex corporate securities, such as callable and convertible debt or adjustable rate preferred stock, option theory, corporate insurance, and hedging.
+Analysis of Fixed Income [29:390:468]
+Explores the investment characteristics, pricing, and risk/reward potential of fixed-income securities. The securities covered include bonds--with and without embedded options; mortgages and mortgage-backed securities together with their derivatives such as collateralized mortgage obligations (CMOs), income-only (IOs) and principal-only (POs) strips; interest rate swaps; and interest rate futures and option contracts. In addition, this course will explore the strategies for investing in portfolios of fixed-income securities.
+Prerequisites: 29:390:315, 29:390:329
+Security Analysis [29:390:470]
+This course equips students with the skills and knowledge needed to analyze securities based on the foundations of value investing, which were first taught by Benjamin Graham and David Dodd, and later proven by Warren Buffett's enormous success.
+Prerequisite: 29:390:329
+Real Estate Capital Markets [29:390:476]
+Real Estate Capital Markets focuses on debt and equity issues in secondary markets that derive their value from real assets. The course includes an overview of the US mortgage finance system, agency and non-agency residential mortgage-backed securities, structured mortgage products such as collateralized mortgage obligations, collateralized debt obligations and stripped securities, commercial mortgage-backed securities, Real Estate Investment Trusts and limited partnerships. Coursework involves basic fixed-income mathematics and cash flow modeling in Excel.
+Prerequisites: 29:390:480
+Real Estate Finance [29:390:480]
+This course provides the background and tools necessary to analyze value, risk, and return in commercial property markets. The initial emphasis of the course is on mortgage finance and applications; providing an overview of mortgage structure and mechanics in both residential and commercial markets. The focus then shifts to the evaluation of investment opportunities in property markets from the perspective of an institutional investor. Students will use lease and market information to develop pro forma cash flow projections for a given property and evaluate the associated risks and returns. Extensions include tax issues, the relationship between value, returns and leverage, partnership agreements and/or real options. The course also provides extensive training and certification in ARGUS, a real estate industry-standard software package used for entering and compiling lease information.
+Prerequisites: 29:390:329 or 21:220:439
+Finance Cooperative Education [29:390:490]
+Three credits will count towards finance elective credit, and 3 credits will count toward free elective credit. Internship program for six months (January to June, or June to December) at a participating corporation. Must complete the Coop Form and consult with an RBS Career Management Specialist to receive credit. Evaluations by corporate supervisor in the participating organization and an RBS Career Management Specialist determine final grade in the course.
+Prerequisites: 29:010:204, 29:390:329, 29:620:300, 29:630:301, and junior standing
+Pension Fund Management [29:390:494]
+The course describes and analyzes the different retirement vehicles provided by business for employees. In particular, the course describes and analyzes in details the major differences in defined benefit and defined contribution plans, including the tax aspects.  Topics also include paths for personal retirements.
+Prerequisites: 29:390:315, 29:390:329
+Special Topics in Investment Banking [29:390:495]
+Examines the role of investment banker as a financial intermediary, in the areas of financing, issuance of securities, and merger and acquisitions. The course will also cover the art of negotiations and new financial developments. The class is separated into groups for casework. The main purpose of the cases is for the student to learn how to apply theoretical financial concepts to real problems corporations have faced.
+Prerequisites: 29:390:315, 29:390:329
+Finance Internship (BA) [29:390:496]
+On-site finance position in a corporate or not-for-profit organization.  By arrangement with the Career Development Center and a RBS Career Management Specialist.
+Prerequisites: 29:010:204, 29:390:329, 29:620:300, 29:630:301, and junior standing
+Independent Research in Finance [29:390:498]
+Individual research and reading program under the guidance of a member of the department. Prerequisites: Permission of instructor and department chair or dean's office, and senior status.
+Notes: The prerequisite course for Treasury Management (29:390:440) is Finance (29:390:329)
+Real Estate Track
+The undergraduate Finance major with an emphasis in Real Estate in the Rutgers Business School on the Newark campus offers a curriculum balanced between theory and practice, providing students with the concepts and skills that are key to establishing a successful career in real estate. This new program allows students to acquire a rigorous education and expertise in real estate. Students completing the track will receive an undergraduate degree in Finance.
+This new track is designed for students with a specific interest in real estate and real estate related assets; providing training in the development, investment, financing and management of real estate projects. While the basic concepts and tools used to assess value and risk in real estate markets are identical to those used in the broader financial markets, investment in property markets requires evaluation of assets that are heterogeneous and where transactions are negotiated on an asset-by-asset basis rather than traded on exchanges. Furthermore, activity in real estate markets is characterized by entrepreneurial activities such as development, property management and asset management, which are not typically required when investing in more standardized financial products.
+The track consists of seven courses. Four courses, Real Estate Finance, Real Estate Law, Development and Investments, form the track prerequisites. Students then choose three electives from four additional courses, Real Estate Capital Markets, Market Analysis, Feasibility and Valuation, Real Estate Management, and Analysis of Fixed Income Securities. The set of electives will expand in the future if there is sufficient student demand for the program.
+The principal method of teaching employed in the core courses is a lecture-based format supplemented with case studies. More advanced coursework will emphasize case studies and project work and will include extensive exposure to the real estate industry through guest speakers.
+Career opportunities in commercial real estate
+The real estate industry offers a wide variety of career paths in a range of commercial sectors – Investment Analyst, Asset Management, Development, Corporate Real Estate Management, Commercial and Residential Brokerage, Appraisal, Commercial and Investment Banking, Property Management and Mortgage Brokerage.
+Curriculum
+The concentration track consists of 7 courses (21 credits) in addition to satisfaction of the core undergraduate business requirements.
+Preliminary RBS core requirement:
+Course number
+Title
+Credits
+29:390:329
+Finance
+3
+Real Estate track prerequisites (12 credits):
+Course number
+Title
+Credits
+29:390:315
+Investments
+3
+29:851:350
+Real Estate Law
+3
+29:390:480
+Real Estate Finance
+3
+29:851:432
+Development
+3
+Real Estate track electives (9 credits, choose 3):
+Course number
+Title
+Credits
+29:390:476
+Real Estate Capital Markets
+3
+29:851:460
+Property Management and Real Estate Investment Management
+3
+29:851:430
+Market Analysis, Feasibility and Valuation
+3
+29:390:468
+Analysis of Fixed Income Securities
+3
+Suggested course sequence
+Year
+Semester
+Course number
+Title
+Sophomore
+Spring semester
+29:390:315
+29:851:350
+Investments
+Real Estate Law
+Junior
+Fall semester
+29:390:480
+Real Estate Finance
+Spring semester
+29:851:460
+Property Management and Real Estate Investment Management
+Senior
+Fall semester
+29:851:432 or 29:390:468
+29:851:430
+Development or Analysis of Fixed Income Securities
+Market Analysis, Feasibility and Valuation
+Spring semester
+29:390:476
+Real Estate Capital Markets
+The Rutgers Center for Real Estate
+Students enrolled in the Real Estate track will have unparalleled access to industry leaders through the newly created
+Center for Real Estate Studies
+. The Center is supported by a 90+ member advisory board consisting of the most influential and innovative real estate firms in the New York/New Jersey metropolitan area. Board members will serve as guest speakers, mentor students and hire Rutgers graduates. Members of the Advisory Board include CEOs and senior executives at Prudential Real Estate Investors, Canoe Brook Management, Hampshire Real Estate, Jacobs Development, Paul V. Profeta and Associates, AvalonBay Communities, CBRE, Cushman & Wakefield, Prologis and many other top-tier firms. The Center will also provide mentoring, internships and career opportunities in the real estate profession.
+Visit
+Contact Us
+Apply
+
+========================================================================
+## supply_chain_major_nb
+URL: https://www.business.rutgers.edu/undergraduate-new-brunswick/supply-chain-management
+Description: Supply Chain Management major (New Brunswick)
+
+Title: Supply Chain Management Major
+
+Supply Chain Management Major
+Undergraduate Program in New Brunswick
+Play Video
+Supply Chain Management Major at Rutgers Business School- New Brunswick
+The Field
+Supply Chain Management is how business gets done. Supply chain management spans all movement and storage of raw materials, work-in-process inventory, and finished goods from point-of-origin to point-of-consumption. According to the Bureau of Labor Statistics, Supply Chain Management is projected to be one of the fastest growing industries in recent years. [Read Poets & Quants article about "
+Why Supply Chain Management Has Become A Hot Major At Business Schools,
+" featuring Rutgers Business School.]
+Countless firms rely on new technologies and the coordination of processes to expedite the distribution of goods. The use of computers to analyze work routines in order to optimize the use of available labor has led to increases in productivity. Modern systems development and related processes have created an entirely new set of integrated operations management functions, which require managers of supply chains, resource managers of material or manufacturing resources planning (MRP), and process and inventory control managers.
+The Supply Chain Management undergraduate major offers students the comprehensive knowledge and technological skills they need in order to ensure employment in leading supply chain management roles. The requisite knowledge and skill sets extend overall supply chain echelons and functional areas: strategic sourcing, global procurement, contract management, business performance improvement, supply chain technologies, and six sigma, pricing analysis, channel coordination, brand management, new product development, supply chain alignment, retail management, and distribution management.
+Upon graduation, graduates will have the ability to re-engineer the business processes involving multiple firms and different functional departments to achieve a higher level of business performance and profitability.
+Hear from Professor and Director of the SCM Undergraduate Program, William McLaury, about why you should consider majoring in Supply Chain Management.
+Watch Video
+Key Facts
+Rutgers Business School Supply Chain Management undergraduate program is ranked 5th in North America (Gartner, 2024)
+Over 87% of graduating seniors are placed within 6 months of graduation with 82% placed at or before graduation
+The average starting salary for a Rutgers Supply Chain Undergraduate is $70,000
+25% of SCM graduates are double majors
+Career Paths
+The new generation of business school graduates who are competent and well-prepared, with solid knowledge in both supply chain management and marketing/sales management, are in high demand across all industries. Supply Chain Management students are prepared for positions such as procurement/sourcing manager, logistics planner, supply management analyst, acquisition project analyst, marketing analyst, and sales/distribution managers. Industries such as pharmaceutical and healthcare companies are investing heavily in creating and supporting supply chains that achieve new heights of efficiency and productivity.
+Rutgers Business School students graduate from the SCM program with a strong business foundation and are well prepared to enter the job market.
+Sample Occupations
+Buyer/Senior Buyer
+Demand Manager
+Materials Analyst
+Procurement Manager
+Purchasing Agent/Analyst
+Senior Procurement Specialist
+Supplier Relationship Manager
+Vice President, Supply Chain Management
+Compensation
+According to the 2020 U.S. Bureau of Labor Occupational Outlook Handbook, supply chain professionals with a bachelor’s degree earned a median salary of $74,750 (May 2019).
+How to Apply
+Learn more about the admissions process
+(PDF) Supply Chain Management Major factsheet
+Undergraduate Major in Supply Chain Management in New Brunswick
+RBS Core Courses
+Business Core
+Course
+Credits
+Notes and Prerequisites
+33:010:272 Intro. To Financial Accounting
+3
+33:010:275 Intro. to Managerial Accounting
+3
+pre-req: 33:010:272
+33:011:301 Foundations for Your Career Journey
+1
+33:011:302 Building Your Brand
+1
+pre-req: 33:011:301
+33:011:303 Conquering Your Transition
+1
+pre-req: 33:011:302
+33:136:370 Management Information Systems
+OR
+33:010:458 Accounting Information Systems
+3
+pre-req: 01:198:170
+33:010:458 required if double majoring in Accounting, pre-req for 33:010:458 is 33:010:272 and 01:198:170
+33:136:385 Statistical Methods in Business
+3
+pre-reqs: 01:640:135* and 01:960:285
+33:136:386 Operations Management
+3
+pre-req: 01:640:135*
+33:140:320 Business Law I
+OR
+33:522:334 Business Ethics
+3
+pre-reqs: 01:220:102, 01:220:103, and 33:010:272
+33:140:320 required if double majoring in Accounting
+33:390:300 Financial Management
+3
+pre-reqs: 01:960:285, 01:220:103, and 33:010:272
+33:620:301 Intro to Management
+3
+33:620:302 Management Skills
+3
+33:620:492 Business Policy and Strategy
+3
+pre-reqs: 33:390:300, 33:620:301, 33:630:301; senior year only
+33:630:301 Intro. to Marketing
+3
+33:799:301 Intro. to Supply Chain Management
+3
+Credit Total
+39
+*01:640:151 or 01:640:130 also acceptable as a Calc I pre-req.
+Required Courses
+Required Supply Chain Courses
+Course
+Credits
+Notes and Prerequisites
+33:799:305 Global Procurement & Sourcing Strategies
+3
+pre-req: 33:799:301
+33:799:330 Business Logistics and Transportation
+3
+pre-req: 33:799:301
+33:799:310 Demand Planning and Fulfillment
+3
+pre-req: 33:799:301
+33:799:380 Intro. to Project Management
+3
+pre-req: 33:799:301
+33:799:493 Internship in Supply Chain Management
+OR
+33:799:421 Co-op in Supply Chain Management
+OR
+33:799:420 SCM Industry Client Projects
+3
+pre-req for 33:799:493 and 33:799:421: 33:799:301; pre-reqs for 33:799:420: 33:799:305 or 33:799:330, and 33:799:380, and senior year only; Internship and Co-op by application only through the Supply Chain department
+Supply Chain elective
+3
+Supply Chain elective
+3
+Supply Chain elective
+3
+Credit Total
+24
+Elective Courses
+Course
+Credits
+Notes and Prerequisites
+33:799:430 Security & Risk Management
+3
+pre-reqs: 33:799:305 or 33:799:330
+33:799:440 Supply Chain Environmental Management / Green Purchasing
+3
+pre-req: 33:799:301
+33:799:460 Introduction to Six Sigma and Lean Manufacturing
+3
+pre-req: 33:799:301
+33:799:410 Service Management
+3
+pre-req: 33:799:301
+33:799:455 SP TPC Supply Chain Transformation in the Digital Era
+3
+pre-req: 33:779:301
+33:799:465 SP TPC Blockchain and Its Application in SCM
+3
+pre-req: 33:799:301
+33:799:498 Independent Studies in Supply Chain Management
+pre-req: 33:799:301
+33:799:450 Fundamentals of Supply Chain Management with SAP
+3
+pre-req: 33:799:301
+33:799:470 Business Intelligence for Supply Chain and Marketing
+3
+pre-req: 33:799:301
+33:799:475 Supply Chain Analytics Essentials
+3
+pre-req: 33:799:301
+33:799:491 Supply Chain Finance
+3
+pre-req: 33:799:301
+33:799:340 Special Topics: Smart Manufacturing for Global Supply Chains
+3
+pre-req 33:799:301
+33:630:370 Business to Business Marketing
+3
+pre-req: 33:630:301
+33:620:350 Negotiations
+3
+pre-req: 33:620:301
+33:630:369 New Product Planning
+3
+pre-req: 33:630:301
+33:630:368 Retail Marketing
+3
+pre-req: 33:630:301
+33:630:385 Marketing Research
+3
+pre-reqs: 33:136:385 and 33:630:301 or 33:136:385
+33:630:401 Sales Management
+3
+pre-req: 33:630:301
+New Policy on Supply Chain Electives
+For students who entered RBS-NB Fall 2024 or later, at least 2 of your 3 major electives in Supply Chain must come from the 799/Supply Chain major code.  No more than 1 major elective may come from other departments that offer a few acceptable Supply Chain electives, i.e., Marketing and Management.
+Supply Chain Management Double Major Policy
+Students who major in Supply Chain Management (799) and another business school (school 33) major double count 3 elective credits as follows:
+If you major in Supply Chain Management and Finance, you may double count 33:390:440 Treasury Management
+If Finance is dropped as a major this course
+cannot
+count as a SCM elective
+If you major in Supply Chain Management and Accounting, you may double count 33:010:451 Cost Accounting
+If Accounting is dropped as a major this course
+cannot
+count as a SCM elective
+If you major in Supply Chain Management and Marketing, you may double count 33:630:385 Marketing Research
+If Marketing is dropped this course can still count as an SCM elective
+If you major in Supply Chain Management and Leadership and Management, you may double count 33:620:350 Negotiations
+If Marketing is dropped this course can still count as an SCM elective
+If you major in Supply Chain Management and BAIT, you may double count 33:799:450 Fundamentals of Supply Chain Management with SAP
+Supply Chain Major Special Notes
+Starting in Summer 2024, 33:390:310 Financial Management for Finance majors will not be offered. All RBS students will take 33:390:300 Financial Management regardless of major. A grade of B or higher will be required in 33:390:300 to declare the finance major or finance concentration and to take any additional courses in the finance department.
+If you major in Accounting as your first, second or third major, you are required to take 33:010:458 Accounting Information System and 33:140:320 Business Law I. You will not earn credit for taking 33:136:370 Management Information System. You can earn credit towards graduation if you take 33:522:334 Business Ethics but it will not fulfill a major requirement.
+Students with more than one Business School major may only double count
+one
+RBS course between those majors.
+Students may only take
+one
+experiential learning course towards their SCM required courses from among these three categories: SCM Industry Client Projects, Internship in Supply Chain Management, and Co-op in Supply Chain Management. Co-op in Supply Chain Management and Internship in Supply Chain Management for SCM required credits are by application only through the Supply Chain department. If you choose to take Co-op in Supply Chain as your one SCM required course, you will be registered for both 799:421 (SCM Co-op) for SCM credit and 011:482 (Special Topics in Admin Studies) for general elective credit.
+Supply Chain Management Curriculum Guidesheet
+Course Descriptions/Syllabus Directory
+Supply Chain Management Department
+Visit
+Contact Us
+Apply
+
+========================================================================
+## scm_major_catalog_detail
+URL: https://newbrunswick-undergrad-25-26.catalogs.rutgers.edu/schools/rbsnb/degree-requirements/programs-majors-minors/supply-chain-management
+Description: SCM major catalog detail page
+
+Title: Rutgers University
+
+Navigated to 799 Supply Chain Management Major (RBS-NB).
+799 Supply Chain Management Major
+Major requirements for students who entered RBS
+in the fall 2025 semester:
+Business Core
+33:010:272 Introduction to Financial Accounting (3)
+33:010:275 Introduction to Managerial Accounting (3) (prerequisite: 33:010:272)
+33:011:301 Foundations for Your Career Journey (1)
+33:011:302 Building Your Brand (1) (prerequisite: 33:011:301)
+33:011:303 Conquering Your Transition (1) prerequisite: 33:011:302)
+33:136:370  Management Information Systems OR 33:010:458 Accounting Information Systems (3) (33:010:458 required if double majoring in Accounting, Prerequisite for 33:010:458: 33:010:272)
+33:136:385  Statistical Methods in Business (3)
+33:136:386  Operations Management (3)
+33:140:320  Business Law I (3) OR 33:522:334  Business Ethics (3) (33:140:320 required if double majoring in Accounting)
+33:390:300  Financial Management (3)
+33:620:301  Introduction to Management (3)
+33:620:302  Management Skills (3)
+33:620:492  Business Policy and Strategy (3) (prerequisites: 33:390:300, 33:620:301, 33:630:301, and senior year)
+33:630:301  Introduction to Marketing (3)
+33:799:301  Introduction to Supply Chain Management (3)
+Required SCM Courses
+33:799:305  Global Procurement and Sourcing Strategies (3) (prerequisite: 33:799:301)
+33:799:330  Business Logistics and Transportation (3) (prerequisite: 33:799:301)
+33:799:310  Demand Planning and Fulfillment (3) (prerequisite: 33:799:301)
+33:799:380  Introduction to Project Management (3) (prerequisite: 33:799:301)
+33:799:493  Internship in Supply Chain Management (3)** (prerequisite: 33:799:301) OR 33:799:421  Co-op in Supply Chain Management (3)** (prerequisite: 33:799:301) OR 33:799:420 SCM Industry Client Projects (3)** (prerequisites: 33:799:380 and 33:799:305 OR 33:799:330, and seniors only)
+Three Supply Chain Electives (9)**
+**
+Students may only take
+one
+experiential learning course towards their SCM required courses from among these three categories: Industry Client Projects, Internship in Supply Chain Management, and Co-op in Supply Chain Management. Co-op in Supply Chain Management and Internship in Supply Chain Management for SCM required credits are by application only through the Supply Chain department. If you choose to take Co-op in Supply Chain as your
+one
+SCM required course you will also be registered for both 799:421 (SCM Co-op) and 011:482 (Special Topics in Admin Studies) with 011:482 counting for general elective credit only. SCM students are limited to one experiential learning experience. After your
+one
+course allowed for SCM required credit, you must apply through to the Office of Career Management and you will be registered for general elective credit only.
+A grade of B or better is required to take any additional Finance department courses beyond 33:390:300 Financial Management.
+If you major in Accounting as your first, second, or third major, you are required to take 33:010:458 Accounting Information System and 33:140:320 Business Law I. You will not earn credit for taking 33:136:370 Management Information System. You can earn credit towards graduation if you take 33:522:334 Business Ethics but it will not fulfill a major requirement.
+Students with more than one Business School major may only double count one RBS course between those majors.
+
+========================================================================
+## minors_newark
+URL: https://myrbs.business.rutgers.edu/undergraduate-newark/minors
+Description: Newark minors listing
+
+Title: Minors
+
+Students who are not enrolled in a Rutgers Business School Undergraduate Program in Newark major can complete a minor in a variety of subjects.
+Accounting
+Business Administration
+Business of Fashion
+Business of Sustainability
+Entrepreneurship
+International Business
+Leadership & Communication
+Marketing
+Real Estate
+Students must meet the following criteria:
+a 2.5 grade-point average
+completed 56 degree credits
+the prerequisite courses for Finance which are: Introduction to Financial Accounting (29:010:203), Introduction to Managerial Accounting (29:010:204), Statistics (21:220:203), and Applied Calculus (21:640:119)
+Completed English Composition I and II
+Please Note: All RBS minor requirements must be completed with a C or better.
+
+========================================================================
+## business_admin_minor
+URL: https://myrbs.business.rutgers.edu/undergraduate-newark/business-administration-minor
+Description: Business Administration minor requirements
+
+Title: Business Administration Minor
+
+Rutgers students from other schools, departments, and majors can expand their education and enhance their careers by earning a Minor in Business Administration at Rutgers Business School. The minor benefits any major by giving students skills and knowledge to compete globally while broadening their appreciation for how the world works.
+The RBS Undergraduate Program created seven learning goals that shape the curriculum on the accreditation standards of the Association to Advance Collegiate Schools of Business (AACSB). Founded in 1916, AACSB International is the longest serving global accrediting body for business schools that offer undergraduate, master’s, and doctoral degrees in business and accounting. AACSB Accreditation is the hallmark of excellence in business education, and has been earned by less than five percent of the world’s business programs.
+RBS provides instruction and experiences to develop essential business skills that will enable our graduating students to pursue meaningful careers and make positive contributions to society.
+Learning Goals
+Communication Skills – effectively communicate business concepts orally and in writing.
+Business Knowledge – demonstrate knowledge of basic business concepts
+Quantitative Skills – understand, analyze, and use quantitative data to make business decisions and report to stakeholders.
+Critical Thinking Skills – critically evaluate, analyze and interpret information to solve problems and make business decisions.
+Information Technology Skills – demonstrate proficiency in the use of information technology.
+Ethics – understand and evaluate ethical issues and situations to make business decisions.
+Multicultural and Diversity – develop an awareness and understanding of the cultural issues that impact business operations in a global society.
+Advantages
+A Minor in Business Administration augments all disciplines and expands career options and professional development. Virtually any position can utilize the learning goals. Students’ earning potential increases not only from course content and employer-recognized expanded education, but also from students’ own informed analysis and decision making.
+Goals of the Minor
+To acquire an understanding of the theories, principles, and practices in the foundations of business (accounting, finance, management, marketing, supply chain management).
+To acquire the knowledge and understanding of the terminology used in business.
+How to Apply
+Students who are not enrolled in a Rutgers Business School Undergraduate Program major can minor in accounting. Students must meet the following criteria:
+2.5 grade-point average
+Completed 56 degree credits
+Prerequisites for courses they take
+Completed College Algebra and English Composition I and II
+Visit the RBS undergraduate office at 1 Washington Park, room 324 to apply
+(PDF)
+Business Administration Minor factsheet
+Path to Minor
+Rutgers Business School’s Undergraduate Program in Newark offers a minor in Business Administration to provide students with a strong foundation in the broad functional areas of business. The 24-credit minor consists of 8 three-credit introductory courses covering each of Rutgers Business School’s disciplinary areas. This combination provides a substantial and comprehensive overview of the major aspects of business administration.
+The Business Administration minor requires the successful completion of the following courses:
+Course #
+Title
+Cr
+29:010:203
+Introduction to Financial Accounting
+3
+29:220:102
+Introduction to Macro Economics
+3
+29:010:204
+Introduction to Managerial Accounting
+3
+29:630:301
+Introduction to Marketing
+3
+29:620:301
+Introduction to Management
+3
+21:220:203/21:640:211
+Statistics OR Statistics I
+3
+At least one of the following courses:
+Course #
+Title
+Cr
+29:220:101
+Introduction to Micro Economics
+3
+29:623:220
+Management Information Systems
+3
+and at least one of the following courses:
+Course #
+Title
+Cr
+29:390:203
+Introduction to Finance*
+3
+29:390:329
+Finance**
+3
+*Intro to Finance (29:390:203) may NOT be used for any RBS major; Students planning to do a school-to-school transfer into RBS should NOT take this course.
+**The prerequisite courses for Finance (29:390:329) are:
+21:640:211 Statistics I
+21:640:119 Applied Calculus
+29:010:203 Financial Accounting,
+29:010:204 Managerial Accounting,
+21:220:101 Microeconomics
+21:220:102 Macroeconomics
+
+========================================================================
+## newark_school_curriculum
+URL: https://myrbs.business.rutgers.edu/undergraduate-newark/school-curriculum
+Description: Newark school curriculum overview
+
+Title: School Curriculum
+
+Students interested in earning a Bachelor of Science (BS) degree from the Rutgers Business School (RBS) Undergraduate Program in Newark must complete a minimum of 120 credits. The curriculum consists of four areas:
+School of Arts and Sciences Core Curriculum
+Business Foundations Courses
+Business Core Courses
+Major Courses
+Students also have the option of completing a minor or additional major(s) or other curricular concentrations if they so choose. There are a variety of options for students interested in completing a second concentration as follows:
+A second concentration within the School of Arts and Science - Newark (SASN)* which consists of:
+an
+SASN major & minor
+the
+Honors College program
+; or
+a bachelor's-master's dual degree program
+A second
+major or concentration
+within the Rutgers Business School
+A second major or minor within the
+School of Public Affairs and Administration
+or the
+School of Criminal Justice
+Completion of a second concentration should be strongly considered for students wanting multidisciplinary and interdisciplinary expertise to enhance their credentials; for example:
+Spanish or Portuguese for someone who plans to work in international business
+Economics for a finance major
+Psychology for a marketing major
+or perhaps a second area in which one would want to follow their passion (political science, gender studies, film studies, etc.)
+*Students completing a second concentration within SASN will receive a Joint Degree from both RBS and SASN. In all cases, students should consult with their advisor to see if or which option may be a good fit for their own career path.
+School of Arts and Science-Newark Core Curriculum
+(School 21)
+Students in the Rutgers Business School Undergraduate Program in Newark are required to complete the
+School of Arts and Sciences Core Curriculum Requirements
+. The requirements are:
+Core Curriculum (38 Credits)
+Basic Writing Skills (6 Credits)
+Quantitative Reasoning (3 credits)
+Natural Sciences (8 Credits)
+Social Sciences (6 credits)
+History and Literature  (9 credits)
+Arts and Media (3 credits)
+Other Liberal Arts (3 credits)
+Business Foundations Courses
+Students in the Rutgers Business School Undergraduate Program in Newark are required to complete the Business Foundations Courses. The requirements are:
+21:220:101 Micro-Economics
+21:220:102 Macro-Economics
+21:220:203 Statistics*
+or 21:640:211 Statistics I
+21:640:119 Applied Calculus
+or 21:640:135 Calculus I
+21:355:101 English Composition I
+21:355:102 English Composition II
+*Statistics 21:220:203 was formally Statistics 21:220:231. If you took 21:220:231 and successfully passed,  you will not need to repeat Statistics
+Business Core Courses
+Fixed Core
+Students in the Rutgers Business School Undergraduate Program in Newark are required to complete the Business Core Courses. The requirements are:
+29:010:203 Financial Accounting
+29:011:301 Foundations for Your Career Journey*
+29:011:302 Building Your Brand*
+29:011:303 Conquering Your Transition*
+29:390:329 Finance
+29:620:301 Intro to Management
+29:620:302 Management Skills
+29:620:368 International Business
+29:620:418 Business Policy and Strategy
+29:623:220 MIS
+29:623:340 Business Research Methods
+29:630:301 Marketing
+29:799:301 Intro to Supply Chain
+*
+Students in Online Marketing and SCM Programs may take 29:011:300 Business Forum to satisfy the professional development requirements
+Flexible Core
+Students choose one course from each category:
+Society and Governance
+29:522:334 Business Ethics OR 29:010:319 Business Law I^
+Quantitative Analysis
+29:010:204 Managerial Accounting OR 29:623:311 Business Operations Analytics*
+^ Accounting Majors must take Business Law and Managerial Accounting to satisfy major requirements
+*MIS Majors must take Business Operations Analytics to satisfy major requirements
+Major Courses
+Accounting Major
+Finance Major
+Leadership and Management Major
+Management Information Systems Major
+Marketing Major
+Supply Chain Management Major
+
+========================================================================
+## nb_policies_procedures
+URL: https://myrbs.business.rutgers.edu/undergraduate-new-brunswick/policies-procedures
+Description: New Brunswick undergraduate policies and procedures
+
+Title: Policies and Procedures
+
+Double-Majoring
+Students enrolled in RBS-NB may declare
+most
+majors at the School of Arts & Sciences (SAS) or the School of Environmental & Biological Sciences (SEBS) as a second major (one exception is the SEBS major in Environmental & Business Economics, which is not permitted).  However, as per long-standing Rutgers-NB policy, students may NOT double-major between the professional schools, because you must be an enrolled student in that school, to select one of their majors.  Business School-NB students may not double- major in fields in the following professional schools:  School of Engineering, School of Pharmacy, School of Nursing, and Mason Gross School of the Arts (Bachelor of Fine Arts degrees).
+Bachelor of Arts degrees are offered in certain Mason Gross departments, such as Art, Music, and Theater Arts.  RBS-NB students may double-major in these BA degree programs offered by Mason Gross, but not the BFA degree programs.
+
+========================================================================
+## graduate_programs_catalog
+URL: https://catalogs.rutgers.edu/generated/rbs_current/
+Description: RBS graduate programs catalog (current)
+
+Title: Rutgers University
+
+Home
+Rutgers Catalog: New Brunswick Graduate
+2025–2026
+Use the Academic Guide to find amazing classes, explore degree programs, and discover academic passions. Start your journey here.
+TEST1
+TEST2
+Important Notice:
+The university reserves the right, for any reason, to cancel or modify any course or program listed in the catalogs. In addition, individual course offerings and programs may vary from year to year.  To ensure accuracy and validity of catalog information, only access the catalog through this website (catalogs.rutgers.edu).  All other catalog content accessed outside of this site is not considered reliable.
+Rutgers–Camden Undergraduate
+See the Camden Undergraduate Catalog
+Rutgers–Camden Graduate
+See the Camden Graduate Catalog
+Rutgers–Newark Undergraduate
+See the Newark Undergraduate Catalog
+Rutgers–Newark Graduate
+See the Newark Graduate Catalog
+Rutgers–New Brunswick Undergraduate
+See the New Brunswick Undergraduate Catalog
+Rutgers–New Brunswick Graduate
+See the New Brunswick Graduate Catalog
+Rutgers–Health
+See the Rutgers–Health Catalog
+Rutgers–Business School
+See the Rutgers–Business School Catalog
+Rutgers–Law
+See the Rutgers–Law Catalog
+To view the Rutgers course catalog for years prior to the 2025–2026 Academic Year, please use the accompanying links.
+Camden Archive
+Newark Archive
+New Brunswick Archive
+Rutgers Health Archive
+Business School Archive
+
+========================================================================
+## scm_major_myrbs
+URL: https://myrbs.business.rutgers.edu/undergraduate-new-brunswick/supply-chain-management-major
+Description: SCM major page on myRBS
+
+Title: Supply Chain Management Major
+
+Supply Chain Management Curriculum Guidesheet
+Course Descriptions/Syllabus Directory
+Supply Chain Management Department
