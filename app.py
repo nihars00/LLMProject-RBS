@@ -41,7 +41,7 @@ for msg in st.session_state.messages:
         if "sources" in msg and msg["sources"]:
             with st.expander("View Retrieved Sources"):
                 for src in msg["sources"]:
-                    st.caption(f"{src['metadata_prefix']} \n\n {src['text']}")
+                    st.caption(f"{src.get('metadata_prefix', '')} \n\n {src.get('text', '')}")
 
 query = st.chat_input("Ask a question (e.g. 'Who is the contact for MITA?')")
 
@@ -63,23 +63,29 @@ if query:
 
     try:
         with st.spinner("Searching specific knowledge base..."):
-            retrieved_chunks, intent = retriever.retrieve(query, top_k=5)
+            retrieved_chunks, intent = retriever.retrieve(query, top_k=10)
     except Exception as e:
         st.error(f"Retrieval failed: {e}")
         st.stop()
 
-    try:
-        with st.spinner(f"Generating answer (Router detected intent: {intent})..."):
-            answer = generator.generate_answer(query, retrieved_chunks)
-    except Exception as e:
-        answer = f"Error during answer generation: {e}"
-
     with st.chat_message("assistant"):
-        st.markdown(answer)
-        if retrieved_chunks:
+        if not retrieved_chunks:
+            answer = "I don't have information about that in my current database."
+            st.markdown(answer)
+        else:
+            try:
+                with st.spinner(f"Generating answer (Router detected intent: {intent})..."):
+                    answer = generator.generate_answer(query, retrieved_chunks)
+            except Exception as e:
+                answer = f"Error during answer generation: {e}"
+
+            st.markdown(answer)
+
             with st.expander("View Retrieved Sources"):
-                for src in retrieved_chunks:
-                    st.caption(f"{src['metadata_prefix']} \n\n {src['text']}")
+                st.write(f"Retrieved chunks: {len(retrieved_chunks)}")
+                for i, src in enumerate(retrieved_chunks, 1):
+                    st.markdown(f"**Chunk {i}**")
+                    st.caption(f"{src.get('metadata_prefix', '')} \n\n {src.get('text', '')}")
 
     st.session_state.messages.append(
         {"role": "assistant", "content": answer, "sources": retrieved_chunks}
@@ -92,3 +98,4 @@ with st.sidebar:
     st.markdown("- **Keyword:** BM25 (Sparse)")
     st.markdown("- **Reranker:** Reciprocal Rank Fusion")
     st.markdown("- **LLM:** gpt-4o-mini")
+    st.markdown("- **Top-K Retrieval:** 10")
