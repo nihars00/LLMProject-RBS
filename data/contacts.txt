@@ -1,5 +1,5 @@
 # Category: contacts
-# Generated (UTC): 2026-03-22T03:00:36.534380+00:00
+# Generated (UTC): 2026-05-01T02:41:56.578471+00:00
 
 ========================================================================
 ## graduate_program_contacts
@@ -67,8 +67,8 @@ Program Type
 In-Person
 Request Program Information
 Upcoming Event:
-Open House (In-Person)
-March 28, 2026
+Online Information Session
+May 27, 2026
 Register for Event
 Admissions Deadline:
 Fall 2026 (Domestic Applicants)
@@ -86,23 +86,14 @@ Artificial Intelligence, Machine Learning and Data Science
 - Data mining, database management, machine learning, deep learning, artificial intelliegence
 Operations Research and Business Analytics
 - Optimization modeling, applied game theory and strategic decision making, discrete modeling
-24
-Apr
+27
+May
 Master of Information Technology and Analytics Information Session (Online)
-Fri, Apr 24, 2026
-8:00AM
--
-9:00AM EDT
-Please join us for a presentation on the program.
-28
-Mar
-Graduate Open House (Newark Campus)
-Sat, Mar 28, 2026
+Wed, May 27, 2026
 9:00AM
 -
-1:00PM EDT
-Considering an advanced degree in business? Come in person to the Newark Campus to learn about Rutgers Business School’s highly regarded graduate programs.
-Register Today
+10:00AM EDT
+Please join us for a presentation on the program.
 Program Highlights
 30 credit program
 Full-time or part-time study options
@@ -603,7 +594,7 @@ The following programs follow the admissions process detailed below.
 Gateway to Master of Accountancy in Accounting and Analytics (Online)
 Minimum Qualifications
 Declare a business major in our Undergraduate New Brunswick or Newark program.
-Junior or Senior level students with a completion of at least 75 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 630 curriculum code) of 3.4 or higher.
+Junior or Senior level students with a completion of at least 60 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 630 curriculum code) of 3.4 or higher.
 Students must have completed and earned a B or better in either Business Research Methods (Newark) or Statistical Methods in Business (NB).
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
@@ -635,7 +626,7 @@ maccyaa@business.rutgers.edu
 Gateway to Master of Accountancy in Governmental Accounting (Online)
 Minimum Qualifications
 Declare an Accounting major in our Undergraduate New Brunswick or Newark program.
-Junior or Senior level students with a completion of at least 75 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher.
+Junior or Senior level students with a completion of at least 60 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher.
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
 Students in the Gateway Maccy Governmental Accounting program may be allowed to substitute up to 12 undergraduate Accounting credits with 12 Maccy graduate credits, in selected courses in Maccy. in their junior or senior year. These credits may count towards their accounting undergraduate degree as well as the Maccy graduate degree, subject to approval of the Maccy Governmental Accounting program director. We recommend that you start your application to the program 3 semesters before you graduate.
@@ -653,7 +644,7 @@ gov_maccy@business.rutgers.edu
 Gateway to Master of Accountancy in Taxation
 Minimum Qualifications
 Declare a business major in our Undergraduate New Brunswick or Newark program.
-Junior or Senior level students with a completion of at least 75 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 010 curriculum code) of 3.4 or higher.
+Junior or Senior level students with a completion of at least 60 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 010 curriculum code) of 3.4 or higher.
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
 Students in the Gateway Maccy Tax Program may be allowed to substitute up to 12 undergraduate business credits with 12 Maccy Tax Program graduate credits, in selected Maccy Tax Program courses in their junior or senior year. These credits may count towards their undergraduate degree as well as the Maccy Tax graduate degree, subject to approval of the Maccy Tax Program Director. We recommend that you start your application to the program 3 semesters before you graduate.
@@ -696,7 +687,7 @@ sabrina.kelley@business.rutgers.edu
 Gateway to Master of Science in Digital Marketing (Online)
 Minimum Qualifications
 Declare a Marketing major in our Undergraduate New Brunswick or Newark program.
-Junior or Senior level students with a completion of at least 75 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 630 curriculum code) of 3.4 or higher.
+Junior or Senior level students with a completion of at least 60 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 630 curriculum code) of 3.4 or higher.
 Students must have completed and earned a B or better in Intro to Marketing and either Business Research Methods (Newark) or Statistical Methods in Business (NB).
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
@@ -716,7 +707,7 @@ msdm@business.rutgers.edu
 .
 Gateway to Master of Financial Analysis
 Minimum Qualifications
-Rutgers Junior or Senior level students with a completion of at least 75 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA of 3.4 or higher.
+Rutgers Junior or Senior level students with a completion of at least 60 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA of 3.4 or higher.
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
 Students in the Gateway Master of Financial Analysis (MFinA) program may be allowed to substitute up to
@@ -735,9 +726,9 @@ mfina@business.rutgers.edu
 Gateway to Master of Science in Healthcare Analytics and Intelligence
 Minimum Qualifications
 Enroll in the Supply Chain Management in our Undergraduate New Brunswick or Newark program
-Junior or Senior level students with a completion of at least 75 undergraduate coursework can apply
+Junior or Senior level students with a completion of at least 60 undergraduate coursework can apply
 A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 799 curriculum code) of 3.4 or higher
-Admitted students eligible to start the accelerated MSHAI track (BS/MS program) after completing 90 credit hours of undergraduate course work
+Admitted students eligible to start the accelerated MSHAI track (BS/MS program) after completing 75 credit hours of undergraduate course work
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
 Students in the accelerated MSHAI program will be given the option to substitute up to 12 undergraduate SCM credits with 12 MSHAI graduate credits, in selected MSHAI courses in their senior year, and have them count towards their SCM undergraduate degree as well as the MSHAI graduate degree, subject to approval of the MSHAI program director.
@@ -757,8 +748,8 @@ Business Analytics and Information Technology major
 Management Information Systems major
 (MIS)
 major in our Undergraduate Newark program.
-Students must have a cumulative GPA of 3.0 or higher and a BAIT/MIS major GPA of 3.5 or higher. At least 75 credit hours of undergraduate coursework must be completed before students can apply for admission to the Gateway MITA program.
-Typically, students may apply no earlier than the 2nd half of their junior year. Students will be eligible to start the Gateway MITA program in their senior year after they have been admitted to the MITA program and after completing 90 credit hours of coursework towards their undergraduate degree program.
+Students must have a cumulative GPA of 3.0 or higher and a BAIT/MIS major GPA of 3.5 or higher. At least 60 credit hours of undergraduate coursework must be completed before students can apply for admission to the Gateway MITA program.
+Typically, students may apply no earlier than the 2nd half of their junior year. Students will be eligible to start the Gateway MITA program in their senior year after they have been admitted to the MITA program and after completing 75 credit hours of coursework towards their undergraduate degree program.
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
 Students in the Gateway MITA program may be allowed to choose as electives up to 9 MITA graduate credits, in selected MITA courses in their junior or senior year. These credits may count towards their BAIT/MIS undergraduate degree as well as the MITA graduate degree, subject to approval of the MITA program director. We recommend that you start your application to the program 3 semesters before you graduate.
@@ -783,7 +774,7 @@ carmen.nieves@business.rutgers.edu
 Gateway to Master of Science in Marketing Analytics and Insights
 Minimum Qualifications
 Declare a Marketing major in our Undergraduate New Brunswick or Newark program.
-Junior or Senior level students with a completion of at least 75 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 630 curriculum code) of 3.4 or higher.
+Junior or Senior level students with a completion of at least 60 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 630 curriculum code) of 3.4 or higher.
 Students must have completed and earned a B or better in Intro to Marketing and either Business Research Methods (Newark) or Statistical Methods in Business (NB).
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
@@ -800,7 +791,7 @@ msmai@business.rutgers.edu
 .
 Gateway to Master of Quantitative Finance
 Minimum Qualifications
-Rutgers Junior or Senior level students with a completion of at least 75 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA of 3.4 or higher.
+Rutgers Junior or Senior level students with a completion of at least 60 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA of 3.4 or higher.
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
 Students in the Gateway Master of Quantitative Finance (MQF) program may be allowed to substitute up to
@@ -827,9 +818,9 @@ zcorby@business.rutgers.edu
 Gateway to Master of Supply Chain Analytics
 Minimum Qualifications
 Enroll in the Supply Chain Management in our Undergraduate New Brunswick or Newark program
-Junior or Senior level students with a completion of at least 75 undergraduate coursework can apply
+Junior or Senior level students with a completion of at least 60 undergraduate coursework can apply
 A cumulative GPA of 3.0 or higher and a major GPA (grade point average of all courses with 799 curriculum code) of 3.4 or higher
-Admitted students eligible to start the accelerated MSCA track (BS/MS program) after completing 90 credit hours of undergraduate course work
+Admitted students eligible to start the accelerated MSCA track (BS/MS program) after completing 75 credit hours of undergraduate course work
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
 Students in the gateway MSCA program will be given the option to substitute up to 12 undergraduate SCM credits with 12 MSCA graduate credits, in selected MSCA courses in their senior year, and have them count towards their SCM undergraduate degree as well as the MSCA graduate degree, subject to approval of the MSCA program director.
@@ -848,7 +839,7 @@ msca@business.rutgers.edu
 .
 Gateway to Master of Science in Supply Chain Management (Online)
 Minimum Qualifications
-Junior or Senior level students with a completion of at least 75 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA of 3.4 or higher.
+Junior or Senior level students with a completion of at least 60 undergraduate course credits can apply. A cumulative GPA of 3.0 or higher and a major GPA of 3.4 or higher.
 Note that satisfying the above minimum qualifications does not guarantee admission to the program. The program may impose a capacity limit, since there is a limit for the number of undergraduate students allowed in each graduate course.
 Eligible Courses
 Students in the Gateway MSCM program may be allowed to substitute up to 12 undergraduate Supply Chain Management credits with 12 MSCM graduate credits, in selected MSCM courses in their junior or senior year. These credits may count towards their SCM undergraduate degree as well as the MSCM graduate degree, subject to approval of the MSCM program director. We recommend that you start your application to the program 3 semesters before you graduate.
@@ -866,21 +857,21 @@ For more information or questions about the Master of Supply Chain Management pr
 mscm@business.rutgers.edu
 .
 Next Steps
-If you are a junior or senior considering a head start toward any of the master’s degrees listed above, we welcome your application to the Gateway program. This will allow you to take up to
-twelve (12)
-credits while you are still an undergraduate student at Rutgers Business School.
+If you are a rising junior or senior considering a head start toward any of the master’s degrees listed above, we welcome your application to the Gateway program. This will allow you to take
+up to
+twelve (12) credits while you are still an undergraduate student at Rutgers Business School.
 Please make sure you check with the program of interest on the total amount of credits
 . We recommend that you begin your application to the program three semesters prior to graduation.
-When you apply, you will apply to the semester term following your undergraduate graduation. For example, if your graduation date is May 2026, you should select the summer or fall 2026 term.
+When you apply, you will apply to the semester term following your undergraduate graduation. For example, if your graduation date is May 2028, you should select the summer or fall 2028 term. You will not need to reapply to the graduate program upon completion of your undergraduate degree.
 Upon acceptance to the Gateway program, you will work with your undergraduate academic advisor and a graduate Program Coordinator to select your course(s). The best part is that you do not need to pay the graduate tuition for the
-twelve (12)
+graduate
 credits while registering them with your undergraduate courses.
 Contact the Office of Graduate Admission for more information: 973-353-1234 or
 gateway@business.rutgers.edu
 .
 *Must have an overall GPA of 3.00 for consideration.
 *Ask your UG academic advisor if any of the
-twelve (12)
+graduate
 credits will double-count toward your undergraduate curriculum.
 *Please note that undergraduate students taking graduate courses in the summer term will be charged graduate tuition. When enrolled as an undergraduate student in graduate courses during the fall or spring semester, you will be charged undergraduate tuition.
 Apply Today!
@@ -1051,43 +1042,43 @@ Learn More
 Pre-College Programs
 Learn more about Rutgers Business School's Pre-College Programs targeting high school students.
 Learn More
-23
-Mar
-M.S. in Healthcare Analytics and Intelligence Information Session (Online)
-9:00AM
--
-10:00AM EDT
-Online
-8
-Mon, Mar 23, 2026
-25
-Mar
-Master of Science in Business of Fashion Information Session (Online)
-6:00PM
--
-7:00PM EDT
-Online
-2
-Wed, Mar 25, 2026
-27
-Mar
+01
+May
 Master of Financial Analysis Information Session
 8:00AM
 -
 9:00AM EDT
 Online
-2
-Fri, Mar 27, 2026
+4
+Fri, May 01, 2026
+01
+May
+M.S. in Digital Marketing Information Session
+12:00PM
+-
+1:00PM EDT
+Online
+4
+Fri, May 01, 2026
+04
+May
+Master of Quantitative Finance Information Session (Online)
+9:30AM
+-
+10:30AM EDT
+Online
+11
+Mon, May 04, 2026
 More Admissions Events
 Latest News
 School News
-MBA in Professional Accounting evolves to prepare students for changing industry
-Business Insights
-Thought Leadership: Why Businesses Should Value Caregivers Now
+Former N.J. Gov. Chris Christie weighs in on pharmaceutical industry's prospects
 School News
-Young alumni are celebrated as rising stars in business
+Student ingenuity on display at Experiential Learning Showcase
 School News
-A student's passion for marketing leads to full-time role at Google
+Student finds the right answer in his choice to study accounting
+School News
+Business Plan Competition awards funds to six student ventures
 View All
 
 ========================================================================
@@ -1116,13 +1107,13 @@ Academic focus at Rutgers Business School is divided into six primary domain are
 Learn more about our academic areas
 Business Insights
 Business Insights
+Webinar: Becoming More Customer Centric
+Business Insights
+Why a canceled meeting feels so liberating
+Business Insights
+That's Entertainment: Gambling and the Tax Code
+Business Insights
 Thought Leadership: Why Businesses Should Value Caregivers Now
-Business Insights
-Thought Leadership: When Time Becomes the Intervention
-Business Insights
-Webinar: AI for Innovation and New Business Models
-Business Insights
-Thought Leadership: Understanding modern money creation
 View All
 
 ========================================================================
@@ -1282,3 +1273,593 @@ People Search
 Personal Information Update
 Transportation Services
 Web Mail
+
+========================================================================
+## ug_contact_newark_myrbs
+URL: https://myrbs.business.rutgers.edu/undergraduate-newark/contact-us
+Description: Undergraduate Newark advisor and office contacts (myRBS)
+
+Title: Contact Us
+
+Location
+Rutgers Business School
+1 Washington Park, Suite 324
+Newark, NJ 07102-3122
+Phone: 973-353-5169
+F
+ax: 973-353-5782
+E
+mail: (Undergraduate Student & Academic Services):
+RBSNWK_undergrad@business.rutgers.edu
+E
+mail: (Office of Career Management – Newark):
+ocm-nwk@business.rutgers.edu
+Office Hours
+Monday - Friday: 8:30 a.m. – 4:30 p.m
+Office of Undergraduate Student & Academic Services
+Luke Greeley, Ph.D.
+Associate Dean
+Lucille Foster
+Assistant Dean/Recruitment
+973-353-5544
+Kathleen Wagner
+Program Administrator
+973-353-1660
+Kevin Collazo
+Senior Program Coordinator/School to School, Re-enrollment & Minor Coordinator
+973-353-1912
+Oksana Kowal
+Program Coordinator/Transcript Evaluator
+973-353-2552
+Cristina Veras
+Academic Services Coordinator/Program Coordinator
+973-353-0255
+Academic Advising
+Amy Castillo
+Assistant Dean & Director of Upperclass Students
+973-353-1012
+Ben Lohmann
+Assistant Dean & Director of Underclass Students
+973-353-2532
+Shannon Brantley
+Assistant Dean
+973-353-2713
+Armanda Cerqueira
+Assistant Dean
+973-353-2817
+Vanessa Galindo
+Assistant Dean
+973-353-5824
+Patricia Guillaume
+Assistant Dean
+973-353-3586
+Shirnel Jean Baptiste
+Assistant Dean
+973-353-3140
+Stephan Kolodiy
+Assistant Dean
+973-353-1661
+To make an appointment with your Academic Advisor,
+please click here
+. (30 minute appointments.)
+Office of Career Management
+Marcye McFadden
+Director
+973-353-5524
+Elizabeth Fieseler
+Career Counselor
+973-353-3587
+Dalia Risheg
+Career Counselor
+973-353-5122
+Social Media
+Follow us on Instagram!
+Like us on Facebook!
+
+========================================================================
+## ug_contact_newark_rbs
+URL: https://www.business.rutgers.edu/undergraduate-newark/contact-us
+Description: Undergraduate Newark contacts on main RBS site
+
+Title: Contact Us
+
+Contact Us
+Undergraduate Program in Newark
+Location
+Rutgers Business School
+1 Washington Park, Suite 324
+Newark, NJ 07102-3122
+phone: 973-353-5169
+fax: 973-353-5782
+Office Hours
+Monday - Friday: 8:30 a.m. – 4:30 p.m
+Office of Undergraduate Student & Academic Services
+Luke Greeley, Ph.D.
+Associate Dean
+Lucille Foster
+Assistant Dean/Recruitment
+973-353-5544
+Kathleen Wagner
+Program Administrator
+973-353-1660
+Social Media
+Follow us on Instagram!
+Follow us on Twitter!
+Like us on Facebook!
+Visit
+Contact Us
+Apply
+
+========================================================================
+## ug_contact_new_brunswick_rbs
+URL: https://www.business.rutgers.edu/undergraduate-new-brunswick/contact-us
+Description: Undergraduate New Brunswick Office contacts (main RBS site)
+
+Title: Contact Us
+
+Contact Us
+Location
+Rutgers Business School
+Office of Undergraduate Programs
+100 Rockafeller Road, Suite 1008
+Piscataway, NJ 08854
+Phone: 848-445-3600
+Undergraduate Staff Leadership Team
+Robert M. Kurland, Ph.D.
+Senior Associate Dean
+Alexandra Charles
+Assistant Dean of Special Programs & Populations
+Felicia Norott
+Assistant Dean & Director for Upperclassmen
+Kerstin Schnatter
+Assistant Dean & Director for Underclassmen
+Advising Staff
+Melba Blanco
+Underclassmen Assistant Dean (last names A through F)
+Leidy Garcia-Cosbert
+Underclassmen Assistant Dean (last names G through L)
+Nicole Martinez
+Underclassmen Assistant Dean (last names M through R)
+John Muth
+Underclassmen Assistant Dean (last names S through Z)
+Nadia Khokhar
+Upperclassmen Assistant Dean (last names A through F)
+Rose M. Distefano
+Upperclassmen Advisor (last names G through L)
+Stephanie Elliott
+Upperclassmen Advisor (last names M through R)
+Alexis White
+Upperclassmen Assistant Dean (last names S through Z)
+Alfred E. Blake
+Advisor for the Business Administration Minor & Entrepreneurship Minor
+Grace Delia
+Honors Advisor
+Advisor for Study Abroad
+Christine Yannuzzi
+Enrollment Manager
+Support Staff
+Maureen Duchatellier
+Administrative Assistant
+Gavin Cummings
+Senior Program Coordinator
+Tara Maluszczak
+Administrative Assistant to the Senior Associate Dean
+Edna Reyes-Rodriguez (Lisy)
+Program Coordinator
+Kristie Sears
+Undergraduate Intern
+Visit
+Contact Us
+Apply
+
+========================================================================
+## career_management_newark
+URL: https://www.business.rutgers.edu/undergraduate-newark/career-management
+Description: Newark Office of Career Management contacts
+
+Title: Career Management
+
+Career Management
+Undergraduate Program in Newark
+The Undergraduate Office of Career Management (OCM) promotes RBS Newark undergraduates as a source of top talent by preparing business students for the on-campus recruiting process and helping employers find candidates with specific and unique skill sets. We also provide RBS students the business tools necessary to excel in a competitive job market by mandating professional business seminars, incorporating business ethics into workshops, and partnering with faculty to develop soft skills in preparation for case-competitions.
+Our office:
+Provides employers targeted access to business students through program development and corporate partnerships.
+Prepares our students to effectively market their value to prospective employers
+Partners with University Career Services offices to augment existing programs offered to our students
+Visit
+Contact Us
+Apply
+
+========================================================================
+## career_management_new_brunswick
+URL: https://www.business.rutgers.edu/undergraduate-new-brunswick/career-management
+Description: New Brunswick Office of Career Management contacts
+
+Title: Career Management
+
+Career Management
+Undergraduate Program in New Brunswick
+Our mission is to promote RBS Undergraduate New Brunswick as a source for top talent, by preparing our students to find internships, Co-Ops and full-time employment. We accomplish this mission by:
+Providing employers concentrated, targeted and focused access to business students.
+Preparing our students to effectively market  their value to prospective employer.
+Partnering with Career Services, alumni and faculty to augment existing resources.
+CareerKnight
+Students have access to CareerKnight, our career portal with employment opportunities, programs, and exclusive events for RBS students.
+Visit
+Contact Us
+Apply
+
+========================================================================
+## career_hub_rbs
+URL: https://careerhub.business.rutgers.edu/
+Description: RBS Career Hub - main career resources portal
+
+Title: Graduate Career Management
+
+Welcome to Rutgers Business School’s Career Hub!
+Explore our career hub 24/7 to find all resources, tools, and support available for you.
+Featured Articles
+What You Can Do Through Career Hub
+Share This:
+Share What You Can Do Through Career Hub on Facebook
+Share What You Can Do Through Career Hub on LinkedIn
+Share What You Can Do Through Career Hub on X
+Copy Link
+🌟
+Discover Jobs & Internships
+Browse job and internship opportunities curated for Rutgers Business School students. Whether you’re seeking internships, full-time roles, or experiential learning opportunities, Career Hub makes it easy to explore openings and connect with employers actively recruiting RBS  …
+By
+Christina Butler
+Show author info
+Christina Butler
+Customer Success Manager
+Send Email
+linkedin
+Read more
+»
+How to Negotiate Salary as an Entry-Level Candidate (With Examples!)
+Share This:
+Share How to Negotiate Salary as an Entry-Level Candidate (With Examples!) on Facebook
+Share How to Negotiate Salary as an Entry-Level Candidate (With Examples!) on LinkedIn
+Share How to Negotiate Salary as an Entry-Level Candidate (With Examples!) on X
+Copy Link
+You’ve landed your first
+job offer
+—congrats! Now comes the next challenge: how to negotiate salary as an entry-level candidate. It might seem like salary negotiation is out of reach, and that you should simply accept what’s offered. But the  …
+The Muse
+Show author info
+A smarter way to find a job
+facebook
+instagram
+linkedin
+tiktok
+twitter
+Read more
+»
+View All Blogs
+Sidebar
+Sign Up and Customize Your Career Preferences
+Job & Internship Opportunities
+iAltA
+View All Jobs
+IsoTalent
+View All Jobs
+Solin
+View All Jobs
+Tata Consultancy Services (TCS)
+View All Jobs
+Cresset
+View All Jobs
+Lawyers for Justice, P.C.
+View All Jobs
+Cint
+View All Jobs
+Monarch Casino Resort Spa - Black Hawk
+View All Jobs
+Natixis Corporate & Investment Banking
+View All Jobs
+1st Place Spiritwear
+View All Jobs
+North East Medical Services
+View All Jobs
+Petco
+View All Jobs
+See All Jobs
+
+========================================================================
+## rutgers_main_directory
+URL: https://search.rutgers.edu/
+Description: Rutgers university-wide people search directory
+
+Title: Rutgers Search
+
+
+
+========================================================================
+## registrar_newark
+URL: https://www.newark.rutgers.edu/office-registrar/overview
+Description: Office of the Registrar - Newark contacts
+
+Title: Office of the Registrar
+
+Office of the Registrar
+The Office of the Registrar is responsible for coordinating registration procedures in conjunction with the schools and colleges of Rutgers University, Newark. We are also responsible for the preparation, maintenance and security of academic records, grade processing, transcripts, verifications and ordering of diplomas. Our website provides related forms and information to assist students, alumni, faculty, staff and other constituents.
+Mission Statement
+The Registrar’s Office is dedicated to providing the Newark Community with courteous and timely registration and enrollment services. We hold ourselves accountable for maintaining accurate and current information to both internal and external constituents in accordance with the Family Education Rights and Privacy Act (FERPA). We strive to ensure continuous improvement and innovation in meeting the needs and expectations of the populations we serve.
+Hours of Operation
+Registrar Office Hours
+For questions or concerns, please contact us by completing the
+contact form
+.
+Contact Us
+One Stop Student Services Center
+Conklin Hall 1
+st
+Floor, Suite 138
+175 University Avenue
+Newark, NJ 07102
+Phone: (973) 353-1766 ext. 1
+Fax: (973) 353-1357
+Contact Us
+
+========================================================================
+## registrar_new_brunswick
+URL: https://nbregistrar.rutgers.edu/
+Description: Office of the Registrar - New Brunswick contacts
+
+Title: Office Of The Registrar, New Brunswick
+
+Visit the One Stop
+Dr. Samuel Dewitt Proctor Hall
+Busch Campus
+65 Davidson Road
+Piscataway, NJ 08854
+Map
+Office Hours:
+Mon - Thu
+			  8:30 AM - 4:30 PM
+Fri 11:00 AM - 4:30 PM
+Office Of The Registrar, New Brunswick
+Recent News and Announcements
+Please note:
+In accordance with the
+Agreement
+for Accessing University Information and the Family Educational Rights and Privacy Act
+(FERPA)
+, access to student records is restricted to employees who have a legitimate educational interest as part of their job duties. 
+Employees may not access their own records or those of relatives or personal acquaintances in university systems.
+You can find information about advising, financial aid, internships, and more on
+success.rutgers.edu
+. You also have access to helpful
+how-to-videos
+for using systems like Degree Navigator, WebReg, the course scheudling tool, and much more.
+Useful Links
+Address Updates
+Change Your Name
+Confidentiality/Security
+Duplicate Diploma Request
+(PDF)
+In State Residency
+Instant Enrollment Verification
+Create a NetID/Email Account
+Obtain an Apostille
+Online Diploma Application
+PAC Number Changes
+Registration Information
+RU Voting Program
+RUHere Confirmation of Attendance (PDF)
+RUID Information
+Schedule of Classes
+Student Accounting
+Summer Session
+Term Bill Payments
+Transcripts, Verifications and Term Grade Reports
+Veterans Certification
+View Grades
+Voter Registration Information
+Web Registration
+Winter Session
+About the Registrar
+The
+New Brunswick Registrar's Offices serve as the custodian of student
+academic records. We provide and maintain essential processes and
+answer inquiries with confidentiality and integrity for our students,
+faculty, and administrators while supporting our mission. We also
+provide and support registration, transcripts and verifications, 
+posting of grades and degrees, changes in residency, calendars, name
+and address changes, awarding of diplomas, as well as graduation and commencement
+information.
+Our Mission: "We believe personalized high quality service is a
+necessity for achieving a rewarding experience at Rutgers. We are
+committed to supporting this goal by working together to recognize and
+meet the needs of our students through mutual respect and partnership."
+Students can expect: Knowledgeable, organized and prepared staff; Personalized Service; and Courtesy.
+Students are expected to be responsible for: Reading Information and
+asking questions; Being prepared and organized; and Being courteous.
+Other Registrar Offices
+Camden Registrar
+Newark Registrar
+Updated: March 13, 2026
+
+========================================================================
+## rbs_contact_general
+URL: https://www.business.rutgers.edu/contact-us
+Description: Rutgers Business School general contact page
+
+Title: Contact Rutgers Business School
+
+Contact Rutgers Business School
+How can we help?
+Degree program inquiries
+Undergraduate Program in Newark
+Undergraduate Program in New Brunswick
+Full-Time MBA
+Part-Time MBA
+MBA in Professional Accounting
+Executive MBA
+Master of Accountancy in Financial Accounting
+Master of Accountancy in Governmental Accounting
+Master of Accountancy in Professional Accounting
+Master of Accountancy in Taxation
+Master of Science in Business of Fashion
+Master of Financial Analysis
+Master of Science in Healthcare Analytics and Intelligence
+Master of Information Technology
+Master of Quantitative Finance
+Master of Supply Chain Analytics
+Master of Supply Chain Management
+Ph.D.
+Non-degree program inquiries
+Executive Education
+Research center inquires
+Blanche and Irwin Lerner Center for the Study of Pharmaceutical Management Issues
+Center for Business of Fashion
+Center for Governmental Accounting Education & Research
+Center for Information Management, Integration and Connectivity
+Center for Market Advantage
+Center for Marketing Research
+Center for Real Estate
+Center for Research in Regulated Industries
+Center for Supply Chain Management
+Institute for Ethical Leadership
+Rutgers Accounting Research Center/Continuous Auditing & Reporting Lab
+Rutgers Center for Operations Research
+Rutgers Financial Institutions Center
+Technology Management Research Center
+The Center for Urban Entrepreneurship & Economic Development
+The Collaborative for Technology Entrepreneurship and Commercialization
+The Rutgers Advanced Institute for the Study of Entrepreneurship and Development
+Whitcomb Center for Research in Financial Services
+Media inquiries
+Please contact the Associate Director - Communications and Media Relations
+Additional inquiries
+School leadership and senior administration
+
+========================================================================
+## contact_us_office_of_undergraduate_programs_newark
+URL: https://myrbs.business.rutgers.edu/undergraduate-newark/contact-us
+Description: Undergraduate Newark advisor and office contacts
+
+Title: Contact Us
+
+Location
+Rutgers Business School
+1 Washington Park, Suite 324
+Newark, NJ 07102-3122
+Phone: 973-353-5169
+F
+ax: 973-353-5782
+E
+mail: (Undergraduate Student & Academic Services):
+RBSNWK_undergrad@business.rutgers.edu
+E
+mail: (Office of Career Management – Newark):
+ocm-nwk@business.rutgers.edu
+Office Hours
+Monday - Friday: 8:30 a.m. – 4:30 p.m
+Office of Undergraduate Student & Academic Services
+Luke Greeley, Ph.D.
+Associate Dean
+Lucille Foster
+Assistant Dean/Recruitment
+973-353-5544
+Kathleen Wagner
+Program Administrator
+973-353-1660
+Kevin Collazo
+Senior Program Coordinator/School to School, Re-enrollment & Minor Coordinator
+973-353-1912
+Oksana Kowal
+Program Coordinator/Transcript Evaluator
+973-353-2552
+Cristina Veras
+Academic Services Coordinator/Program Coordinator
+973-353-0255
+Academic Advising
+Amy Castillo
+Assistant Dean & Director of Upperclass Students
+973-353-1012
+Ben Lohmann
+Assistant Dean & Director of Underclass Students
+973-353-2532
+Shannon Brantley
+Assistant Dean
+973-353-2713
+Armanda Cerqueira
+Assistant Dean
+973-353-2817
+Vanessa Galindo
+Assistant Dean
+973-353-5824
+Patricia Guillaume
+Assistant Dean
+973-353-3586
+Shirnel Jean Baptiste
+Assistant Dean
+973-353-3140
+Stephan Kolodiy
+Assistant Dean
+973-353-1661
+To make an appointment with your Academic Advisor,
+please click here
+. (30 minute appointments.)
+Office of Career Management
+Marcye McFadden
+Director
+973-353-5524
+Elizabeth Fieseler
+Career Counselor
+973-353-3587
+Dalia Risheg
+Career Counselor
+973-353-5122
+Social Media
+Follow us on Instagram!
+Like us on Facebook!
+
+========================================================================
+## contact_us_office_of_undergraduate_programs_camden
+URL: https://business.camden.rutgers.edu/contact-us/
+Description: Undergraduate Camden advisor and office contacts
+
+Title: Contact Us
+
+Contact Us
+Rutgers University
+School of Business–Camden
+Rutgers University
+School of Business–Camden
+Rutgers University
+School of Business–Camden
+Rutgers University
+School of Business–Camden
+Business & Science Building
+227 Penn Street
+Camden, New Jersey 08102-1656
+Main Office: (856) 225-6800
+General Support and Operations
+rsbc.info@camden.rutgers.edu
+Phone: (856) 225-6800
+Undergraduate Academic Services Office
+Phone: (856) 225-6216
+Fax: (856) 225-6231
+acadsvcs@camden.rutgers.edu
+Online BBA Program
+online-bba@camden.rutgers.edu
+Off-Campus BBA Program
+maradonn@camden.rutgers.edu
+Student Engagement, Empowerment, and Development (SEED) Office
+experience-rsbc@camden.rutgers.edu
+Graduate Academic Services Office
+Phone: (856) 225-6452
+Fax: (856) 225-6231
+rsbc.grad@camden.rutgers.edu
+Faculty Directory and Profiles
+Staff Directory
+Put Rutgers
+on Your Résumé
+Apply Now
+Want more information?
+We’ve got it!
+Click here to request more information or register for an upcoming information session.
+Request More Information

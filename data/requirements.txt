@@ -1,5 +1,5 @@
 # Category: requirements
-# Generated (UTC): 2026-03-22T03:00:36.534380+00:00
+# Generated (UTC): 2026-05-01T02:41:56.578471+00:00
 
 ========================================================================
 ## nb_undergrad_catalog_2425_home
@@ -577,10 +577,10 @@ Marketing
 Real Estate
 Students must meet the following criteria:
 a 2.5 grade-point average
-completed 56 degree credits
-the prerequisite courses for Finance which are: Introduction to Financial Accounting (29:010:203), Introduction to Managerial Accounting (29:010:204), Statistics (21:220:203), and Applied Calculus (21:640:119)
-Completed English Composition I and II
-Please Note: All RBS minor requirements must be completed with a C or better.
+Completed 56 degree credits
+The prerequisite courses for Finance are: Introduction to Financial Accounting (29:010:203), Macroeconomics (21:220:102), and Applied Calculus (21:640:119)
+Completed English Composition I
+Please note: All RBS minor requirements must be completed with a C or better.
 
 ========================================================================
 ## business_admin_minor
@@ -608,10 +608,9 @@ To acquire the knowledge and understanding of the terminology used in business.
 How to Apply
 Students who are not enrolled in a Rutgers Business School Undergraduate Program major can minor in accounting. Students must meet the following criteria:
 2.5 grade-point average
-Completed 56 degree credits
 Prerequisites for courses they take
-Completed College Algebra and English Composition I and II
-Visit the RBS undergraduate office at 1 Washington Park, room 324 to apply
+Completed College Algebra and English Composition I
+Visit the RBS undergraduate office at 1 Washington Park, room 324, to apply
 (PDF)
 Business Administration Minor factsheet
 Path to Minor
@@ -660,11 +659,8 @@ Finance**
 3
 *Intro to Finance (29:390:203) may NOT be used for any RBS major; Students planning to do a school-to-school transfer into RBS should NOT take this course.
 **The prerequisite courses for Finance (29:390:329) are:
-21:640:211 Statistics I
 21:640:119 Applied Calculus
 29:010:203 Financial Accounting,
-29:010:204 Managerial Accounting,
-21:220:101 Microeconomics
 21:220:102 Macroeconomics
 
 ========================================================================
@@ -726,13 +722,12 @@ or 21:640:135 Calculus I
 *Statistics 21:220:203 was formally Statistics 21:220:231. If you took 21:220:231 and successfully passed,  you will not need to repeat Statistics
 Business Core Courses
 Fixed Core
-Students in the Rutgers Business School Undergraduate Program in Newark are required to complete the Business Core Courses. The requirements are:
+Students in the Rutgers Business School Undergraduate Program in Newark are required to complete the following courses (effective Fall 2026):
 29:010:203 Financial Accounting
 29:011:301 Foundations for Your Career Journey*
 29:011:302 Building Your Brand*
 29:011:303 Conquering Your Transition*
 29:390:329 Finance
-29:620:301 Intro to Management
 29:620:302 Management Skills
 29:620:368 International Business
 29:620:418 Business Policy and Strategy
@@ -743,6 +738,7 @@ Students in the Rutgers Business School Undergraduate Program in Newark are requ
 *
 Students in Online Marketing and SCM Programs may take 29:011:300 Business Forum to satisfy the professional development requirements
 Flexible Core
+(effective Fall 2026)
 Students choose one course from each category:
 Society and Governance
 29:522:334 Business Ethics OR 29:010:319 Business Law I^
@@ -782,6 +778,7 @@ Home
 Rutgers Catalog: New Brunswick Graduate
 2025–2026
 Use the Academic Guide to find amazing classes, explore degree programs, and discover academic passions. Start your journey here.
+Please see the navigation on the top right corner of this page to view your school.
 TEST1
 TEST2
 Important Notice:
@@ -821,3 +818,320 @@ Title: Supply Chain Management Major
 Supply Chain Management Curriculum Guidesheet
 Course Descriptions/Syllabus Directory
 Supply Chain Management Department
+
+========================================================================
+## nb_areas_of_study
+URL: https://myrbs.business.rutgers.edu/undergraduate-new-brunswick/areas-of-study
+Description: RBS-NB areas of study, majors, minors, and concentrations
+
+Title: RBS Curriculum and Areas of Study
+
+The requirements for Rutgers Business School: Undergraduate–New Brunswick programs of study can be divided into three parts.
+Five Foundational Core Requirements (formerly known as “pre-business”)
+Business Core Requirements
+RBS Major Required and Major Elective Courses
+Students must complete the requirements of their chosen major that are in effect at the time of their admission into Rutgers Business School.
+In addition to the RBS curriculum students are required to complete the general education requirements of the
+SAS Core Curriculum
+.
+To receive a degree from the Rutgers Business School:  Undergraduate-New Brunswick, students must take at least 45 business credits at the Rutgers Business School: Undergraduate–New Brunswick.
+Please Note:
+There are 4 courses from the School of Environmental and Biological Sciences (SEBS) that resemble Rutgers Business School course titles. If you take these courses, they will
+NOT
+count towards completion of your RBS degree. The courses are:
+Intro. to Marketing (11:373:231)
+Intro. to Management (11:373:241)
+Business Finance I (11:373:351)
+Business Finance II (11:373:451)
+RBS students are not permitted to declare a second major or a minor in the Environmental Business and Economics program at SEBS due to the overlap of the above-listed courses with required RBS courses.
+Foundational Core Requirements (formerly known as “pre-business”)
+Students must complete five foundational core classes, ideally by the end of the sophomore year. All foundational core classes must be completed with a grade of C or better.
+01:198:170 Computer Applications for Business (3)
+01:220:102 Introduction to Microeconomics (3)
+01:220:103 Introduction to Macroeconomics (3)
+01:640:135, 151, or 130 Calculus I (4)
+01:960:285 Introductory Statistics for Business (3)
+Business Core Requirements
+All RBS students must complete these 15 courses regardless of their choice of major program. All Business Core requirements must be completed with a grade of C or better.
+33:010:272 Introduction to Financial Accounting (3)
+33:010:275 Introduction to Managerial Accounting (3) (pre-req: 33:010:272)
+33:011:301 Foundations for Your Career Journey (1)***
+33:011:302 Building Your Brand (1)***
+33:011:303 Conquering Your Transition (1)*** (junior or senior year)
+33:140:320 Business Law I (3) -OR- 33:522:334 Business Ethics (3) *
+33:390:300 Financial Management (3)
+Starting in Summer 2024, 33:390:310 Financial Management for Finance majors will not be offered. All RBS students will take 33:390:300 Financial Management regardless of major. A grade of B or higher will be required in 33:390:300 to declare the finance major or finance concentration and to take any additional courses in the finance department.
+Students who previously completed Financial Management for Finance Majors 33:390:310 are not required to have a B or better in the course, in order to declare a finance major or concentration (grade of C or better will suffice in Finance 310).
+33:620:301 Introduction to Management (3)
+33:620:302 Management Skills (3)
+33:620:492 Business Policy and Strategy (3)
+(senior year)
+33:136:370 Management Information Systems (3) **
+33:136:385 Statistical Methods in Business (3)
+33:136:386 Operations Management (3)
+33:630:301 Introduction to Marketing (3)
+33:799:301 Introduction to Supply Chain Management (3)
+* Accounting majors must take Business Law I as their required course. All other business majors may choose either Business Law I or Business Ethics.
+** Management Information Systems is required for all majors except accounting. Accounting majors must take Accounting Information Systems (33:010:458).
+*** Beginning in the Fall 2023 semester, there will be an update to the Business Forum (33:011:300) course requirement.
+If you have already taken Business Forum (33:011:300), and passed the course with a C or better, you will not need to complete 33:011:301, 302, and 303.
+If you
+entered RBS Fall 2023 or later,
+you will need to take the new three course sequence (
+33:011:301, 302, and 303)
+. If you have already taken Business Forum 300, you may not take for credit the new 1-credit Business Forum courses.
+BUSINESS POLICY & STRATEGY
+-- The prerequisites for
+33:620:492 Business Policy and Strategy (seniors only)
+are:
+33:390:300 Financial Management OR 33:390:310 Financial Management for Finance Majors AND
+33:620:301 Intro to Management AND
+33:630:301 Intro to Marketing
+If you are missing one of these three prerequisites, you will not be able to register for Business Policy and Strategy in your
+senior year
+. You may not take any of these courses as a co-requisite with Business Policy and Strategy.
+Major Requirements and Electives for RBS Majors
+The major requirements for Rutgers Business School: Undergraduate-New Brunswick programs of study include a combination of required and elective courses that students take according to their choice of major. Students must complete the requirements of the major that are in effect at the time of their admission into RBS. Students may have up to three majors. All major required and elective courses must be completed with a grade of C or better.
+Accounting
+Curriculum Information
+Business Analytics and Information Technology
+Curriculum Information
+Finance
+Curriculum Information
+Leadership and Management
+Curriculum Information
+Marketing
+Curriculum Information
+Supply Chain Management
+Curriculum Information
+Concentrations for RBS Students
+Students who are enrolled in a Rutgers Business School Undergraduate Program in New Brunswick major can complete a concentration in Business Analytics, Entrepreneurship, Finance, Global Business, Leadership Skills, Management Information Systems, Real Estate and Sales.
+Learn More
+Gateway
+Undergraduate students have an opportunity to get a head start on earning a business master’s degree, which can provide a strong foundation at the start of their careers. Rutgers Business School has designed two paths for undergraduate students to be seamlessly admitted into graduate-level programs that lead to a master’s degree: Gateway and Accelerated programs.
+Learn More
+Minors for Non-RBS Students
+Students who are not enrolled in a Rutgers Business School Undergraduate Program in New Brunswick major can minor in Business Administration or Entrepreneurship.
+Learn More
+
+Due to the Covid-19 pandemic, courses taken during the spring 2020, summer 2020, fall 2020, winter 2021, spring 2021, and summer 2021 semesters may be successfully completed with a grade of C or Pass.
+
+========================================================================
+## rbs_undergrad_catalog
+URL: https://newbrunswick-undergrad-25-26.catalogs.rutgers.edu/schools/rbsnb
+Description: RBS undergraduate catalog (current edition)
+
+Title: Rutgers University
+
+Skip to Main Content
+404 – Page Not Found
+
+========================================================================
+## newark_undergrad_catalog
+URL: https://catalogs.rutgers.edu/generated/nwk-ug_current/
+Description: Newark undergraduate catalog (current)
+
+Title: Rutgers University
+
+Home
+Rutgers Catalog: Newark Undergraduate
+2025–2026
+Use the Academic Guide to find amazing classes, explore degree programs, and discover academic passions. Start your journey here.
+Please see the navigation on the top right corner of this page to view your school.
+TEST1
+TEST2
+Important Notice:
+The university reserves the right, for any reason, to cancel or modify any course or program listed in the catalogs. In addition, individual course offerings and programs may vary from year to year.  To ensure accuracy and validity of catalog information, only access the catalog through this website (catalogs.rutgers.edu).  All other catalog content accessed outside of this site is not considered reliable.
+Rutgers–Camden Undergraduate
+See the Camden Undergraduate Catalog
+Rutgers–Camden Graduate
+See the Camden Graduate Catalog
+Rutgers–Newark Undergraduate
+See the Newark Undergraduate Catalog
+Rutgers–Newark Graduate
+See the Newark Graduate Catalog
+Rutgers–New Brunswick Undergraduate
+See the New Brunswick Undergraduate Catalog
+Rutgers–New Brunswick Graduate
+See the New Brunswick Graduate Catalog
+Rutgers–Health
+See the Rutgers–Health Catalog
+Rutgers–Business School
+See the Rutgers–Business School Catalog
+Rutgers–Law
+See the Rutgers–Law Catalog
+To view the Rutgers course catalog for years prior to the 2025–2026 Academic Year, please use the accompanying links.
+Camden Archive
+Newark Archive
+New Brunswick Archive
+Rutgers Health Archive
+Business School Archive
+
+========================================================================
+## sas_core_curriculum
+URL: https://sasundergrad.rutgers.edu/degree-requirements/core
+Description: SAS Core Curriculum requirements (general education)
+
+Title: Core Curriculum
+
+Live Chat
+Core Curriculum
+About Core
+Contemporary Challenges
+Areas of Inquiry: Natural Sciences
+Areas of Inquiry: Social and Historical Analysis
+Areas of Inquiry: Arts and Humanities
+Cognitive Skills and Processes: Writing and Communication
+Cognitive Skills and Processes: Quantitative and Formal Reasoning
+Core Curriculum FAQs
+Core Curriculum
+The School of Arts and Sciences (SAS) requires that all students complete a goal-based Core Curriculum, as well as an approved major and an approved minor for students who are not pursuing credit-intensive majors.
+The distinctive Core Curriculum is structured as a set of core liberal arts and sciences learning goals. All are framed as activities students will be able to do at a foundational level by virtue of meeting the specified core goal. Courses may be counted as meeting multiple learning goals; students generally will complete the core in 10 to 14 courses of 3 or 4 credits each. A course used to meet core goals may also be used to fulfill a major or minor requirement. Only graded degree credit-bearing courses worth at least 3 credits and certified by the SAS faculty may be used to meet core goals. For lists of courses certified as meeting each goal, see below. These lists are also available in the Rutgers online degree audit system, Degree Navigator, which students use to track their progress in completing the Core Curriculum.
+FAQs about the Core Curriculum
+
+========================================================================
+## mba_curriculum
+URL: https://www.business.rutgers.edu/full-time-mba/curriculum
+Description: Full-time MBA curriculum and degree requirements
+
+Title: Full-Time MBA Curriculum and Concentrations
+
+Full-Time MBA Curriculum and Concentrations
+As a Rutgers Full-Time MBA student, you are immersed in the ebbs and flows of business and industry as innovation is happening. You learn about what's happening today and develop the intuition to know what's coming tomorrow.
+Whether you are pursuing career advancement in your current industry, or are seeking to change your career path altogether, our 45-credit, full-time curriculum is designed to give you the skills, knowledge and experience you need to be a decision-maker and leader in your field.
+Critical thinking, problem solving, leadership, teamwork and technical knowledge are woven into your Full-Time MBA experience, making theoretical knowledge relatable and practical from the start.
+Play Video
+Proficiency Requirements
+Calculus and Statistics Modules are required for the MBA program as prerequisites for our quantitative courses and the degree. To satisfy these requirements, you must complete the assigned modules. Information will be provided during the MBA Orientation on how to complete the proficiencies.
+Full-Time MBA Core Requirements
+Accounting for Managers
+An introduction to financial statement analysis which builds on the fundamentals of accounting, including understanding the accounting equation and its application in building the balance sheet, the income statement, and the statement of cash flows. Basic accounting concepts, accounting principles, and the audit report are presented. Students work in teams to analyze corporate financial statements. The relationship of economic value to accounting measurement is explored together with factors influencing management choices among competing valuation principles. Theory is applied to the valuation of the asset, liability, and owners' equity accounts. Emphasizes the heavy reliance on estimates in constructing financial statements and how management can use such estimates to strategically manage its reporting responsibilities.
+Managerial Economic Analysis*
+Introduces the aspects of economics that are most relevant to the operation of the individual firm or nonprofit organization. Covers theory of individual economic behavior, demand theory and demand estimation, cost and supply, price determination, production decisions, and industry structure.
+Prerequisite: Proficiency Requirements
+Financial Management*
+Provides a general survey of the field, including the basic principles of corporate finance, financial markets and institutions, and investment theory. Corporate finance topics covered include the objective of financial management, valuation of assets and associated problems in the valuation of the firm, acquisition of long trimester assets (capital budgeting), management of short-trimester assets, capital structure, and financial statement analysis. Financial markets and institutions studied include money markets, stock and bond markets, derivatives, and the banking system. Investment analysis topics include portfolio theory and asset pricing models.
+Prerequisite: Proficiency Requirements; and Accounting for Managers
+Prerequisite/Co-requisite: Managerial Economic Analysis
+Organizational Behavior
+Explores human dynamics by examining the role of management and learning styles in the effective functioning of organizations.Topics include personality types, motivation, cognition and learning, communication, team development, and leadership. Through class discussions, case analyses, simulations, and group projects, students learn critical managerial skills such as communication, decision making, conflict resolution, and team building.
+Marketing Management
+The purpose of the course is to offer an understanding of the nature and role of marketing in the firm and in the society. Students will gain knowledge regarding the marketing decisions of price, place, promotion, product, develop an understanding of consumer behavior, market research, social and cultural factors affecting marketing. The course will expose students to a series of marketing principals, frameworks, and analyses. These techniques will be applied to a series of case studies to reinforce the concepts. At the end of the course the students should be able to develop effective marketing plans for products and services.
+Operations Analysis*
+Covers fundamentals of performance analysis for various operational issues encountered in real life supply chain processes. The major topics include demand forecasting techniques, sales and operations planning (SOP), mathematical programming applications and spreadsheet solutions, supply chain inventory planning, uncertainty, and safety stock management, project resource allocation and risk analysis, network design and facility location selections, and computer simulation and quality management. Harvard Business Cases on developing cost-effective solutions for continuous improvement of a company's operational efficiency and strategic position in today's highly dynamic and competitive marketplace are used. The objective of the course is to help our students to develop analytical thinking skills and to build the knowledge of business performance optimization toward operational excellence of supply chains.
+Prerequisite: Proficiency Requirements
+Business, Ethics, and Society
+A major priority of the course is to equip students to make thoughtful and effective arguments as to how to deal with business issues as to which there is no obvious, clear answer, and in which ethical, social, or political concerns are present.  Learning in the classroom will take place primarily through discussing readings, which should be read before class; lecturing will be secondary to discussion.
+This course is worth 1 credit.
+Note: 5 weeks; attendance required
+Information Technology for Managers
+The objective of this course is to study management's role in the development and use of information systems that help businesses achieve their goals and objectives. Information Technology (IT) has been the driving force behind the new way of doing business. IT has enabled modern organizations to make tremendous strides in productivity, has opened new markets, and has created new product and service opportunities. Managers should understand how IT could help to organize the complexity of modern organizations, manage relationships with customers, suppliers, and employees, and improve work efficiency.
+Data Analysis & Decision Making
+Introduces statistics as applied to managerial problems. Emphasis is on conceptual understanding as well as conducting statistical analyses. Students learn the limitations and potential of statistics, gain hands-on experience using Excel, as well as comprehensive packages, such as SPSS®. Topics include descriptive statistics, continuous distributions, confidence intervals for means and proportions, and regression. Application areas include finance, operations, and marketing. Introduces the basic concepts of model building and its role in rational decision making. Knowledge of specific modeling techniques, such as linear and nonlinear programming, decision analysis, and simulation, along with some insight into their practical application is acquired. Students are encouraged to take an analytic view of decision making by formalizing trade-offs, specifying constraints, providing for uncertainty, and performing sensitivity analyses. Students form groups to collect and analyze data, and to write and present a final report.
+Prerequisite: Proficiency Requirements
+Strategy in Global Environment
+The course syllabus will be provided on the first day of class. This course is equivalent to Strategic Management, so you cannot enroll in Strategic Management as an FT MBA student.
+Integrative Requirement
+(Choose One)
+Integrated Business Applications
+Students consult with a private or public corporation or government agency on a business problem under a contract with the client institution. Requires students working with a faculty member to undertake, analyze, and report on the assignment and present recommendations to executive managers from the client organization. Consulting assignments are completed in teams.
+Prerequisite: Completion of all core courses & 30 credits required
+Urban Entrepreneurship & Economic Development
+This course is designed for students who exhibit high degrees of self-direction and significant interest in urban issues, entrepreneurship, and/or economic development. Students will be challenged to work individually and in teams on projects, reports, and research at the intersection of business, community development, new venture creation, urban policy, and economic development.
+The course will explore the many dimensions of urban entrepreneurship and economic development through an exploration of the business and policy issues, the use of action research methods and the development and completion of consulting projects. The location of the course in Newark provides a unique opportunity to have the city become a laboratory for student education in the areas of urban entrepreneurship and economic development.  Students in this course will be directly involved in the economic development initiatives of Rutgers-Newark and The Center for Urban Entrepreneurship & Economic Development.
+Supply Chain Management Industry Project
+This course builds upon academic SCM learnings by working on "real life" supply chain management projects requested by our Rutgers Center for Supply Chain Management Advisory Board companies and corporate partners.  Students in this course must identify and understand the key issues, formulate models, complete analyses, and apply SCM course learnings to solve real-world problems. Faculty members whose expertise lies in a particular area are available to assist students with complexities of the projects.  The projects change each semester depending on the current requirements of the clients, but always focus on specific issues within the supply chain.   Client visits may be included to better understand the project scope and work with the company executives.   The culmination of the project will be a formal presentation to the client's SCM executives and management team along with delivery of a final report. The presentation and report will include the team's approach, data analysis, findings and recommendations.
+Prerequisite: Operations Analysis
+Notes:
+FT MBA Students enrolled in the Class of 2026 are required to remain in their current 60-credit curriculum and do not have the option to switch. Students must adhere to all the program requirements that were in place at the time of their enrollment.
+Concentrations
+Choose from 10 concentrations:
+Analytics & Information Management
+Artificial Intelligence
+Entrepreneurship and Innovation
+Finance
+Global Business
+Marketing
+Pharmaceutical Management
+Real Estate
+Strategy & Leadership
+Supply Chain Management
+To support our students’ career objectives, seven carefully curated career paths have been designed to help students unlock their full potential in their chosen fields. We strongly recommend students to consider the following combinations of 9 concentrations as students embark on their academic journey, benefitting from a seamless integration of their passions and professional aspirations.
+Career Tracks
+What are you recruiting for?
+Consumer Marketing
+Pharmaceutical Marketing
+Corporate Finance
+Supply Chain Management
+Market Research
+Analytics
+Information Technology
+Concentrations
+Our MBAs study:
+Marketing
+Finance
+Supply Chain Management
+Entrepreneurship and Innovation
+Analytics & Information Management
+Coupled with:
+Pharmaceutical Management
+Strategy
+Global Business
+Leadership
+Want to Customize your MBA Concentration?
+The Customized MBA is available to MBA candidates on a case-by-case basis and is subject to course availability. The process for selecting a customized concentration:
+Look through the course offerings/curriculum and come up with a written proposal of courses (must be a minimum of 15 credits). In the written proposal explain how the proposed customized concentration will help you achieve your career objectives.
+Submit the written proposal to the department chair(s) responsible for the area most closely related to the customized concentration. The faculty will review it (make adjustments if necessary) and must sign the proposal giving their approval.
+If the faculty approve the proposal, you will then need to submit the proposal to the Office of MBA Student Services for degree credit approval and advisement purposes.
+Customized Concentration Examples
+Healthcare
+For students who want to customize an MBA concentration in healthcare, the following courses are recommended by
+Professor Mahmud Hassan
+.
+Please note: customized concentrations are available on a case-by-case basis and are subject to course availability.
+Healthcare Curriculum
+This customized concentration is comprised of 5 required courses (15 credits).
+Required Courses
+Course #
+Title
+Cr
+22:390:659
+Health Care Finance
+(Rutgers Business School)
+3
+34:833:580
+Health Care Policy*
+(School of Planning and Public Policy)
+3
+HSAP 0615
+Health Economics
+(School of Public Health)
+3
+22:373:622
+U.S. Healthcare System & Pharmaceutical Managed Markets
+(Rutgers Business School)
+3
+-
+Independent Study**
+(Rutgers Business School)
+3
+*Note: Students may take Health Care Policy (34:833:580) or another health care focused elective.
+**Note: The Independent Study can be information technology or health care focused.
+Additional Notes
+Dual Concentrations require a minimum of 15 credits in each concentration, except in the case of Finance, Pharmaceutical Management, and Accounting, which require 18 credits each.
+Visit
+Request Information
+Admissions Process
+
+========================================================================
+## academic_integrity_policy
+URL: https://academicintegrity.rutgers.edu/
+Description: Rutgers University academic integrity policy
+
+Title: Home | Academic Integrity - Rutgers University
+
+This Policy defines violations of academic integrity and outlines the potential penalties for such violations and the process for adjudicating alleged violations. This Academic Integrity Policy applies to all schools and academic units of Rutgers, The State University of New Jersey.
+Rutgers University Academic Integrity Policy
+Effective June 2
+nd
+, 2020

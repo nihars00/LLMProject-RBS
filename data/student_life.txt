@@ -1,5 +1,5 @@
 # Category: student_life
-# Generated (UTC): 2026-03-22T03:00:36.534380+00:00
+# Generated (UTC): 2026-05-01T02:41:56.578471+00:00
 
 ========================================================================
 ## myrbs_home
@@ -143,7 +143,7 @@ Description: New Brunswick undergraduate scholarships
 
 Title: Scholarships at Rutgers Business School
 
-The RBS Undergraduate NB Scholarship ceremony was held on March 28, 2025.
+The RBS Undergraduate NB Scholarship ceremony was held on March 23, 2026.
 The links to the reception gallery and program are below.~ A huge THANK YOU to our donors!
 View Scholarship Reception Gallery
 View Scholarship Program
@@ -512,7 +512,6 @@ Title: Undergraduate New Brunswick Students
 Welcome to the Office of Undergraduate Programs!
 The Rutgers Business School: Undergraduate-New Brunswick (RBS-NB) is committed to providing a high-quality program of study for students wishing to pursue professional careers in industry, public accounting, and Wall Street firms. The undergraduate majors offered by the RBS-NB include accounting, business analytics and information technology, finance, leadership and management, marketing, and supply chain management. Each major leads to the degree of Bachelor of Science and combines a liberal arts foundation in mathematics, the natural sciences, the social and behavioral sciences, and the humanities, with a professional specialization in one of the broad functional areas of business.
 The Office of Undergraduate Programs is here to monitor your academic progress to provide student support and assistance. Our academic advisors are committed to assisting students in understanding the policies and procedures of RBS-NB; exploring the range of majors, minors, and concentration programs available; and guiding students towards opportunities for undergraduate internships, study abroad opportunities, as well as other academic experiences available at the RBS!
-Important Upcoming Dates
 
 RBS Resources
 Forms
@@ -669,3 +668,2150 @@ Student Instructional Rating Survey
 (Course evaluation)
 Transportation Services
 Web Mail
+
+========================================================================
+## myrutgers_portal
+URL: https://my.rutgers.edu/
+Description: myRutgers main university student portal
+
+Title: myRutgers Portal
+
+
+
+========================================================================
+## myrun_newark_portal
+URL: https://myrun.newark.rutgers.edu/
+Description: MyRUN - Rutgers University-Newark student portal
+
+Title: WELCOME TO myRUN
+
+In This Section
+WELCOME TO my
+RUN
+Announcements
+Visit the One Stop Student Services Center in Conklin Hall - First Floor
+Check here for office hours
+The 2026 Undergraduate Application is open! Click
+here
+to apply!
+The 2026-2027 FAFSA is available! File your FAFSA
+today
+!
+Learn More in the FUNDING YOUR EDUCATION section
+HESSA 2026-2027 Application Deadlines
+|
+HESSA 2025-2026 Application Deadlines
+NJ Alternative Financial Aid Application for NJ Dreamer
+is avaliable for both 26-27 and 25-26 |
+Login to NJFAMS
+Spring 2026 hours for Student Advising Offices, Enrollment Service Offices, Academic Support Offices and Student Affairs Office
+Compare Majors-
+path2success.newark.rutgers.edu
+|
+See if you are meeting milestones at
+Path2Success
+Re-enrollment Information & Information Sessions
+- Rediscover, Re-engage & Re-enroll.
+Supplemental Nutrition Assistance Program (SNAP)
+Term Bill and Financial Aid Links and Guides
+Access your term bill
+Waive/Enroll in the Student Health Insurance Plan
+View your Financial Aid awards
+(when asked for your "Student ID," please type in your Net ID
+not
+your 9-digit RUID # | Need help finding your NetID?
+Click here
+)
+View and submit required documents
+Accept Loans
+Adjust or decline loans
+RU Payment Plan details and guides
+Grant access to authorized users
+(financial aid portal)
+You can contact the myRUN One Stop (Financial Aid, Registrar, Student Accounting, myRUN team) via:
+Detailed hours
+for In-Person visits
+Virtual Extended & Weekend Hours
+myRUN Supportal
+(online help form)
+Contact
+One Stop
+Important dates
+May
+4
+Spring 2026 | Regular Classes End | All Schools excluding RBS and Law School Graduate Students
+May
+5
+Spring 2026 | Reading Days | All Schools excluding RBS and Law School Graduate Students
+May
+6
+Spring 2026 | Last day to fully WITHDRAW from the university | All Schools
+May
+6
+Spring 2026 | Reading Days | All Schools excluding RBS and Law School Graduate Students
+May
+7
+Spring 2026 | Final Exam Period | All Schools
+May
+8
+Spring 2026 | Final Exam Period | All Schools
+May
+9
+Spring 2026 | Final Exam Period | All Schools
+May
+10
+Spring 2026 | Final Exam Period | All Schools
+May
+11
+Spring 2026 | Final Exam Period | All Schools
+May
+12
+Spring 2026 | Final Exam Period | All Schools
+May
+13
+Spring 2026 | Final Exam Period | All Schools
+May
+25
+Spring 2026 | Memorial Day - All University Offices Closed - No Classes | All Schools
+Aug
+12
+Spring 2026 | Summer Session Ends | All Schools
+View All
+Money
+Make the most of your education by understanding our costs and your funding options.
+Quick links
+Tuition, Fees, & Costs
+Funding Your Education
+Accessing Your Term Bill
+Grades & Records
+Interested in what your student record includes?  Find out how to access that information.
+Quick links
+View Grades
+Get a Transcript
+How to Calculate Your GPA
+Degree & Classes
+Success starts with preparation. Understand which classes and credits you need to stay on track.
+Quick links
+Registration
+Degree Planning
+Academic Calendar
+Rutgers Newark
+Look no further for everything beyond the classroom, from student life to health services.
+Quick links
+Spring 2026 Planning
+Social Justice Support and Action
+Resources For
+I'm a new student
+Discover new academic paths and pursue your interests.
+Start your Rutgers–Newark experience on the right foot.
+I'm an international student
+Discover our extensive support network for students far from home.
+I'm a veteran
+RU-Newark provides comprehensive support and services for our U.S. Military, Veterans, and their Dependents.
+I'm an undocumented student
+RU-N provides community of affirmation and support for undocumented students.
+Find out more about the resources available to you.
+I'm interested in taking summer courses
+Accelerate your time to graduation by taking a summer or winter class.
+I want to learn about the transfer process to Rutgers-Newark
+Learn about the transfer process and connect to the resources that will support your transition.
+I commute to campus
+Stay engaged with campus life, regardless of your commute.
+I'm Interested in Precollege Programs
+Explore programs within the Center for PreCollege Programs
+I am interested in EOF
+AFC provides academic opportunities, resources, and support programs primarily for underrepresented students to achieve success through education.
+I want to re-enroll at RU-N
+Return to RU–N to finish your degree or obtain a second degree
+Expanded RUN to the TOP Program
+The RU-N to the TOP program provides a “last-dollar” financial aid scholarship that covers the cost of in-state tuition and mandatory fees for1st and 2nd year students.
+Garden State Guarantee (GSG)
+GSG is a program designed to make college more accessible and affordable by supporting fulltime 3rd and 4th year students who are pursuing their first undergraduate degree.
+
+========================================================================
+## advising_faqs_newark
+URL: https://myrbs.business.rutgers.edu/undergraduate-newark/advising-faqs
+Description: Advising FAQs for Newark undergraduates
+
+Title: Frequently Asked Questions
+
+Frequently Asked Questions
+There is no denying that Rutgers-Newark and RBS is a complex organization with several policies, procedures and expectations. To help clarify these issues, we have developed a library of FAQs for your use. Should you have any additional questions, please contact your
+Academic Advisor
+.
+Academic Advising FAQs
+How do I get in touch with my academic advisor?
+During this time, you are strongly encouraged to contact your advisor through email (see below for your advisor’s email address). Your advisor can answer most questions you may have through email, but we also have the ability to virtually meet with you as well, either over the phone or through WebEx, if you would prefer. We would strongly recommend and encourage you to email your advisor for the quickest response time.
+Contact my Advisor
+What if I just have a quick or general question?
+We have set up a virtual front desk should you have a quick or general question. You can access the virtual front desk by going to this link:
+https://rutgers.webex.com/meet/lauryn
+You will be asked to download the application, which you do not need to do. At the bottom, you can just click “Join from your browser”
+Enter your name and Rutgers email address
+Click join meeting
+The virtual front desk is open/available Monday - Friday from 9:00 a.m. - 4:00 p.m.
+What if I don’t have internet at my house?
+Students who have technological needs including access to internet should contact our LaunchPad Services.
+For more information visit this link:
+https://runit.rutgers.edu/technology-launch-pad/
+What if I don’t have a laptop or computer access at home?
+Students who have technological needs including access to internet should contact our LaunchPad Services.
+For more information visit this link:
+https://runit.rutgers.edu/technology-launch-pad/
+What should students with learning disabilities do to try and receive accommodations for their classes?
+Please contact the Rutgers University Office of Disability Services (ODS) for assistance.
+Please know, the ODS staff is working remotely until further notice. But you can reach the staff via email (
+ods@newark.rutgers.edu
+) or by phone (973-353-5375).
+What should I do if I want to withdraw from one or more courses this semester?
+Please email your academic advisor to complete the appropriate paperwork.
+General FAQs
+First-Year Student FAQs
+What does an advisor do?
+Academic Advisors help students navigate their academic careers by providing assistance in a number of areas, including course advisement, referrals to academic/administrative departments, and general career navigation. The advisors help students stay on track with their general education and business school requirements, often making course recommendations along the way. Advisors also help undecided students determine their major and minor, taking into account the students’ interests and aptitudes. Advisors also help students experiencing difficulties or challenges, academic or personal, and connect the student with appropriate resources to resolve obstacles blocking the road to success.
+Can I change my advisor?
+Once a student enrolls in RBS, they are assigned an advisor based on the student’s last name. If you feel the need to change advisors, you must first discuss the situation with your advisor to see if a solution to the issue can be resolved. Advisor assignments are made to keep each advisor’s workload balanced and to ensure advisors have adequate amounts of time to meet with all of their students.
+Can my advisor tell my parents what courses I am taking?
+In accordance with protections extended by the
+Family Education Rights and Privacy Act (FERPA)
+, your advisor is not able to discuss any information related to your academic record, including your course schedule, unless you give signed, written permission. To grant this permission, you must fill out a FERPA waiver, with specifically what information can be discussed, with who, and within what time. Students are encouraged to discuss their schedules and academic records with their guardians, but ultimately the student is in charge of the direction for their academic career. If parents call or contact the advisor independent of the student without a FERPA waiver on file, the parent will be encouraged to talk to the student directly and reminded of the FERPA limitations.
+How many credits are required to be considered full-time?
+To be considered a full-time student, an individual must be registered for at least 12 credits. A student is considered Part Time if they choose to register for 11 credits or less. If you are receiving financial aid, be sure to consult with the Financial Aid Office to ensure you are registered for the proper number of credits in order to be in compliance with your financial aid terms and conditions.
+Why do I need to take a Placement Test?
+Placement exams are given to ensure students are enrolled in the proper courses that fit their current knowledge level. The University does not want students to enroll in courses they are not prepared for, nor do they want students taking courses that are too easy. Each incoming student, unless they will be transferring in the equivalency of English 101 or 102 and Basic Calculus MUST take a placement exam prior to registering for English or Math courses. Visit the
+Placement Testing Center
+to sign up for your exam. Additionally, should a student choose to take a foreign language, they must test with the Languages Department to see what level they should register for.
+What are “holds”on my academic record and how do I get them removed?
+Holds on your record can be, but are not limited to, academic holds, financial holds, library fines, parking tickets, administrative holds (“Dean’s Hold), etc. When you have a hold on your account, you do not have access to WebReg and cannot make any adjustments to your schedule. In order to have the hold removed, you will need to contact the office or department that has placed the hold. You can check for financial holds on your account by going to the
+Office of Student Accounting, Billing, and Cashiering
+.
+I’m having trouble in a class, what do I do?
+Your instructor should always be your first source to turn to if you experience any academic difficulty during your time at RBS. Go to their office for assistance, or send an email to request an appointment. If you are still experiencing difficulties after speaking with your professor, contact your academic advisor. It is not unusual to experience difficulties with classes –especially during the first semester. It takes time to adjust to the expectations and rigors of college-level courses. Be sure to take advantage of the FREE resources on campus, including the
+Writing Center
+for writing assistance,
+KNACK
+for accounting tutoring and the
+Learning Center
+for science and math tutoring.
+If I receive a poor grade in a class, can I retake the course?
+This question can best be answered in two parts: one for RBS-required courses and the other for General Education Core Requirements.
+For RBS-required courses, students must earn at least a C to pass the course. Courses that receive a D or F must be retaken in order for the requirement to be fulfilled. Once a student retakes a course and receives a C or better, the original D or F grade will be factored out of the student’s GPA, and the new “better” grade will factor in. Please note that the D or F will appear on the student’s transcript and academic record.
+For General Education Core Requirements, students must earn at least a D. Courses that receive an F are not awarded credit and will not count toward degree requirements. This is for all General Education courses except English, and Math. You must earn C or better grades in English and Math.
+Does my chosen major have to relate directly to what I want to do later in life?
+In many cases, your career plan will change over time, and your major will not be directly related to it. Employers are less concerned about your exact major than they are about your skills and experiences, including your internships and co-curricular activities. Visit the
+Office of Career Management
+and the
+Career Development Center
+for more information.
+My friend also goes to RBS so I can ask them questions about what courses to take, correct?
+Definitely do not do this. Curriculum changes happen quite often and the curriculum path you are on may be different from your friends. Always consult with your academic advisor for any questions you have about the curriculum requirements assigned to you and to ensure the courses you are taking will fulfill your degree requirements. Remember, it is your responsibility to know your curriculum and direct your academic career. If you choose to follow your friend’s advice, the potential negative consequences –including delayed graduation –fall on you.
+Should I only register to take Business School courses and leave my Core Requirements to the end?
+Remember, electives are your friends! These credits help you reach the required number of hours needed to graduate (120), while also providing a way to balance your schedule. It is best to create a balanced schedule that includes classes that fulfill Core Requirements and Business Requirements.
+If I was a good student in high school or at my community college, will my established study habits suffice at RBS?
+This may or may not be true. Most students experience challenges in the transition to a four-year institution. You should be prepared to adjust your study methods to address the increased rigors and new demands of intense business school coursework. Do not hesitate to take advantage of the
+Writing Center
+, the
+Learning Center
+, and
+KNACK
+. In addition to helping with course work, the Centers offer assistance with test-taking skills, time management, and relaxation.
+Can I change my major?
+Students are welcome to change their major at any point in time during their academic career. Changes can be made online via the
+Forms Portal
+. Students do not need to make an appointment to change their major.
+How do I make an appointment with my advisor?
+Appointments with academic advisors are made through the
+Navigate
+system. By logging in, students can view their advisors’ availability, and select their appointment date and time. Students must give advisors at least 24 hours advance notice prior to the appointment. If you are running late or need to cancel your appointment, please email your advisor directly. Students who are more than 15 minutes late to their appointment will not be seen and must reschedule for a later date.
+Are there ever any Walk-In Advising Hours?
+Normally, the answer is no. All advisors are seen by appointment only. The only exception to this policy is during the Add/Drop period at the beginning of the Fall and Spring semesters and during Priority Registration Week. During these times, advisors will have walk-in hours, seeing their assigned students on a first-come, first-served basis. Please note that lines are often long during these times and it is recommended students schedule an appointment prior to these busy times. No appointments will be accepted during Add/Drop and Priority Registration periods.
+What is Priority Registration?
+Priority Registration is the opening of registration for the upcoming semester. This week-long event allows students the first opportunity to register for classes. In the weeks leading to Priority Registration, students will receive emails detailing the breakdown for the day and time they will be able to register –which is based on total earned credits to date. It is strongly recommended that students meet with their advisor prior to the Priority Registration period in order to go over course selections. Students should also make every effort to register during this week as this is when the greatest number of courses are open and available. Once a course closes, students will not be able to register for that section.
+What is a pre-requisite?
+A pre-requisite is a course that must be taken before a student is able to take a more advanced course.For example, Financial Accounting must be completed before a student can take Managerial Accounting. Students are not able to override pre-requisites. RBS has a very sequential curriculum, meaning taking courses out of order will result in delayed graduation. It is very important to work with your academic advisor to ensure courses are being taken in the proper order and that all pre-requisites are fulfilled.
+Graduation FAQs
+Where can I find information about graduation?
+Our
+Senior Year Advisement
+webpage has lots of useful information regarding graduation.
+How do I apply for graduation?
+Students apply online via the
+Online Diploma Application System
+.
+Does the graduation application need to be submitted by a certain date?
+Yes, there are specific application deadlines for each term (October, January, May).
+Degree Granted
+Application Deadline
+October
+March 1 – July 30
+January
+August 15 – October 15
+May
+November 1 – February 15
+I received a denial email stating degree requirements were not met/completed. What should I do.?
+Please email your academic advisor to schedule an appointment.
+If I don’t graduate the semester I applied, do I need to reapply?
+Yes, you will need to change your graduation date via the
+Online Diploma Application System
+.
+When will I receive my diploma?
+If you requested your diploma be mailed, via the
+Online Diploma Application System
+, you should receive your diploma approximately four weeks after the end of the term. If you requested to pick-up your diploma, an email will be send by the Office of the Registrar once diplomas are available.
+How may I request an official transcript?
+Official transcripts, with final degrees posted, should be available approximately four weeks after the end of the term. Requests for official transcripts must be made via the
+Rutgers University Transcript, Verification and Term Grade Request Application
+.
+How does a student graduate with honors?
+The honors designation is bestowed upon graduating students who achieve a cumulative grade-point average as follows:
+Summa Cum Laude
+3.850 to 4.00
+Magna Cum Laude
+3.70 to 3.849
+Cum Laude
+3.50 to 3.699
+Do my transfer courses count in my grade-point-average for honors?
+No, only courses taken at Rutgers University count towards a student’s grade-point-average.
+School-to-School Transfer and Re-Enrollment FAQs
+How do I apply for a School to School Transfer?
+Please go to the
+School to School Transfer page
+.
+Who do I contact for an update on my application status?
+Please contact
+Lucille Foster
+, the Assistant Dean here at RBS.
+When will my credits be updated?
+For School to School Transfer students:
+Once a student attends the Newly Enrolling student registration, and registers for the semester in which they are admitted, updates will be completed by the end of the following semester.
+Please contact
+Kevin Collazo
+For Re-enrolling Students:
+Updates are done once the semester in which the student is re-enrolled begins.
+Please contact
+Kevin Collazo
+How do I get in contact with my advisor?
+Please go to
+Contact Us Page
+to find your advisor’s contact information.
+My courses do not fit in Degree Navigator
+Unfortunately, courses taken at other Rutgers divisions, such as New Brunswick or Camden, may not fit perfectly into the Rutgers-Newark system. Advisors are able to provide substitutions for courses if in fact there are direct equivalents.
+The system is saying that I do not have the pre-requisite but I have taken them?
+Most pre-requisites are in our systems, unfortunately, for those that are not, you will need to meet with you advisor for a pre-requisite over-ride.
+How do I apply for Re-Enrollment?
+Please go to the
+Re-Enrollment application page
+.
+What do I do if I attended another college while absent from Rutgers?
+Students are to send their official College transcripts to
+65 Davidson Road –Room 202’
+Piscataway, NJ 08854-8097
+Do my courses Expire?
+Yes, As of Spring 2018 business courses taken seven or more years ago need to be retaken.
+I was out of school for more than one semester, what happens?
+Students who have been away from Rutgers for more than one semester are required to follow any curriculum changes that occur during their absence from Rutgers.
+Transfer Student FAQs
+Where and how do I submit my official transcripts?
+Transcripts can be mailed to the following addresses:
+Incoming & First semester students:
+Rutgers University, Office of Undergraduate Admissions
+65 Davidson Road, RM 308
+Piscataway, NJ 08854-8097
+Continuing students:
+Rutgers University, Office of Undergraduate Admissions
+35 Warren St.
+Newark, NJ 07102-1896
+Transcripts may be electronically sent to:
+Transcripts@admissions.rutgers.edu
+What is considered an official transcript?
+An official transcript is considered to be a transcript received in a sealed envelope.
+When and how will I know what credits have transferred?
+You will be notified via email regarding your initial transcript evaluation.
+When will I receive my final evaluation?
+Your final evaluation will be completed during the start of your first semester.
+How and when will I know whether I have received a General Education course waiver?
+Your General Education waiver code of 21:999:999 will be added onto your final transcript evaluation provided that you have submitted a final transcript from a NJ County College annotated with your graduation date.
+Am I able to meet with an Academic Advisor to find out what credits will transfer to Rutgers before I apply?
+Academic Advisors only meet with students who are currently enrolled within the Business School. In order to get an idea of your possible transfer credits you can visit njtransfer.org if you are a New Jersey Community College student or you can contact our Assistant Dean, Lucille Foster at
+lufoster@business.rutgers.edu
+Can my prior coursework ever expire?
+Business courses taken over seven years ago are not transferable, therefore you must retake the courses at Rutgers Business School-Newark.
+I have a question regarding my transfer evaluation; whom should I speak with?
+All questions regarding your transfer evaluation should be addressed with your respective Academic Advisor.
+What if want to appeal my transfer evaluation decision?
+It is recommended that an appeal be filed within 30 days of receiving the initial evaluation of transfer credits. This appeal should include a reason for the appeal, the desired outcome and all supporting documents (i.e.: course syllabi, etc.). The Appeal Form should not be used to request a course substitution or a waiver.
+Does Rutgers University accept graduate coursework?
+We do not accept graduate coursework as transfer credit.
+Will Rutgers University accept the credits from my previous institution?
+Rutgers University will accept credits for courses taken at regionally accredited colleges and universities provided that the course is compatible with the curriculum of RBS, as approved by the faculty, and the courses applicable to the declared program of study. The following are agencies accepted by RBS:
+The Middle States Association of Colleges and Schools.
+Accreditation of colleges in the middle states region (Delaware, District of Columbia, Maryland, New Jersey, New York, Pennsylvania, and Puerto Rico).
+The New England Association of Schools & Colleges
+.
+Accreditation of colleges in the New England region (Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont).
+The North Central Association of Colleges and Schools
+.
+Accreditation of colleges in the north-central region (Arkansas, Arizona, Colorado, Iowa, Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, North Dakota, Nebraska, Ohio, Oklahoma, New Mexico, South Dakota, Wisconsin, West Virginia, Wyoming).
+The Northwest Association Of Schools And Colleges
+.
+Accreditation of colleges in the North West region (Alaska, Idaho, Utah, Montana, Nevada, Oregon, and Washington.)
+The Southern Association of Colleges and Schools
+.
+Accreditation of colleges in the southern region (Alabama, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Texas, Virginia)
+The Western Association of Schools and Colleges
+.
+Accreditation of colleges in the Western region.
+What is the maximum number of transfer credits that Rutgers University will accept towards my degree?
+Rutgers will accept a maximum of 90 credits from a four-year institution and a maximum of 65 credits from a Community College.
+I went to college in a foreign country. How do I get my credits evaluated?
+Students must have their international college transcripts translated and evaluated course by course by an agency associated with the National Association of Credential Evaluation Services. For a list of these participating agencies please visit
+www.naces.org
+I have received credits from the military/police academy. Are these credits transferable? What’s the lowest grade that can be awarded as transfer credit?
+Only courses that have received a grade of C or better are accepted for transfer. Courses taken at another institution are not included in your Rutgers GPA.
+How will I know whether I am exempted from the English and Math Placement Testing?
+If you have taken a college-level Math or English course at a previous institution you will be exempted from taking our Placement exam, providing that these courses are direct equivalent to our college-level English and Math courses.
+International Students FAQs (as of Fall 2020)
+
+========================================================================
+## student_orgs_nb_involvement
+URL: https://www.business.rutgers.edu/undergraduate-new-brunswick/student-involvement
+Description: New Brunswick student organizations and involvement
+
+Title: Student Involvement
+
+Student Involvement
+Undergraduate Program in New Brunswick
+There are many ways to get involved at Rutgers Business School: Undergraduate - New Brunswick. One great way is to join a student organization. Our diverse and well-rounded student body has led to the creation of all kinds of clubs, so you can be confident you'll find something that interests you.
+Organizations
+Ascend (Pan-Asian Leaders)
+Ascend is the premier professional organization dedicated to enabling its members, business partners and community to leverage the leadership and global business potential of Pan-Asians.
+Association of Latino Professionals For America (ALPFA)
+ALPFA is the leading professional association dedicated to enhancing opportunities for all business related professions. Established in 1972, this Association continues to build upon our proud legacy of shared values and guiding principles. ALPFA advances into the 21st century as an experienced professional association with student chapters nationwide and over 15,000 members, and with the mission to enhance opportunities for building leadership and career skills.
+Visit Website
+Beta Alpha Psi (BAP)
+Beta Alpha Psi is a nonprofit international honorary and service organization for accounting, finance, and information systems students. Beta Alpha Psi provides opportunities for development of technical and professional skills to complement university education; participation in community service; and interaction among students, faculty, and professionals.
+Beta Gamma Sigma Honor Society (BGS)
+Beta Gamma Sigma is an international honor society that provides the highest recognition a business student anywhere in the world can receive in a baccalaureate or post-baccalaureate (graduate) program at a school accredited by AACSB International.
+Black Business Association (BBA)
+The Black Business Association is an inclusive student organization focused on uplifting underrepresented minority students interested in any aspect of business. We aim to achieve this by providing a network of current students, alumni, and professionals in the workforce. Our programming includes professional and faculty speaker sessions, seminar-style discussions, coverage on topics like investing, entrepreneurship, and much more.
+The Business Association of Supply Chain Expertise (BASE)
+BASE assists students in developing imperative skills that are used in the professional world. This organization, and the skills promoted by this organization are beneficial to all business majors, with a special concentration to Supply Chain majors.
+Visit Website
+Delta Sigma Pi (DSP)
+Delta Sigma Pi is a professional fraternity organized to foster the study of business in universities; to encourage scholarship, social activity and the association of students for their mutual advancement by research and practice; to promote closer affiliation between the commercial world and students of commerce; and to further a higher standard of commercial ethics and culture and the civic and commercial welfare of the community.
+Visit Website
+Fashion Organization of Retail and Marketing (FORM)
+The Fashion Organization of Retail and Marketing strives to unite Rutgers students with a passion for fashion, encourage interest, provide learning and networking opportunities, and enable students to explore prospective careers in the business of fashion. Between lectures and workshops with industry professionals, students can collaborate ideas and foster a fashion-oriented community through interactive activities.
+Future Business Leaders of America
+Future Business Leaders of America is a professional development organization open to all majors, built around the pillars of Service, Education, & Progress. Their mission is to bring business and education together in a positive working relationship through innovative leadership and career development programs.
+Visit Website
+Investment Bankers of Rutgers (LIBOR)
+We focus on placing students in "front-office" positions (Investment Banking, Sales and Trading, Research and Investment Management) at leading firms on Wall Street.
+We host a wide range of educational and networking activities throughout the academic year, giving students opportunities to obtain and succeed at interviews. Our meetings and workshops are specifically designed to prepare our members for the rigorous Wall Street interview process. In any given year, the overwhelming majority of Rutgers students who receive summer internship or full time job offers in front-office positions are active LIBOR members.
+View Website
+Rutgers Association of Marketing & Strategy (RAMS)
+RAMS serves the RBS and general Rutgers community as the outlet for industry and career information within the Marketing Communications sphere. We aim to educate students about careers in Advertising, Media, Marketing, or PR. Our organization offers opportunities to gain hands-on experience and a wealth of industry knowledge.
+Rutgers Enactus
+En
+∙ trepreneurial – having the perspective to see an opportunity and the talent to create value from that opportunity;
+Act
+∙ ion – the willingness to do something and the commitment to see it through even when the outcome is not guaranteed;
+Us
+– a group of people who themselves connected in some important way; individuals that are part of a greater whole.
+Enactus is an international non-profit organization that brings together student, academic and business leaders who are committed to using the power of entrepreneurial action to improve the quality of life and standard of living for people in need.
+Visit Website
+Rutgers Phi Chi Theta
+A national, co-ed professional business & economics fraternity. Open to students majoring in Business, Economics and Human Resource Management.
+Visit Website
+Rutgers Business Governing Association (RBGA)
+The Rutgers Business Governing Association (RBGA) is the student governing body of the Rutgers Business School (RBS). We are the voice of the Business School students to the rest of the University and act as a liaison between faculty, administration, and students.
+RBS Blockchain Hub
+RBS Blockchain Hub brings together students from all disciplines and helps educate them about the future of blockchain applications for business. This is done through offering student-led workshops, speaker events, and sponsored travel to blockchain conferences and hackathons. The Hub also empowers students into careers involving blockchain by obtaining partnerships with companies onboarding blockchain-educated students, ranging from startups to establish corporations.
+Rutgers Business School Innovation Committee (RBSIC)
+The Rutgers Business School Innovation Committee (RBSIC) is a dynamic organization that plays the role of a liaison between RBS students and the Office of Career Management
+Rutgers Consulting (RC)
+Rutgers Consulting (RC) is the one-stop shop for students aspiring to succeed in the Consulting Industry. We deliver value across three focus areas: (I) Learning & Development, (II) Client Service, and (III) Postgraduate Opportunities.
+Rutgers Real Estate Club
+We organize events throughout to semester to educate students on real estate. These events include speaker series, case competitions, and Q&As. Once Covid restrictions have been lifted, we will attend real estate conferences.
+Rutgers Undergraduate Women in Business (RUWIB)
+The Rutgers Undergraduate Women in Business is a student run organization whose purpose is to empower future women leaders by building a strong community that develops professional skills; promotes business education; and fosters personal growth.
+Rutgers University Accounting Association (RUAA)
+The RUAA, Rutgers University Accounting Association, strives to provide current, new, and prospective accounting students with the resources they need to improve themselves and succeed both at Rutgers and in the professional world. The Association’s primary goals are to organize study groups for accounting students, bring in speakers to inform students about opportunities in the accounting field, and to have seminars with professionals to improve students accounting skills.
+Rutgers University Supply Chain Association (RUSCA)
+RUSCA serves as an intellectual and social forum that provides students with corporate and academic experiences to promote their growth as future supply chain professionals. To that end, we are dedicated to providing academic, professional, and networking resources in order to cultivate Rutgers supply chain majors into leaders of their chosen industries across all levels of business organizations and society in the future.
+Visit Website
+Rutgers University Valuating (RU Valuating)
+The focus of RU Valuating is to facilitate the education of financial concepts on campus and to bridge the gap between Rutgers students and intercollegiate peers when it comes to interview preparation.
+TAMID Group at Rutgers
+TAMID Group is a nonprofit organization that develops the professional skills of undergraduate students through hands-on interaction with the Israeli economy.
+TAMID Consulting provides pro-bono consulting for the most exciting and innovative companies coming out of Israel. TAMID members engage in projects during the academic year that build skills in market research, competitive analysis, market entry strategy, beta testing/product development and design, and more.
+Visit
+Contact Us
+Apply
+
+========================================================================
+## student_orgs_nb_myrbs
+URL: https://myrbs.business.rutgers.edu/undergraduate-new-brunswick/student-organizations
+Description: New Brunswick student organizations on myRBS
+
+Title: Student Organizations
+
+There are many ways to get involved at Rutgers Business School: Undergraduate - New Brunswick. One great way is to join a Student Organization. Our diverse and well-rounded student body has led to the creation of all kinds of clubs, so you can be confident you'll find something that interests you. Click on the name of each organization to learn more about what they have to offer!
+Student Organizations
+Association of Latino Professionals in For America
+(ALPFA)
+Ascend: Pan-Asian Leaders
+Business Association of Supply Chain Expertise
+(BASE)
+Beta Alpha Psi
+Beta Gamma Sigma Honor Society
+(BGS)
+Black Business Association
+Business Information Technology Society
+(BITS)
+DECA
+Delta Sigma Pi
+Fashion Organization of Retail & Marketing
+(FORM)
+Future Business Leaders of America
+(FBLA)
+Little Investment Bankers of Rutgers
+(LIBOR)
+National Association of Black Accountants
+Out In Business
+Phi Chi Theta
+Road to Consulting
+Road to Silicon V/alley Program
+(RSVP)
+Rutgers Association of Marketing & Strategy
+(RAMS)
+Rutgers Business Governing Association
+(RBGA)
+Rutgers Consulting Group
+Rutgers Corporate Finance Society
+Rutgers Data Science Society
+Rutgers Enactus
+Rutgers Entrepreneurial Society
+Rutgers Personal Finance Club
+Rutgers Real Estate Club
+Rutgers Sports Business Association
+Rutgers Smart Woman Securities
+Rutgers Undergraduate Women in Business
+(RUWIB)
+Rutgers University Accounting Association
+(RUAA)
+Rutgers University Business For Youth
+(RUBY)
+Rutgers University Supply Chain Association
+(RUSCA)
+Rutgers Venture Capital Club
+Scholars of Finance
+TAMID Group at Rutgers
+
+========================================================================
+## scholarships_newark
+URL: https://myrbs.business.rutgers.edu/undergraduate-newark/scholarships
+Description: Newark undergraduate scholarships
+
+Title: Scholarships
+
+For additional details and to apply for these scholarships, please contact the Center for Supply Chain Management at
+cscm@business.rutgers.edu
+.
+Council of Supply Chain Management (CSCMP)
+This professional organization, offers annual scholarships to SCM students. In the last two years, Council of Supply Chain Management Professionals (CSCMP) in New Jersey has awarded over 14 Scholarships worth over $10,000 to Rutgers Business School Supply Chain Management Students and 4 of those students have attended the National CSCMP Meetings all travel expenses paid by CSCMP. Watch for announcements for the application process during the spring semester, typically in March.
+Institute for Supply Management Scholarships
+This professional organization offers annual scholarships to SCM students.  The number of scholarships vary from year to year, typically from 2-4 are offered annually. In addition to the scholarships, the Services Group provides financial assistance for students and an academic advisor to attend the annual ISM conference by subsidizing conference fees and portions of travel expenses. ISM also provides annual membership to the organization to full time students and waives the membership fee.
+To learn more,
+please click here
+.
+New Jersey CSCM Student Award (NJ Industry Award)
+The CSCMP-NJ Roundtable offers scholarships each year to Rutgers Business School's undergraduate, MBA and Ph.D. students concentrating in Supply Chain Management.
+R. Gene Richter Scholarship
+The following is an announcement from the most recent scholarship, but this typically is an annual scholarship.  “The Institute for Supply Management™ (ISM) is pleased to work with the R. Gene and Nancy D. Richter Foundation in the promotion of the R. Gene Richter Scholarship Program. The R. Gene and Nancy D. Richter Foundation in partnership with the ISM R. Gene Richter Scholarship Fund will provide scholarships of up to $5,000 U.S. dollars to individuals seeking education in the area of supply management or supply chain management.  Eligible students will be in their senior year during the 2016-2017 academic year. Students must be enrolled full time in an accredited supply management program with the intention of specializing in the supply management profession. Scholarship recipients will be chosen based on outstanding academic achievement, high ethical standards, and potential to become a future leader in the supply management field.”  R. Gene Richter Program Foundation website at
+richterfoundation.org
+.
+Supply Chain Leadership Award
+The Center for Supply Chain Management honors students who have demonstrated exemplary leadership and dedication to supply chain management during their academic careers.  Recipients are selected based on academic merit, contribution to the Rutgers supply chain management program, and the recommendation of faculty members.
+
+Rutgers Business School offers several scholarships to students enrolled in Rutgers Business School – Undergraduate Newark Program.  A brief eligibility criteria is provided for these scholarships.
+To be eligible for any of the scholarships below:
+you must have filed a
+FAFSA Application
+,
+you must have a Rutgers GPA of at least 3.2 or better,
+you must be a full-time student (12 credits or more), and
+you must fill out a scholarship application
+Available scholarships
+Anquillare FamilyScholarship
+Royal G. Beck Endowed Scholarship
+Beverly Beill Endowed Scholarship
+Petra Cephas Scholarship
+Gary M. Cohen Endowed Scholarship
+Vito A. Cardace Endowed Scholarship
+Classroom to Boardroom Scholarship
+Gary Dornbush Accounting Scholarship
+Archie B. Edgar Endowed Scholarship
+Victor W. Farris Scholarship
+Gebrüder Weiss Supply Chain Leadership Scholarship
+Sidney Handler Endowed Scholarship
+Robert and Frances Kaplan Endowed Scholarship
+Kenneth & Jessica Miller Endowed Scholarship
+Joseph Nestor Memorial Scholarship
+Palumbo Family Endowed Scholarship
+Judith Fay Ross Memorial Endowed Scholarship Fund
+John F. Ruffle Endowed Scholarship
+Rutgers Business School 75th Anniversary Endowed Scholarship Fund
+School of Business/Management Alumni Association Scholarship
+Zachary G. Stoumbos Endowed Memorial Award
+Taraneh Sohrab Scholarship
+Marcus Turner Bean Scholarship
+Louis Tuckman Memorial Scholarship
+Patricia Verderami Scholarship
+Rutgers University Scholarship Opportunities
+Incoming Transfer Students
+First-Year Students
+Non-Rutgers Scholarship Opportunities
+Fast Web
+College Board
+
+========================================================================
+## real_program
+URL: https://myrbs.business.rutgers.edu/real-program
+Description: RBS Engagement and Leadership (REAL) Program
+
+Title: RBS Engagement and Leadership (REAL) Program
+
+REAL is a data analytics & student engagement platform. The purpose of the platform is to help you measure and track the activities you participate in outside of the classroom. Employers, scholarship committees, and institutes of higher education look for well-rounded students when selecting candidates, and REAL allows you to document on one platform and articulate in an interview your extra and co-curricular engagement.
+REAL enables RBS to structure and measure student success outside of the classroom while integrating co-curricular activities into a holistic student experience and helps our students become more qualified, and well-rounded hires upon graduation. Students can quantify and articulate extracurricular engagement in interviews and utilize their scorecard as a transcript of their competency development during the recruitment process and stand apart from similarly qualified applicants.
+The activities are designed to develop important professional competencies and provide networking opportunities to help you become more competitive hires in the job market.
+The platform also provides a single space for tracking and searching events throughout the entire business school from clubs and organizations to career fairs and employer information sessions.
+However, these are not the only benefits of the program. Through gamification and the competitive components of the platform, you can earn points to win badges and prizes each month.
+
+View the leaderboards for each program to see the top performers.
+Newark Leaderboard
+New Brunswick Leaderboard
+
+You can earn points by attending an event or completing a task. The amount of points you c
+an earn per event or task varies. The higher the level and number of competencies, the more it is worth.
+ACTIVITY LEVEL
+1
+2
+3
+4
+5
+POINTS PER COMPETENCY
+10
+20
+50
+75
+150
+For example, a Level 3 event with one competency is worth 50 points and a Level 2 event with three competencies is worth 60 points.
+
+Tasks
+Tasks range from simple things such as following RBS on social media or joining a club to more complex tasks, including becoming an executive of a club or starting your own club.
+Events
+Activities include attending events sponsored by clubs and other RBS departments. All RBS clubs can submit their events into REAL for approval, however, an event must already be approved and posted in REAL to be eligible for points.
+Retro-active submission of events is not allowed, and those points will be forfeited. If you think an event by your club should be on REAL and is not, check with the club’s E-board.
+Surveys
+Complete important surveys from RBS to earn points (eg. Employment Outcome Survey, RBS Experience Survey, etc.)
+
+Prizes are earned by students who make it to the top of the leaderboard on the REAL application. You can keep track of your progress through the mobile app or desktop version of the platform.
+Monthly Prizes
+Monthly leaders will receive prizes such as:
+Gift cards
+Various RBS swag
+Everyday classroom essentials
+And much more!
+End of Semester Prizes (Business Forum Class Only)
+The top point earners in each section of Business Forum for the semester will be invited to a luncheon with the RBS Deans and receive a certificate recognizing your achievement as well as an exclusive RBS hoodie.
+
+Go to the app store. Search for “
+Suitable
+” download the app.
+Sign-in with your
+ScarletMail email address
+, which will bring you to the CAS log-in screen. Then sign-in with your
+NETID.
+Enable Push Notifications and access to the camera. You need to allow the camera access so that you can scan the QR code at events and earn points. Finish setting up your account.
+To upload a profile photo, click the gear icon in the top right corner and click on “Scorecard.”
+Earn your first 10 points by finding the task "Create Suitable Profile & Download the App". Swipe right and press "
+Complete and claim your points”
+Congratulations you’ve now earned your first 10 points!
+*If you are unable to access the app, you can also visit the website: app.suitable.co (log-in is the same)
+
+========================================================================
+## path2success_program
+URL: https://myrbs.business.rutgers.edu/path2success
+Description: Path2Success mentoring and student success program
+
+[ERROR] HTTP 404
+
+========================================================================
+## career_management_undergrad_resources
+URL: https://myrbs.business.rutgers.edu/office-career-management/undergraduate/resources
+Description: Undergraduate career management resources hub
+
+Title: Undergraduate Resources
+
+Individual 1-on-1 Career Coaching Appointments
+Internship and Co-op Advice
+Resume and Cover Letter Critiques
+Video Interview Rooms
+Mock Interview Practice
+Access to
+CareerKnight
+Access to
+Rutgers Newark Handshake
+and
+Rutgers New Brunswick Handshake
+(includes job postings, resources, and campus recruiting for the Newark and New Brunswick Campuses)
+Targeted Professional Development Workshops
+Annual RBS Fall and Spring Career Fairs
+Industry Panels
+
+If you have any issues, contact:
+New Brunswick:
+rbscareers@business.rutgers.edu
+Newark:
+ocm-nwk@business.rutgers.edu
+CareerKnight
+Rutgers Business School (RBS) has enhanced its exclusive job portal, CareerKnight, to better serve you. You can make an appointment, view job opportunities, apply for internship-for-credit and so much more.
+CareerKnight
+Handshake
+This career management platform offered to all Rutgers students provides:
+Machine learning to highlight relevant resources tailored to each user
+A mobile app that allows students to access platform features on the go
+Ability to follow employers of interest and receive alerts when opportunities are posted
+Rutgers New Brunswick Handshake
+Rutgers Newark Handshake
+
+========================================================================
+## careerknight_portal
+URL: https://careerhub.business.rutgers.edu/resources/careerknight/
+Description: CareerKnight - exclusive RBS job portal
+
+Title: CareerKnight
+
+CareerKnight
+Share This:
+Share CareerKnight on Facebook
+Share CareerKnight on LinkedIn
+Share CareerKnight on X
+Copy Link
+CareerKnight
+NEW: Rutgers Business School (RBS) has enhanced its exclusive job portal, CareerKnight, to better serve you. You can make an appointment, view job opportunities, apply for internship-for-credit and so much more.
+To create a CareerKnight account, after you have completed the
+Rutgers Business School Agreement
+, visit the
+CareerKnight website
+.
+Firsthand (Evisors Webinars)
+Firsthand is an online marketplace for expertise – connecting you with qualified and knowledgeable experts across a wide range of fields.
+RBS Resume Format
+Resume Template
+View Resource
+
+========================================================================
+## handshake_rutgers
+URL: https://rutgers.joinhandshake.com/
+Description: Rutgers Handshake portal for jobs and internships
+
+Title: Get connected
+
+
+
+========================================================================
+## tutoring_services_nb
+URL: https://lsc.rutgers.edu/
+Description: Rutgers Learning Resource Center / tutoring (NB)
+
+[ERROR] HTTPSConnectionPool(host='lsc.rutgers.edu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='lsc.rutgers.edu', port=443): Failed to resolve 'lsc.rutgers.edu' ([Errno 8] nodename nor servname provided, or not known)"))
+
+========================================================================
+## newark_writing_center
+URL: https://www.ncas.rutgers.edu/writingcenter
+Description: Rutgers-Newark Writing Center for student support
+
+Title: Writing Center
+
+Writing Center
+Writing Center coaches work with students to support them in their writing and to help them improve skills in critical reading, written analysis, organization, use of sources, and grammar and syntax.
+The Writing Center is delighted that The Learning Center will be joining us this semester in our space in Hahne 245.  We're excited to be able to now serve all our students' tutoring needs in one place.
+Hahne Room 245
+973-353-5847
+nwc@newark.rutgers.edu
+Spring 2026 Hours
+The Writing Center opens for Spring tutoring on Monday, January 26 and runs through Friday, May 8, 2026. Please note that the Center will be closed during Spring Break, March 16-20, 2026.
+Spring Hours
+Monday - 9:15am to 5:30pm
+Tuesday - 9:15am to 5:30pm
+Wednesday - 10:00am to 8:30pm
+Thursday - 9:15am to 5:30pm
+Friday - 10:00am to 1:00pm
+Students can make either in-person or remote appointments.
+Making an Appointment
+To make an appointment through Penji, visit Penji
+online
+or download the app for
+iOs
+or
+Android
+, then create your account by logging in with your NetID and password. Once you activate your account, you will see a list of "communities" that represent the different services available to you. From there you can log on to the  "R-N Writing Center" community to make an appointment.
+Our front desk staff can also make an appointment for you: Hahne & Co.,  Suite 245
+To make an appointment by phone, call us at 973-353-5847
+For additional tutoring services, please contact
+The Learning Center.
+Becoming a Tutor
+Rutgers University-Newark Writing Center
+Tutor Application
+Hahne 245, 973-353-5849
+Please complete the following application and return to Marne Benson at
+marneb@newark.rutgers.edu
+Writing Tutor Application.pdf
+Newark Writes! Community Writing Center
+We are pleased to provide writing workshops to the greater Newark community. Join us this Spring for workshops in creative, personal, and civic writing. Workshop dates and topics will be announced shortly.
+All will be held in Hahne 245, 54 Halsey, from 4-6pm.
+February 12, 2026
+Writing Personal Essays and Statements
+Truth can be stranger than fiction. In this workshop, we'll work through a series of prompts to craft personal essays or personal statements and look at various contemporary texts for inspiration as we write our own!
+February 26, 2026
+Tell Me a Story: Getting Started With Fiction
+Ready to craft a killer first line? Or are you further along and trying to weave in your theme? This class will approach story structure and engage with several prompts to help flesh out those scenes that have lived in your imagination for so long.
+March 5, 2026
+Start Your Screenplay!
+Every story begins with a first step. In our first class, we will analyze first scenes and how they function within story structure. Using prompts, we will also free-write some first scenes of our own. This workshop is generative and structured for writers at all stages in the process of creating that magical first scene.
+March 26, 2026
+Flash Fiction
+This workshop will focus on how to write very short stories that feel very big. We'll discuss the fascinating genre of flash fiction, look at some classic examples, and then try writing our own.
+April 9, 2026
+Save the Cat
+In this workshop, we'll review how to use this classic beat sheet to outline or revise your novels and screenplays.
+April 23, 2026
+Humor Writing
+From writing comedy sketches and satirical essays, to stand-up routines, there are many forms humor writing takes. We will not only explore how to be funny in writing, but we will also examine the three theories of humor to understand how comedy works.
+For more information, please visit our website:
+Newark Writes!
+Writing Program
+The Writing Center is the tutorial component of the Writing Program. For more information on the Writing Program, please click on
+this link.
+Writing Support for Graduate Students
+In cooperation with the Graduate School-Newark and the MSW program, we provide writing coaching to all School 26 and MSW students. A Writing Coach can support you by providing suggestions and feedback on areas like organization, research, sentence clarity, etc. (Please note that the coach cannot edit or proofread your work.) Writing coaching will begin for the Spring semester on
+Monday, January 26, 2026 and will continue until Friday, May 8, 2026
+. We will work with you on numerous aspects of your writing, from time management to organization to sentence clarity! We are available to work with you via
+zoom
+or
+email
+for hour-long appointments.
+Note: There will be no coaching appointments during the week of March 16-20.
+If you have any questions, please email Marne Benson at
+marneb@newark.rutgers.edu
+.
+Graduate School- Newark Students (School 26)
+Coaching sessions are available at the following times:
+Mondays: 10-11am, 11-noon, noon-1pm, 1-2pm
+Tuesdays: 5:30-6:30pm
+Wednesdays: 8-9am, 9-10am, 10-11am
+Fridays: 10-11am, 11-noon
+To request an appointment, please email me
+(marneb@newark.rutgers.edu)
+with the following information:
+Your name
+Date/Day and Time requested
+Zoom or Email
+MSW Students (School 19)
+Coaching sessions are available at the following times:
+Tuesdays: 1-2pm, 2-3pm
+Wednesdays: 9-10am
+Thursday: 10:30-11:30am, 11:30-12:30pm
+To request an appointment, please email me
+(marneb@newark.rutgers.edu)
+with the following information:
+Your name
+Date/Day and Time requested
+Zoom or Email
+School of Public Affairs and Administration Students
+Please contact Terry Hall at
+https://spaa.newark.rutgers.edu/graduate-writing-center
+Contact Us
+Rutgers University-Newark Writing Center
+245 Hahne (2nd floor)
+Enter from 54 Halsey
+973-353-5847
+Marne Benson
+Writing Center Manager
+973-353-5849
+marneb@newark.rutgers.edu
+
+========================================================================
+## financial_aid_office
+URL: https://financialaid.rutgers.edu/
+Description: Rutgers University Office of Financial Aid
+
+Title: Scarlet Hub
+
+Home
+Important:
+The One Big Beautiful Bill Act (OBBBA) introduces significant changes to federal student aid beginning July 1, 2026.
+Students and families are encouraged to review the
+OBBBA Information page
+. Medical and Dental students can view
+OBBBA Information Specific to Rutgers Health Students
+. Both pages will be updated as more guidance becomes available. We are here to help students navigate these changes. For questions and concerns, students should contact their
+regional One Stop Student Services Center
+. Rutgers Health students should contact their
+campus Office of Financial Aid
+.
+I want to…
+Apply for Financial Aid
+Check for missing documents
+Use Rutgers Net Price Calculator
+Pay my term bill
+Get my refund
+Register for classes (WebReg)
+Request my transcript
+View my financial aid
+Important Dates
+Tuesday
+May
+5
+Spring 2026 Semester – Reading Days
+Thursday
+May
+7
+Spring 2026 Exams Begin
+Wednesday
+May
+13
+Spring 2026 Exams End
+View more dates
+
+========================================================================
+## scholarship_universe_rutgers
+URL: https://financialaid.rutgers.edu/types-of-aid/scholarships/
+Description: Scholarship Universe - personalized scholarship search
+
+Title: Scholarships
+
+Home
+/
+Financial Services
+/
+Types of Aid
+/
+Scholarships
+Types of Aid
+Scholarships
+Scholarships for Rutgers Students
+Merit-based Scholarship Eligibility Criteria
+Grants
+Loans
+Federal Direct and PLUS Loans
+Private Loans
+Entrance Counseling
+Exit Counseling
+Loan Information for Rutgers Health Students
+Garden State Guarantee
+Rutgers Tuition Assistance Programs
+Student Employment
+Scholarships
+What Are Scholarships?
+Scholarships are a form of gift aid and do not need to be repaid. Continuing and admitted students who submit a Free Application for Federal Student Aid (FAFSA) are automatically considered for a wide range of scholarships awarded by the Office of Financial Aid. Even if you believe you will not qualify for need-based financial aid, it is still important to file the application, since some merit scholarships also have a need-based component.
+All need-based university scholarship funds are awarded on the basis of financial need as determined by information provided on the FAFSA. We determine your individual scholarship eligibility by subtracting the amount we expect you and your parents to contribute toward your costs, and other federal and state grant funds from the total student budget. Renewal criteria for scholarships vary based on the specific scholarship and will be provided at the time of the initial award.
+Learn more about additional scholarship opportunities offered by Rutgers.
+Merit-based Scholarships
+Rutgers Students
+Rutgers Health Students
+Show Appreciation
+Are you a scholarship recipient? Write a thank you note to the donors who made it possible. Writing a letter to the donor is a great way to show appreciation for the awards you received. You can use our
+guide
+to help you create a letter to the donor that provided your scholarship.
+
+========================================================================
+## counseling_psychiatric_services
+URL: https://health.rutgers.edu/medical-counseling-services/counseling/
+Description: Counseling, ADAP & Psychiatric Services (CAPS)
+
+Title: Counseling Services
+
+Counseling Services
+Make an Appointment
+Locations
+Contact Us
+Counseling services are offered through Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (CAPS), our university mental health support service. We develop an individualized action plan for each student based on your unique needs and the range of resources available at CAPS, within the university, and in the surrounding community. Services include crisis intervention, individual therapy, group therapy, a variety of workshops, alcohol and other drug assistance programs, psychiatric care (medication management), and community referrals.
+Our staff includes psychiatrists, psychologists, clinical social workers, and substance abuse counselors, all with expertise in both general mental health concerns and issues unique to a college environment. We provide students with evidence-based/data driven mental health treatment that addresses each student’s most pressing needs.
+Therapy Options
+Crisis Intervention
+Faculty/Staff Resources
+Parent Resources
+Student Resources
+Resources Following a Critical Incident
+
+========================================================================
+## rbs_alumni_network
+URL: https://www.business.rutgers.edu/alumni
+Description: RBS alumni network and engagement
+
+Title: Rutgers Business School Alumni
+
+Rutgers Business School Alumni
+Welcome to the RBS Alumni Family
+Welcome to all Rutgers Business School graduates! We are excited to invite you to the RBS alumni network. Here is where you can learn about the resources and opportunities available to you post-graduation.
+Update Your Contact Information to Stay Informed
+Welcome RBS Alumni!
+As part of the Rutgers Business School alumni family and the Rutgers University community, you are a critical part of the history, current impact, and future success of Rutgers Business School.
+Founded in 1929, Rutgers Business School boasts a global alumni network of more than 50,000 living graduates represented throughout the world in every facet of business. The collective achievements of our alumni are a source of infinite pride and distinction to the university.
+Meet the Office of Alumni and Corporate Engagement (ACE)
+The Alumni and Corporate Engagement Office (ACE) at Rutgers Business School leverages the power of our global network of RBS alumni. Through continuous external outreach and communications, ACE provides our alumni with a strong network, lifelong learning, and career resources.  In turn, our loyal alumni return to recruit, mentor, volunteer, teach, and support our business school as a whole.
+Our relationships with alumni are some of our most valued, and we look forward to continuing our partnership with you.
+Contact Us
+Join Your Alumni Associations
+Your alumni associations are additional ways to stay connected to RBS beyond your engagement with the Office of Alumni and Corporate Engagement. Take advantage of the great opportunity to expand your benefits as alumni.
+Rutgers Business School Alumni Association
+The
+Rutgers Business School Alumni Association (RBSAA)
+is dedicated to extending the value of your RBS education. With a distinguished history dating back to 1947, the RBSAA offers a blend of social and professional programs designed to educate, entertain, and connect alumni. Through our scholarships, we also provided financial support to RBS students, and we continually pursue opportunities to assist the school administration and faculty.
+Join the RBSAA
+Rutgers University Alumni Association
+With over half a million alumni, the
+Rutgers University Alumni Association (RUAA)
+connects you with Rutgers alumni from all disciplines, backgrounds, and countries across the globe. Join the RUAA today to broaden your connection with the Scarlet community and get involved with your alma mater.
+Join the RUAA
+Connect
+Connect
+Stay connected and expand your network through our online communities and alumni associations.
+Connect
+Get Involved
+Get Involved
+Whether you want to continue with lifelong learning, mentor a student, give a talk, or hire an RBS student, there are plenty of opportunities for you to get involved and give back.
+Get Involved
+Giving
+Giving
+The generosity you show through contributions both large and small positively impacts students, faculty, and the institution.
+Giving
+Alumni Benefits
+Alumni Benefits
+Become a participate in our alumni referral program, check out RBS merch, learn about membership to the Rutgers Club and more.
+Alumni Benefits
+Attend Alumni Events
+Alumni events are great ways to connect with your peers and potential mentors. Events include networking events, webinars, workshops, tailgating and more.
+Events for Alumni
+Awards and Recognition
+Our alumni have achieved notable accomplishments post-graduation, and Rutgers Business School takes pride in celebrating their success. Learn about the amazing things RBS alumni have done using the education and connections built during their time as students. You can also nominate alumni for awards to be recognized for their achievements.
+Rising Business Stars Under 30
+The Rising Business Stars Under 30 program (RBS Under 30) is designed to honor and recognize the achievements of our young alumni. Learn more about the nomination process for this program and view this year's winners.
+Rutgers Business School Alumni Award
+The Rutgers Business School Alumni Award Celebration recognizes alumni who have accomplished remarkable professional and personal achievements and made outstanding contributions to their communities.
+Alumni Spotlights
+Learn about the stories and experiences of our alumni post-graduation and the impact they are making in their industries, communities and around the world.
+Distinguished Alumni
+Our alumni are part of a long line of successful business leaders and innovators. Learn more about some of our most distinguished alumni.
+Alumni News
+School News
+Young alumni are celebrated as rising stars in business
+School News
+CEO Lecture Series: Lead with integrity and transparency
+School News
+Johnson & Johnson celebrates Rutgers and its alumni who are company employees
+See All Alumni News
+Questions?
+Contact the
+Office of Alumni and Corporate Engagement
+with questions about opportunities available to you as an RBS alum.
+Contact Us
+
+========================================================================
+## international_students_rbs
+URL: https://www.business.rutgers.edu/international-students/undergraduate
+Description: International student resources and information at RBS
+
+Title: Undergraduate International Students
+
+Undergraduate International Students
+The Office of Undergraduate International Student Recruitment and Advising provides support to our prospective and current international student population.
+Welcome to the Office of Undergraduate International Recruitment and Advising at Rutgers Business School—Newark and New Brunswick, where more and more students from around the globe are choosing to attend for a challenging, diverse and top-ranked education.
+Why do international students love Rutgers Business School?
+Convenient locations for exploration, entertainment, career opportunities and more
+Outstanding
+faculty
+that provide a
+top-ranked
+education
+Fantastic student experience in
+Newark
+and
+New Brunswick
+State-of the-art facilities on two campuses -
+Newark
+and
+New Brunswick
+. (For a tour of 100 Rock in Mandarin, see below)
+Superb career services in
+Newark
+and
+New Brunswick
+that prepare students for internships and full-time employment
+International Student Ambassadors and our "International Freshman Transition Seminar" help our students quickly integrate within the RBS community
+Interested in applying for Rutgers Business School? Check out what we have to offer in
+Newark
+and
+New Brunswick
+.
+International students from China--check out our
+Undergraduate International Direct Recruitment Program
+.
+Explore More
+Tuition and Fees
+Apply to Rutgers Business School
+
+========================================================================
+## rutgers_global_office
+URL: https://global.rutgers.edu/
+Description: Rutgers Global - international students and study abroad
+
+Title: Rutgers Global Homepage
+
+Rutgers Global Homepage
+Pause Background Video
+Play Background Video
+Rutgers Global
+Bringing the world to Rutgers and Rutgers to the world
+What is your global path at Rutgers?
+I Want To
+Study Abroad
+Get International Student and Scholar Support
+Discover Faculty Opportunities
+Study Abroad & Global Education
+Rutgers Global Study Abroad & the Center for Global Education seeks to ensure that every Rutgers student has access to opportunities for global learning.
+International Student & Scholar Services
+International Student & Scholar Services (ISSS) is committed to providing superior services and enriching experiences for our international community.
+Global Partnerships & Strategic Initiatives
+Global Partnerships & Strategic Initiatives promotes global engagement of Rutgers faculty, staff, and students through strategic partnerships, innovative initiatives, and customized programs.
+Global News
+International Students
+Spotlight on Rutgers Global Student Volunteer Corps
+The Rutgers Global Student Volunteer Corps (SVC) is a vibrant group of Rutgers students who assist the Rutgers Global Programming & Events team each year in conceiving, planning, and executing fun and engaging campus events that serve to promote global awareness and cross-cultural understanding. The volunteers, who submit applications and interview with the team before being selected, help with all aspects of events, including planning, set-up, management, and more. These volunteers gain important benefits from joining the SVC, such as enhancing their intercultural communication skills, growing both personal and professional networks, learning how to work with teams, and gaining some excellent resume-building experience.
+Study Abroad
+Spotlight on Study Abroad Global Ambassador: Joie Jarilla Turns Passion into Purpose
+As graduation approaches this May, Joie Jarilla is reflecting on a Rutgers journey defined by creativity, global exploration, and a commitment to helping others find their place in the world. Jarilla, who will earn her degree in Information Technology and Informatics (ITI) from the Rutgers School of Communication and Information (SCI), has built her academic path around web design and user experience. But it’s her work beyond the classroom, particularly through her study abroad experience in South Korea, that has shaped her aspirations in powerful ways.
+Faculty & Staff Engagement
+Announcing the 2026 Rutgers Global Grants Recipients
+Rutgers Global is pleased to announce the recipients of the 2026 Rutgers Global Grants. These grants are intended to support faculty international engagement by helping initiate engagement and collaborative research, international partnerships, and new educational initiatives. The modest seed grants are offered for full-time Rutgers faculty from all campuses, including tenured, tenure-track, and clinical faculty. This year, there were four categories of grants: (1) Global Health, in collaboration with the Rutgers Global Health Institute, (2) International Collaborative Research, (3) Faculty-Led Study Abroad, and, new this year, (4) Korea University-Rutgers University co-funded Collaborative Research.
+All news articles
+Global Events
+Full Events Calendar
+Full Events Calendar
+Global Education at Rutgers
+Rutgers Global seeks to ensure that every Rutgers student has access to opportunities for global learning which are academically rigorous, degree-relevant, culturally transformative, and empower students for impact in local and global communities.
+For Students: Getting Started
+Study Abroad is not just for some students; it's for all students, no matter your background, your major, your hobbies, or your preferences. Check out this step-by-step guide to studying abroad at Rutgers.
+For Faculty & Staff
+Whether the goal is to offer students a hands-on experience with critical global topics discussed in the classroom, immerse them in a language or culture, or show them how others solve problems or build communities, our staff can help make that opportunity a reality.
+Travel, Health & Safety
+Once admitted to a study abroad program, we provide students with in-depth information on program location, instructions for how to prepare for a program and its locale, and tips and suggestions for how to remain safe and healthy throughout the experience abroad.
+Global Facts & Figures
+8000+
+International Students
+1300
+International Scholars
+130
+Study Abroad Programs
+150+
+International Partnerships
+5000+
+International Alumni
+Rutgers Global Videos
+Meet Our Fall 2025 Orientation Leaders
+Watch Now
+Jump past social media posts
+Powered by Curator.io
+Jump back to the beginning of social media posts
+
+========================================================================
+## canvas_learning
+URL: https://canvas.rutgers.edu/
+Description: Canvas learning management system for Rutgers students
+
+Title: Home - Canvas
+
+The official learning management system for teaching and learning at Rutgers
+Latest News
+April 28, 2026
+May & June 2026 Respondus Lockdown Browser Training Series
+April 20, 2026
+Kaltura Release: Folders
+April 14, 2026
+Feature Release: Canvas Portfolio
+View All
+                                    News
+Information for
+Instructors
+Teaching instructions for those utilizing Canvas for your courses.
+Information for
+Students
+Learn how to access and utilize your courses this semester.
+Resources and
+Documentation
+Resources and documents for the Canvas LMS and Rutgers.
+External Apps
+Canvas has various external applications integrated into the platform, including proprietary Rutgers-owned applications.
+Content Management
+Box, LabArchives, Lynda, Scorm, UDOIT, YouTube
+Synchronous Meeting
+BigBlueButton, Cisco Webex, Zoom, Microsoft Teams Meetings
+Publishers & Textbooks
+Box, LabArchives, Lynda, Scorm, UDOIT, YouTube
+Multimedia
+BigBlueButton, Cisco Webex, Zoom, Microsoft Teams Meetings
+
+========================================================================
+## scarletmail_login
+URL: https://scarletmail.rutgers.edu/
+Description: ScarletMail - official Rutgers student email
+
+Title: ScarletApps
+
+New users must activate ScarletApps to get started.
+Activate ScarletApps
+ScarletApps suite
+The ScarletApps suite includes the core Google applications: Gmail, Drive, Docs, Sheets, Slides, Calendar, and Sites. ScarletApps provides a wealth of resources for communication and collaboration that can enrich the learning, instructional, and work environments of Rutgers students, faculty and staff. We encourage you to explore the possibilities.
+Learn more about Google Workspace for Education
+.
+ScarletMail
+The official email service for Rutgers students, and also available for faculty and staff.
+Access ScarletMail
+Calendar
+Access your ScarletApps Google calendar.
+Access calendar
+Docs
+Create documents and collaborate with others.
+Access docs
+Follow @RutgersIT for tech tips.
+Follow
+Follow
+Follow
+Help with ScarletApps
+FAQs
+Students, faculty, and staff can explore the ScarletApps suite in the
+ScarletApps FAQ
+and learn about ScarletMail, Rutgers’ official student email service, in the
+ScarletMail FAQ
+.
+30GB Storage limits
+ScarletApps and ScarletMail accounts at Rutgers have a 30 GB storage limit. Learn tips for managing your storage and staying within the limit.
+Managing storage
+Acceptable use policy
+Google Apps services should be used responsibly and in accordance with the university's policies.
+Learn more
+Google Apps Status Dashboard
+Check here for current performance status of G Suite services.
+Learn more
+Google Drive File Stream user guide
+With Google Drive File Stream, your files are stored on the cloud instead of your computer.
+Learn how to use
+Training resources
+Learn more about Google Apps and Google for Education.
+Start training
+View all ScarletApps documentation
+News
+Tips and Advice
+Stay organized this semester with the help of ScarletApps and Adobe
+January 20, 2026
+Apps and Tools
+Students: Tech resources to master finals season
+December 2, 2025
+Apps and Tools
+Create quick videos with Google Vids
+September 23, 2025
+
+========================================================================
+## netid_management
+URL: https://netid.rutgers.edu/
+Description: NetID account management and password reset
+
+Title: 
+
+
+
+========================================================================
+## rec_fitness_nb
+URL: https://recreation.rutgers.edu/
+Description: Rutgers Recreation and fitness services
+
+Title: Home | Recreation - Division of Student Affairs | Rutgers University-New Brunswick
+
+Events and Programs
+April 2026 Rutgers Recreation Programs
+Wed, Apr 01, 2026 10:00 am - 11:45 pm
+Tower Jump 2026: Register Now!
+Fri, May 01, 2026 10:00 am - 11:59 pm
+View more events
+
+========================================================================
+## navigate_student_app
+URL: https://myrun.newark.rutgers.edu/academic-advisement
+Description: Navigate-Student app for Rutgers-Newark student success
+
+Title: Stay connected with your Academic Advisor
+
+Stay connected with your Academic Advisor
+In This Section
+Advisement Contact Info
+Your academic support network begins with your academic advisor. Every student at Rutgers University–Newark is assigned an academic advisor in their college upon enrollment. Your academic advisor is a professional who can help you from your very first day until graduation.
+Office
+Phone
+Email
+Fall 2024 Updates
+(GSN) Graduate School-Newark
+has advised that all questions and concerns should be forwarded to their listed email address.
+You can also view
+Program Contacts here.
+Please email
+gsnsch26@newark.rutgers.edu
+GSN
+Law School Student Affairs
+has advised that all questions and concerns should be forwarded to either of their listed email addresses
+Please email
+gdavila@law.rutgers.edu
+|
+sarah.regina@law.rutgers.edu
+Law
+(RBS - Newark | UG ) Office of Undergraduate Academic Programs and Services can be reached for appointments, emails, and virtual front desk hours through our contact page
+b
+y clicking here.
+Please email
+Program Contacts
+(Alphabetical by student last name)
+RBS-UG
+(RBS - Newark and New Brunswick | Graduate Programs- MBA, DBA & Speciality Masters)
+All questions and concerns should be directed to their program contact.
+--- >
+Program Contacts
+RBS-Grad
+(SASN) Office of Academic Services
+can be reached for appointments, emails, and virtual front desk hours through our main website
+b
+y clicking here.
+Please email
+sasn_advising@newark.rutgers.edu
+SASN
+(SCJ) Office of Academic Programs
+has advised that all questions and concerns should be forwarded to their listed email address.
+You can also meet with an advisor during their
+Virtual Office Hours
+|
+Office hours:
+Monday - Friday 8:30am to 4:30pm
+Please email
+rscj@newark.rutgers.edu
+SCJ
+Hours:
+Center for Public Service (CPS) | Student Success Center
+(SPAA) Student and Academic Services Office has advised that all questions and concerns should be directed to the following counselors:
+Undergraduate Program
+Last Name A-Mo: Ms. Melissa Mora,
+mm2107@newark.rutgers.edu
+Last Name Mn-Z: Assistant Dean Alyssa Sofman,
+alapat@newark.rutgers.edu
+Graduate Programs
+On-Campus MPA Program
+Ms. Melissa Mora,
+mm2107@newark.rutgers.edu
+Online MPA Program
+Last Name A-M: Ms. Melissa Mora,
+mm2107@newark.rutgers.edu
+Last Name N-Z: Assistant Dean Reena Patel,
+reepatel@newark.rutgers.edu
+EMPA Program
+Assistant Dean Reena Patel,
+reepatel@newark.rutgers.edu
+Please email
+spaa.sas@newark.rutgers.edu
+or
+SPAA
+Additional Counselor Info
+You may have additional advisors at the university, including advisors from your major academic department, your minor academic department, or a specialized program. If you participate in programs like the
+Educational Opportunity Fund (EOF)
+, the
+Honors Living Learning Community (HLLC)
+, or the
+Honors College
+, you will also have access to advisors in those programs.
+Office
+Phone
+Email
+The Academic Foundations Center
+(Educational Opportunity Fund (EOF) Program | Garden State – Louis Stokes Alliance for Minority Participation (GS-LSAMP) | McNair Scholars Program | Partnerships & Engagement | Student Support Services (SSS) Program),
+has advised that all questions and concerns should be directed to their listed phone number or email address
+973-353-3574
+afc_info@afc.rutgers.edu
+Center for PreCollege Programs
+(PreCollege Academy | Dual Enrollment | Rutgers Future Scholars | TRiO Talent Search | UAP | Upward Bound) | College Clubhouse.
+CPP has advised that all questions and concerns should be directed to their listed phone number, email address or website
+https://centerforprecollege.newark.rutgers.edu/
+973-353-5466
+centerforprecollege@rutgers.edu
+Honors College
+has advised that all questions and concerns should be directed to their listed phone number or email address
+973-353-5860
+honorsn@newark.rutgers.edu
+Honors Living Learning Community,
+HLLC has advised that all questions and concerns should be directed to their listed phone number or email address
+973-353-1333
+info.hllc@newark.rutgers.edu
+Download Navigate-Student App
+Navigate-Student is the Rutgers-Newark app for student success! It will help you stay organized, remind you of important dates and deadlines, and connect you to your student success team of advisors and other staff members.
+Learn more and download here
+
+========================================================================
+## veterans_services
+URL: https://veterans.rutgers.edu/
+Description: Office of Veterans and Military Programs and Services
+
+Title: News
+
+News
+Rutgers University is Named a "Best For Vets" College by Military Times
+Military Times Best For Vets: Colleges 2022 Ranks Rutgers, The State University of New Jersey in the Top 15 Best for Vets Colleges Since 2012!
+
+Click here to read the full article -
+Best for Vets: Best Colleges for Military Veterans (militarytimes.com)
+Veterans House Operation Hours
+Rutgers Veterans House is located at 14 Lafayette Street, New Brunswick, 08901.
+
+Our operating hours are Monday-Friday from 9am to 5pm.
+
+Contact our office to schedule a virtual appointment or visit with a staff member.
+
+You may contact us by calling 848-932-VETS (8387) and leaving a detailed message or emailing veterans@echo.rutgers.edu.
+
+Visit
+Our Team | Office of Veteran and…
+Spotlight
+New Requirement: Monthly Enrollment Verifications - Ch. 33 Post-9/11 GI Bill® students
+If you're a Post-9/11 GI Bill® student who relies on monthly housing alllowance and/or kicker payments, you will need to verify your enrollment monthly.
+
+To learn more about the new monthly enrollment verifications, …
+Rutgers University-New Brunswick Ranks Among the Top Ten 2021 Best Colleges for Veterans
+Rutgers University-New Brunswick is among the Top Ten for 2021 Best Colleges for Veterans in the United States, ranked by College Factual. 
+
+Click here for more details on how we earned this ranking -
+2021 Best Colleges for Veterans in the United States - College Factual
+
+========================================================================
+## virtual_computer_lab
+URL: https://it.rutgers.edu/virtual-computer-labs/
+Description: Computer Lab Software
+
+Title: Virtual Computer Labs
+
+Why use our Virtual Computer Labs?
+They give you the software you need, from any location, at any time.
+You get free access to dozens of useful software applications.
+They’re always open: 24 hours a day, 365 days a year.
+The software comes to you. You can work or study from wherever you happen to be.
+Log in to the labs
+Tips for faculty
+How can I use the Virtual Computer Labs in my classroom?
+You can use the Virtual Computer Labs on your device, so students can follow along in class.
+Students can access specific software regardless of their device and/or if they’re attending the class in-person or virtually.
+When should I reserve the Virtual Computer Labs?
+If you need to use the Virtual Computer Labs for
+all students in your class for simultaneous class instruction
+, we are in the process of developing a reservation system for faculty to request this service. In the meantime, if you have any questions or requests, please email
+edm_support@rutgers.edu
+.
+If you have individual students that need to use the Virtual Computer Labs in or out of the classroom, no reservation is needed and they can access regardless of which device they are using.
+Virtual Computer Labs documentation
+The following materials are available at the Knowledge Base within the
+Rutgers IT Help portal.
+Available software
+The virtual computer labs have access to dozens of software apps, just like the physical computer labs.
+View apps
+Accessing Virtual Computer Labs
+Get step-by-step instructions for logging in to the labs plus information about printing from them.
+Learn More
+FAQ
+You've got questions about the virtual computer labs. We've got answers. Can't find the answer to your question? Contact the
+Help Desk
+.
+Learn more
+View all Virtual Computer Labs documentation
+
+========================================================================
+## bus_library
+URL: https://libguides.rutgers.edu/business/
+Description: Business Research Guide
+
+Title: Business: Home
+
+Search this Guide
+Search
+Business: Home
+This Business Research Guide is the gateway to the collection of topical guides to information and research resources in business and management studies.
+Home
+Business Librarians
+Related Rutgers Resources
+About this Guide
+This Business Research Guide provides assistance in doing research in a variety of business and management topics, with descriptions of databases and hundreds of reference books in the collections of the
+Rutgers University Libraries
+. Links to more than 3,000 selected business and management-related Internet resources are included.
+While the
+Dana Library
+is designated the business research library of the Rutgers University Libraries, materials in economics and related areas can also be found at the
+Alexander Library
+, with its strong United States, foreign and international documents collections; the
+Carr Library
+, serving the Rutgers Business School in New Brunswick; the
+Robeson Library
+, which supports the School of Business in Camden; and the
+School of Management and Labor Relations Library
+, which focuses on industrial relations.
+Table of Contents
+Business Databases: Quick Guide
+This link opens in a new window
+Accounting & Taxation
+This link opens in a new window
+Banks and Financial Services
+This link opens in a new window
+Biographical Resources
+This link opens in a new window
+Bloomberg Professional: Getting Started
+This link opens in a new window
+Business EJournals
+This link opens in a new window
+Business News
+This link opens in a new window
+Business Reference
+This link opens in a new window
+Company Research
+This link opens in a new window
+Corporate Annual Reports
+This link opens in a new window
+Corporate Social Responsibility
+This link opens in a new window
+Country Profiles
+This link opens in a new window
+Dissertations and Theses in Business and Management
+This link opens in a new window
+Doing Business in China
+This link opens in a new window
+Economic Indicators
+This link opens in a new window
+Electronic Commerce
+This link opens in a new window
+Finance
+This link opens in a new window
+Financing your Business
+This link opens in a new window
+Harvard Business Review
+This link opens in a new window
+Human Resource and Organizational Management
+This link opens in a new window
+Industry News and Trade Magazines
+This link opens in a new window
+Industry Research
+This link opens in a new window
+International Business
+This link opens in a new window
+International Trade and Socioeconomic Statistics
+This link opens in a new window
+Job Searching
+This link opens in a new window
+Market Research
+This link opens in a new window
+Mergent Publications
+This link opens in a new window
+Newark Public Library: Business Resources
+This link opens in a new window
+Personal Finance
+This link opens in a new window
+Pharmaceutical Management
+This link opens in a new window
+Quantitative Finance
+This link opens in a new window
+Researching Supply Chains
+This link opens in a new window
+Small Business and Entrepreneurship
+This link opens in a new window
+Social Media Marketing
+This link opens in a new window
+Stock and Commodity Exchanges
+This link opens in a new window
+U.S. Business History
+This link opens in a new window
+Related Course Guides
+Black and Latino Urban Entrepreneurs (BLUE-RAP) [CUEED]
+This link opens in a new window
+Business Communication (22:373:551) NB
+This link opens in a new window
+For Prof. Silberstein O'Neill's Business Communication class.
+Business Communication (22:373:551) NWK & NB
+This link opens in a new window
+Business Forum (29:011:300)
+This link opens in a new window
+Business Plans (SBDC)
+This link opens in a new window
+Business Policy & Strategy
+This link opens in a new window
+Business Writing Essentials/Technical Writing Essentials (01:355:203) (01:355:202)
+This link opens in a new window
+Cross Cultural Management (22:620:648)
+This link opens in a new window
+Entrepreneurship Pioneers Initiative (CUEED)
+This link opens in a new window
+Innovation and Entrepreneurship for Science and Technology (14:440:404)
+This link opens in a new window
+International Marketing (29:630:371) (22:630:641) (33:630:371)
+This link opens in a new window
+Introduction to Entrepreneurship (29:382:302) (29:382:496) (33:382:496) (22:620:624)
+This link opens in a new window
+Management of Innovation (22:620:601) (29:630:369) (33:382:303) (33:382:340)
+This link opens in a new window
+Marketing (33:630:301)  (29:630:452) (22:630:586) (22:630:609) (29:630:610)
+This link opens in a new window
+Market Research Workshop (SBDC & SBA)
+This link opens in a new window
+Master of Business & Science Capstone (22:799:648) (16:137:600)
+This link opens in a new window
+Principles of Management (29:620:300)
+This link opens in a new window
+RBS STEP Program
+This link opens in a new window
+RU Flourishing
+This link opens in a new window
+Team Consulting  (29:010:400) (22:621:543)
+This link opens in a new window
+Urban Entrepreneurship (29:382:342) (22:620:672)
+This link opens in a new window
+Business Librarians
+Rebecca Diamond (New Brunswick)
+This link opens in a new window
+Samantha Kannegiser (Camden)
+This link opens in a new window
+Julie Peters (SMLR)
+This link opens in a new window
+Roberta Tipton (Newark)
+This link opens in a new window
+Jonathan Torres (Newark)
+This link opens in a new window
+Ryan Womack (New Brunswick)
+This link opens in a new window
+Next:
+Business Librarians >>
+Last Updated:
+Apr 20, 2026 1:36 PM
+URL:
+https://libguides.rutgers.edu/business
+Print Page
+Login to LibApps
+Report a problem
+Subjects:
+Business
+Tags:
+business
+company_research
+industry_research
+international_business
+management
+market_research
+
+========================================================================
+## bloomberg_terminal
+URL: https://libguides.rutgers.edu/bloomberg
+Description: Bloomberg Terminal Access
+
+Title: Bloomberg Professional: Getting Started
+
+Search this Guide
+Search
+Bloomberg Professional: Getting Started
+This guide contains recommendations on how to search and use the Bloomberg Professional terminal, available in the Carr Library on the Livingston campus.and at Rutgers Business School, 1 Washington Place in Newark
+Getting Started
+Where are the Bloomberg Terminals
+Bloomberg Terminal at Carr Library
+How to create your individual login
+Resources
+Bloomberg Certification
+Where are the Bloomberg Terminals
+Bloomberg Professional is a terminal-based resource, which means that it is not available remotely.
+There are several locations at Rutgers with Bloomberg Terminals:
+One is located in the
+Carr Library
+on the Livingston campus. It is available to a single user at a time (including the general public) on a first-come, first-serve basis when the library is open.
+There are also four Bloomberg terminals inside the Rutgers Business School located at 100 Rockafeller Road on the Livingston campus in Piscataway on the 2nd Floor "Bloomberg Finance Lab" (next to the Student Lounge). These are available to all RBS students and require a Net ID logon. Anyone using them for training must bring their own headsets.
+Additional Bloomberg terminals are available for students who are enrolled in the Mathematical Finance Program (Rm. 103
+Hill Center
+) and Financial Statistics and Risk Management Program (Rm. 480
+Hill Center
+). Card swipes are required to enter.
+Rutgers Business School-Newark has one Bloomberg terminal located at
+OIT computer lab
+(422).
+Rutgers-Camden School of Business has a terminal in the
+Financial Markets Lab.
+In addition, please refer to the
+Business Databases: Quick Guide
+for alternative sources. For example:
+Factiva
+is a vast repository of business news, equity stock quotes and market indices (both current and historical).
+Marketline
+provides global consumer product market data, summaries of M&A and financial deals and worldwide economic and demographic indicators.
+Mergent Market Atlas
+features information about 50,000 global, active public companies, as well as industry, country, sustainability, and macroeconomic data.
+MarketScope Advisor
+is an investment analysis database with market commentary, independent investment analysis, and current news and data on a broad range of asset classes, including stocks, exchange-traded funds, and mutual funds.
+If you have any questions about the Bloomberg Terminal, please contact:
+Becky Diamond, Business Instruction Librarian, (New Brunswick) <rebecca.diamond@rutgers.edu>
+Jonathan Torres, Business Librarian, (Newark) <jonathan.torres@rutgers.edu>
+Bloomberg Terminal at Carr Library
+The Bloomberg Professional Terminal at the Carr Library is the only one that is available to the public who use the Carr Library in-person. Thanks to the generous gift from Bloomberg, L.P, the Bloomberg Terminal is housed in the Career Collections Room at the Carr Library.  It is solely maintained and supported by Bloomberg, L.P.
+This terminal does not allow data to be downloaded on to the computer or a portable device.  If you need to download data, please use the ones located at Rutgers Business School, Dept of Mathematics and Dept of Statistics, provided you are currently enrolled in their programs.
+To use the Bloomberg Terminal at the Carr Library, please use the login ID and password posted underneath the monitor.  After you login, you will need to login with your personal ID.  The box below explains
+how to create an individual login
+ID. Be prepared to have a phone ready in order to receive a text message.
+How to create your individual login
+I
+f you are using Bloomberg Professional for the first time, you will need to create a personal log in to access Bloomberg Professional after you login to the terminal using the ID and password posted on the sign.
+Then follow these steps to create your own personal log in:
+Open Bloomberg
+Press <CONN/DFLT>
+Press <GO> - do not put anything in the Login Name or Password fields
+Choose a method for validation (SMS Text Message)
+Bloomberg will send you a code - enter in this validation code
+Answer any additional personal information questions
+Now, log in with your personal username and password
+Use this personal username and password to access any of the Bloomberg Professionals terminals in the future.
+Please note that you will have to log in at least once every 30 days for the username and password to remain valid. Otherwise you will have to create a new one.
+Bloomberg provides detailed help about
+how to create your login
+including screen shots.
+Next:
+Resources >>
+Last Updated:
+Apr 7, 2026 1:52 PM
+URL:
+https://libguides.rutgers.edu/bloomberg
+Print Page
+Login to LibApps
+Report a problem
+Subjects:
+Business
+Tags:
+Bloomberg
+business
+
+========================================================================
+## public_safety
+URL: https://ipo.rutgers.edu/publicsafety/rupd
+Description: Rutgers Police Department website.
+
+Title: Rutgers University Police Department | Institutional Planning and Operations
+
+The internationally accredited Rutgers University Police Department (RUPD) operates 24 hours a day, 365 days a year, to provide the university community with a full range of police and security services. RUPD maintains multiple fully staffed police headquarters. Please click below for location specific information:
+New Brunswick
+Newark
+Camden
+Report a Crime
+Call University Public Safety:
+To report a Police, Fire or Medical Emergency or Crime in Progress; please obtain an outside line and dial 911.
+For all other calls to University Public Safety, please consult the following directory:
+Rutgers University—Camden
+: (856) 225-6111
+Biomedical and Health Sciences at Newark
+: (973) 972-4491
+Rutgers University—Newark
+: (973) 353-5111
+Rutgers University—New Brunswick
+: (732) 932-7211
+You can also file a police report online using the
+Rutgers Internet Police Reporting System.
+Crime Statistics
+The Rutgers Annual Security and Fire Safety Report "Safety Matters" details public safety statistics, services, and programs available at the university.
+View Report Here
+To obtain a paper copy please email
+clery@ipo.rutgers.edu
+or visit the RUPD at any of the following locations:
+Rutgers University
+—
+Camden
+: 25 North 5th Street
+Rutgers Biomedical & Health Sciences at Newark
+: 5 Bruce Street
+Rutgers University
+—
+Newark
+: 200 University Avenue
+Rutgers University
+—
+New Brunswick
+: 55 Paul Robeson Boulevard
+Police Records
+Pleas
+click here
+to visit the Rutgers University Police Department Records website.
+Emergency Preparedness & Notification
+Rutgers
+Office of Emergency Management
+regularly conducts exercises designed to better prepare the university for any kind of emergency or disaster. You are encouraged to take an active approach in your personal preparedness by reviewing the university's emergency action plans at
+emergency.rutgers.edu
+.
+Follow the Rutgers Police Department on
+Facebook
+and
+Twitter
+for regular updates on issues impacting your community.
+Professional Standards Division
+Professional Standards is responsible for providing a myriad of critical services that support the mission and operations of the Rutgers Police Department. Support services include but are not limited to recruiting, pre-employment background investigations, investigating internal and citizen-generated complaints, accreditation, communications, training and professional development, and clery compliance.
+To learn more, visit the
+professional standards website
+.
+Additional Resources
+U-Visa and T-Visa Information (English)
+U-Visa and T-Visa Information (Spanish)
+Procedures for Reporting Alleged Bias Incident/Crimes
+Student travel information
+:
+rupd-communications-supervisors@ipo.rutgers.edu
+communications-supervisors@ipo.rutgers.edu
+
+========================================================================
+## student_basic_necessities
+URL: https://ruoffcampus.rutgers.edu/basic-needs
+Description: Pantry and Student Basic Needs
+
+Title: Student Basic Needs
+
+We must realize that when basic needs have been met, human development is primarily about being more, not having more…
+– Dalai Lama XIV
+Let Us Help You Meet Your Basic Needs
+At Rutgers University, our Basic Needs Center is here to support your well-being so you can thrive academically and personally. We connect students with essential resources—like food, housing, financial assistance, and mental health support—so you can focus on your education with fewer worries.
+Visit the Basic Needs Center in person or click the
+GET HELP
+button to request an appointment. Prefer to explore on your own? Browse our services, resources, and FAQs to find what you need. We're here to help—reach out anytime with questions.
+GET HELP with Basic Needs (Request an Appointment)
+Create your PantrySoft Account to use the Food Pantry(s)
+By the Numbers
+Every year, thousands of Rutgers students benefit from Basic Needs support services. From food assistance and emergency grants to housing referrals and wellness resources, our impact is measurable and growing. These numbers reflect our commitment to helping students thrive—academically, personally, and financially. Learn more about basic needs supports for
+2024 - 2025
+.
+What does Basic Needs mean?
+At some point in your educational journey,
+you may face challenges in accessing adequate amounts of food, housing, financial or other resources
+. This is called basic needs insecurity and millions of college students experience it each year. To ensure that basic needs are met for all Rutgers students, on-campus resources and those available in the surrounding community are listed below.
+For food or housing emergencies during the holiday/winter break period, students should
+email us
+.
+Resources by Category
+Food Assistance
+Explore a variety of food assistance resources available to Rutgers students, including the Rutgers Student Food Pantry, the Mobile Food Pantry, Knight's Pantry, and support programs like NJ SNAP and WIC. These services are designed to help ensure access to nutritious food and promote student well-being.
+Click here to learn more
+.
+Housing & Transportation
+Provide support by connecting students with essential resources for housing, shelter, and transportation throughout New Jersey, with a focus on the New Brunswick and Piscataway area.
+Click here to learn more
+.
+Emergency Aid
+Short-term emergency grants are available to support students facing unexpected financial hardship.
+Click here to learn more
+.
+Mental, Physical, & Spiritual Wellness
+Empowering students with life skills and prevention services designed to support personal growth and long-term success.
+Click here to learn more
+.
+Utility Assistance
+Resources to help students access affordable essential utilities, including electricity, heating, cooling, and water, across New Jersey.
+Click here to learn more
+.
+Internet & Technology
+Resources to help students afford internet service and essential connected devices—such as laptops, tablets, and scientific calculators—to support academic success and digital access.
+Click here to learn more
+.
+Child Care Resources
+Resources to help parents locate available childcare and other important tools to be successful.
+Click here to learn more
+.
+Faculty & Staff Resources
+Resources on how to identify a basic needs and wellness situation, talking to students about these needs, and resources.
+Click here to learn more
+.
+
+========================================================================
+## linkedin_rbs
+URL: https://www.linkedin.com/school/rutgers-business-school
+Description: Connect with RBS on LinkedIn
+
+[ERROR] HTTP 999
+
+========================================================================
+## rbs_sail
+URL: https://www.business.rutgers.edu/sail-office
+Description: Social Mobility, Access, Innovation, and Leadership
+
+Title: The Office of Social Mobility, Access, Innovation, and Leadership (SAIL)
+
+The Office of Social Mobility, Access, Innovation, and Leadership (SAIL)
+The
+RBS Office of Social Mobility, Access, Innovation, and Leadership (RBS SAIL Office)
+is strategically located within the RBS Office of the Dean.
+MISSION
+Rutgers Business School- Newark and New Brunswick is committed to excellence in fostering an enriching community of learning, scholarship, and service for students, faculty, and staff from a broad spectrum of nations, cultures, and historical perspectives. Core to this commitment is an overarching and deliberate institutional consciousness of social mobility, access, innovation, and leadership, which is steadfastly reinforced through our policies, practices, and programs.
+VISION
+The RBS SAIL Office seeks to establish Rutgers Business School as a national leader and model for diversity excellence as we challenge our community to embrace differences as assets in a culturally and racially diverse world. The RBS SAIL Office helps create and sustain a welcoming environment for all RBS community members, including students, faculty, and staff, ensuring equality of access, opportunity, representation, and participation. Inclusive excellence will be a hallmark of this office as we pursue and promote new partnerships within the Rutgers University system and beyond, embracing the indivisible bond between academic and professional excellence, social mobility, access, innovation, and leadership.
+CORE PILLARS
+Inclusion
+means everyone has the same rights and ability to participate and contribute. Inclusive environments are ones where an individual’s social identity (who one is) does not determine what one can accomplish. In inclusive environments, there will not be substantial inequality in terms of representation, rights, and resources across social identity groups, and members of all groups will be invited to participate, feel welcomed, respected, supported, and valued.
+Diversity
+refers to differences that make a difference in life chances, drawing from the variety of personal experiences, values, and worldviews that arise from differences of culture and circumstance. Such differences may relate to the complex and increasingly blurred intersectionality of race, ethnicity, gender and gender identity, age, religion, language, disability status, sexual orientation, socioeconomic status, geographic region, ways of thinking, and more.
+Equity
+involves ensuring rightful access to opportunities, resources, rewards, and advancement for all students, faculty, and staff at every stage of their education and career development.  Equity guarantees full participation to the extent of an individual’s potential, desire, and capabilities.
+Access
+refers to how institutions and policies enable entry and ensure or at least work to ensure equal and equitable opportunities. Increasing access generally requires institutions to provide additional services or remove any actual or potential barriers that might inhibit inclusive environments.
+Meet the RBS SAIL Office Leadership
+Resources
+Programming and Initatives
+RBS Pathways Leading to Undergraduate & Graduate Success (PLUS)
+is a portfolio of programs and initiatives designed to help students leverage their diversity through dynamic inter-group dialogue and enriching co-curricular activities. These programs range from pre-college to graduate-level opportunities and are designed to enrich our diverse student body's academic, personal, and professional development. Students from all backgrounds are encouraged and welcome to apply.
+RBS NextUP (High School Students)
+The
+RBS NextUP
+program is a one-day experiential learning opportunity for high school students. This pre-college program allows students to explore the benefits of post-secondary education and careers in business, and it increases access to Rutgers University, Rutgers Business School. Through engagement with students, faculty, staff, and professionals, students are educated in the complete admissions process to help remove the barriers of applying to college.
+Learn More About this Program
+RBS PREP (High School Students)
+This six-month pre-college program is an immersive experience for high-performing high school juniors (11th grade) to gain early exposure to Rutgers Business School, campus life, college courses, and business majors. Students participating in the
+RBS PREP (Pre-College Enrichment Program)
+program will be enrolled in a college-level business course and will earn three (3) credits upon completion of the program that can be used towards their undergraduate business degree.
+Learn More About this Program
+RBS B-STAR (High School/Enrolled RBS First-Year Students)
+This award-winning and credit-bearing program is designed to support high-performing and high-potential students who have accepted admission to RBS and will enroll as first-year undergraduate students in the fall. Students enrolled in the
+RBS Business Student Transition Access & Retention (B-STAR)
+program participate in this highly enriching two-phase program from the summer before they begin college up until graduation. The goals of this program include cultivating leadership skills, building community, facilitating professional development, and preparing students for future careers. All eligible incoming and current RBS students are encouraged and welcome to apply.
+Learn More About this Program
+RBS DiversityLAUNCH Institute (Enrolled RBS First-Year, First-Generation, and Transfer Students)
+All incoming first-year students, first-generation college students, and transfer students entering Rutgers Business School can participate in the
+RBS DiversityLAUNCH Institute (DLI)
+. Designed to support and encourage students transitioning into college, this introductory three-day accelerator leadership program helps students to better navigate the fast-paced landscape of higher education. This program offers opportunities to connect with diverse groups cultivating a sense of belonging and empowerment.
+Learn More About this Program
+Programming for Enrolled Students
+The RBS PLUS programming continues throughout a student's journey at Rutgers Business School. View the programs and initiatives for enrolled students to learn more about opportunities for enrolled students.
+RBS CEO Network (Enrolled RBS Undergraduate and Graduate Students)
+With the goal of connecting, engaging, and providing opportunities for students, the
+RBS CEO Network (Connect, Engage, and Opportunity)
+creates strategic corporate partnerships and co-sponsors initiatives designed to develop soft skills and leadership capabilities. CEO programs are for both undergraduate and graduate students and provide multi-touchpoint opportunities that position students for successful careers after graduation.
+RBS SAIL - Student Ambassador Program
+Current Rutgers Business School students can participate in the
+RBS SAIL- Student Ambassador Program
+. This program offers students the opportunity to develop their leadership and networking skills while promoting service-learning and community service.
+RBS SAIL- Diversity Speaker Series (Enrolled RBS Students, Staff, and Faculty)
+The
+RBS SAIL- Diversity Speaker Series
+creates a platform for conversation about diversity in business, multicultural issues that impact the global workforce, and other "business intangibles" not often discussed in the classroom. Speakers and lecturers share their learned perspectives and academic/professional journeys to provide a forum for knowledge sharing.
+RBS SAIL - Scholarship Program
+At RBS, we understand and value the ability to provide supplemental funding and resources to assist students and families. The scholarship awards are part of a larger strategy to improve educational outcomes. In this model, scholarship dollars are leveraged and combined with additional educational support from the RBS SAIL Office to become a link in a chain with a combined goal of student success and persistence toward graduation. All eligible incoming and current RBS students are encouraged and welcome to apply.
+RBS SAIL- Global Experience Initiative
+Proudly sponsored by the RBS Office of Social Mobility, Access, Innovation, and Leadership (RBS SAIL Office), we are excited to offer an incredible opportunity to collaborate with the Department of Management and Global Business on the Global Experience Course’s study trip. Students have the chance to have their culminating study trip covered by our exclusive scholarship. They will receive hands-on experiences with industry leaders like Google, Uber, and Amazon Web Services. Apply now and unlock the door to a transformative journey!
+Apply Today
+Learn About Current Student Programming
+Contact Us
+RBS Office of Social Mobility, Access, Innovation, and Leadership
+Newark and New Brunswick
+Email:
+IDEA@business.rutgers.edu
+Connect with us!
+E-mail
+
+========================================================================
+## rutgers_sga
+URL: https://myrbs.business.rutgers.edu/mba/student-government-association
+Description: Student Government Association
+
+Title: Student Government Association
+
+The Rutgers Business School Graduate Student Government Association (SGA) promotes the interest of Full-Time and Part-Time MBA and Specialty Master students attending classes on the Newark and New Brunswick campuses. The goal of this organization is to facilitate communication between the administration and students. Through various academic and non-academic activities, the SGA aids the professional and personal development of the students.
+
+Contact Us
+Email us at
+sga.rbsmba@gmail.com
+to learn more about our student organization.
+
+========================================================================
+## rutgers_oiss
+URL: https://studentaffairs.newark.rutgers.edu/support-services/international-student-and-scholarship-services-oiss
+Description: International Student and Scholarship Services
+
+Title: International Student and Scholarship Services (OISS)
+
+International Student and Scholarship Services (OISS)
+In this Section
+International Student and Scholar Services (OISS)
+We are the Office of International Student and Scholar Services (OISS) at Rutgers University-Newark. The OISS is the designated office to provide immigration advising and support services to the international community of students, scholars, and families. The OISS assists in matters related to maintaining your F or J visa status by ensuring your compliance with both SEVIS and federal law. We also address social and cultural issues and provide engaging programming throughout the academic year.
+Expand
+Collapse
+VISION & MISSION
+VISION
+The Office of International Student & Scholar Services (OISS) is the primary resource center, striving always for excellence in service to the international community of Rutgers University - Newark.
+MISSION
+Advise F-1 students and J-1 exchange visitors on compliance with immigration laws and regulations to maintain legal status;
+Provide support to international students and scholars through orientation programs, cultural & social events and services in collaboration with other University units;
+Assist University offices and academic departments in their international initiatives and help nurture growth of international programs;
+Ensure institutional compliance to immigration regulations governing enrollment of F-1 students and J-1 exchange visitors; serves as liaison with state and federal agencies concerning F-1/J-1 regulatory issues.
+Back to top
+Student Feature
+Umang Jain
+Office of International Student Services
+OISS has always helped me and makes a great effort to educate international students on how to maintain their legal status.
+Connect With Us
+OISS has walk-in hours, Monday - Thursday, 10:00 AM - 3:00 PM and Fridays, 9:00 AM - 2:00 PM (
+with limited services available
+). We are CLOSED on Saturday and Sunday. Please book an appointment if you would like to speak with one of our advisors.
+Expand
+Collapse
+Make an Advising Appointment
+Please book an advising appointment, using our Webex booking system:
+https://outlook.office365.com/owa/calendar/rutgers_newark_oiss@global.ru...
+.
+Email Inquiries:
+All student inquiries must be sent to
+oiss@newark.rutgers.edu
+. A member of the OISS staff will respond to your email within 5 business days. Please assist OISS staff by only sending inquiries to
+oiss@newark.rutgers.edu
+. Please
+do not send duplicate/follow-up emails to individual OISS staff members, as that will slow overall processing times and cause delays! Duplicate emails and follow-up emails will not receive a response
+.
+Processing Times:
+Due to an increasingly large volume of applications, please be aware that the OISS average processing time for all successfully complete and accurate requests is currently a
+minimum of 5 business days
+, and we will process all requests in the order that they are received. Additional time will be added to applications that require updated/corrected documentation. Requests for expediting will only be considered in cases where the OISS determines that a student is at risk of losing legal status. Plan the submission of your requests accordingly with the minimum 5 business day timeline!
+Back to top
+Access Important Alerts
+The
+Rutgers Global Alerts
+page is intended to provide timely updates to all members of the Rutgers community regarding issues related to travel advisories, immigration policies, and other regulatory updates that impact our international students and scholars.
+Back to top
+Join us on Social Media
+Instagram:
+oissrutgersnewark
+Facebook:
+oissrutgersnewark
+Back to top
+Contact Us
+Office Hours: Monday - Thursday, 10:00 AM - 3:00 PM, Fridays, 9:00 AM – 2:00 PM (with limited services available)
+CLOSED on Saturday and Sunday
+Office of International Student and Scholar Services
+oiss@newark.rutgers.edu
+(973) 353-1427
+48 New Street
+48 New St. Building, Room 229 B
+
+========================================================================
+## campus_living
+URL: https://sph.rutgers.edu/student-life/campus-life-housing-and-food
+Description: Rutgers Housing and Food Services
+
+Title: Campus Life, Housing, and Food
+
+Student Life
+Campus Life, Housing, and Food
+Campus Life, Housing, and Food
+Jersey Living
+As a Rutgers School of Public Health student, you will have the opportunity to be fully immersed in the Rutgers community and New Jersey culture. Here are a few reasons why we think Rutgers and New Jersey are great.
+The Best in Education
+According to U.S. News, New Jersey is the top state for educating their students.
+A Home to Big Business
+New Jersey is home to 19 of the world’s Fortune 500 companies and is in the middle of a $2 trillion economy.  As you apply for internships and professional positions, your opportunities are endless.
+We are Hub City
+You’ll be in the center of it all. New Jersey is right next to New York City, Philadelphia, and Washington D.C. and you can get just about anywhere in New Jersey and beyond using the country’s densest network of highways and railroads.
+The Diner Capital of the World
+Whether you’re #TeamPorkRoll or #TeamTaylorHam, you can chow down on the world’s most famous mystery meat at Henry’s Diner located on Livingston Campus in the “Diner Capital" of the world.
+Jersey Fresh
+We’re pretty proud of our produce. Our award-winning tomatoes, corn, blueberries, and cranberries can’t be beat. Plus, New Jersey has some of the most stringent water testing laws in the country. In fact, Jersey City, New Jersey was the first city in the U.S. to begin routine disinfection of community water.
+The Birthplace of College Football
+The first ever intercollegiate football game was played here between Rutgers and Princeton (Rutgers won)!
+Rutgers–New Brunswick Housing Options
+Graduate housing options in New Brunswick are primarily located on Busch campus.  These residence halls include:
+Johnson Apartments
+Marvin Apartments
+Buell Apartments
+Students with additional questions regarding on-campus housing options, can contact Rutgers Residence Life directly.
+Email:
+oncampus@rutgers.edu
+Phone: 848-445-0750
+Graduate Housing in New Brunswick
+Rutgers–Newark Housing Options
+In Newark, graduate students are housed in the Market Street Apartments.
+Students with additional questions regarding on-campus housing options, can contact Rutgers University–Newark Office of Housing and Residence Life directly.
+Email:
+housing@newark.rutgers.edu
+Phone: 973-353-1037
+Graduate Housing in Newark
+Where to Eat
+Whether you are looking for a place to grab a quick bite to eat before, after, or in between classes, or heat a meal from home, there are a variety of on-campus dining options for students.
+Rutgers–New Brunswick Dining Options
+Woody’s Cafe
+Location: Robert Wood Johnson Medical School (RWJMS) Building, 675 Hoes Lane West, Piscataway
+Busch Student Center
+Busch Student Center includes a variety of quick service options, including Panera Bread, Gerlanda’s Pizza and Café, Moe’s Southwest Grill, Harvest Juice Bar, and more.
+Location: 604 Bartholomew Road, Piscataway
+Busch Dining Hall
+Location: 608 Bartholomew Road, Piscataway, adjacent to the Busch Student Center
+Vending Machines & Microwave
+Location: Main level of the Rutgers School of Public Health and RWJMS building
+Rutgers–Newark Dining Options
+Gateway Center
+Directly connected to One Riverfront Plaza and Penn Station is a network of fast-food restaurants, sit down eateries, and commercial shops where students can purchase a diverse array of cuisine.
+Location: One Gateway Center, Newark, NJ, 07102
+Newark Penn Station
+Newark Penn Station includes a Starbucks, McDonalds, Dunkin Donuts, and other quick services food options.
+Location: 1 Raymond Plaza W. & Market St., Newark, NJ 07102
+Robeson Food Court
+Paul Robeson Food Court includes a variety of quick service options, including Starbucks, Red Mango, 1-2-3-4, Salad Bar, Grill Nation, JBJ Soul Foundation Kitchen, and more.
+Location: Lower level of the Paul Robeson Campus Center, 350 Martin Luther King Boulevard, Newark, NJ 07102
+On The RU-N
+Location: Paul Robeson Campus Center, 350 Martin Luther King Boulevard, Newark, NJ 07102
+Microwave
+Location: One Riverfront Plaza, Suite 1020 (10th Floor), Newark, NJ 07102
+
+========================================================================
+## student_employment
+URL: https://scarlethub.rutgers.edu/financial-services/student-employment/
+Description: On Campus Employment
+
+Title: Student Employment
+
+Home
+/
+Financial Services
+/
+Student Employment
+Student Employment
+Students
+Federal Work Study Program (FWSP)
+FWSP Student Resources
+Find Part-Time/Seasonal Work (JLDP)
+Employers
+Federal Work Study Program (FWSP)
+FWSP Off-Campus Community Service
+Job Location and Development Program (JLDP)
+Student Employment Contacts
+Student Employment
+Note:
+Avoid Employment Scams:
+Beware of employment scams targeting college students.
+Read more
+.
+Hire an FWSP Student
+Submit job descriptions and
+view assigned students
+Access FWSP Online Account
+Are You Eligible for the FWSP?
+Find out what you need to do
+to get started
+Learn more
+Hire a JLDP Student
+Post a part-time or
+seasonal non-FWSP job
+Post a Job
+Need a Job?
+Find a part-time job through the
+Job Location and Development Program
+Find a Job

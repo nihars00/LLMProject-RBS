@@ -38,5 +38,24 @@
       "3"
     ],
     "url": "https://myrbs.business.rutgers.edu/undergraduate-newark/school-curriculum"
+  },
+  {
+    "section": "sas_core_curriculum",
+    "credits_mentioned": [
+      "4",
+      "3"
+    ],
+    "url": "https://sasundergrad.rutgers.edu/degree-requirements/core"
+  },
+  {
+    "section": "mba_curriculum",
+    "credits_mentioned": [
+      "30",
+      "15",
+      "15",
+      "15",
+      "18"
+    ],
+    "url": "https://www.business.rutgers.edu/full-time-mba/curriculum"
   }
 ]

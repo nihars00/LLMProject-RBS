@@ -1,26 +1,69 @@
 [
   {
+    "section": "supply_chain_center_main",
+    "title": "Center for Supply Chain Management",
+    "emails": [
+      "cscm@business.rutgers.edu"
+    ],
+    "url": "https://www.business.rutgers.edu/supply-chain-center"
+  },
+  {
+    "section": "whitcomb_center",
+    "title": "Whitcomb Center for Research in Financial Services",
+    "emails": [
+      "dpalia@business.rutgers.edu",
+      "ibrick@business.rutgers.edu",
+      "daniel_weaver@business.rutgers.edu",
+      "tronen@business.rutgers.edu"
+    ],
+    "url": "https://www.business.rutgers.edu/whitcomb-center"
+  },
+  {
+    "section": "executive_education_main",
+    "title": "Executive Education",
+    "emails": [
+      "execed@business.rutgers.edu"
+    ],
+    "url": "https://www.business.rutgers.edu/executive-education"
+  },
+  {
+    "section": "rbs_diversity_inclusion",
+    "title": "Diversity at Rutgers Business School",
+    "emails": [
+      "IDEA@business.rutgers.edu"
+    ],
+    "url": "https://www.business.rutgers.edu/diversity"
+  },
+  {
+    "section": "rbs_corporate_engagement",
+    "title": "Employers & Recruiters",
+    "emails": [
+      "ocm@business.rutgers.edu"
+    ],
+    "url": "https://www.business.rutgers.edu/employers-recruiters"
+  },
+  {
     "section": "graduate_program_contacts",
     "title": "Contact Us- Graduate Programs",
     "emails": [
-      "maccytax@business.rutgers.edu",
-      "gov_maccy@business.rutgers.edu",
-      "phdinfo@business.rutgers.edu",
-      "mita@business.rutgers.edu",
       "pa-mba@business.rutgers.edu",
-      "mfina@business.rutgers.edu",
-      "maccyaa@business.rutgers.edu",
-      "rsbi@business.rutgers.edu",
-      "dba@business.rutgers.edu",
-      "emba@business.rutgers.edu",
       "fashion@business.rutgers.edu",
-      "msca@business.rutgers.edu",
+      "mscm@business.rutgers.edu",
+      "mita@business.rutgers.edu",
+      "MBA@business.rutgers.edu",
+      "msmai@business.rutgers.edu",
+      "rsbi@business.rutgers.edu",
+      "phdinfo@business.rutgers.edu",
+      "emba@business.rutgers.edu",
       "msdm@business.rutgers.edu",
       "mqf@business.rutgers.edu",
-      "msmai@business.rutgers.edu",
-      "mscm@business.rutgers.edu",
-      "MBA@business.rutgers.edu",
-      "mshai@business.rutgers.edu"
+      "gov_maccy@business.rutgers.edu",
+      "maccyaa@business.rutgers.edu",
+      "msca@business.rutgers.edu",
+      "mfina@business.rutgers.edu",
+      "mshai@business.rutgers.edu",
+      "maccytax@business.rutgers.edu",
+      "dba@business.rutgers.edu"
     ],
     "url": "https://myrbs.business.rutgers.edu/contact-us-graduate"
   },
@@ -28,20 +71,38 @@
     "section": "gateway_accelerated_programs",
     "title": "Gateway and Accelerated Programs",
     "emails": [
-      "zcorby@business.rutgers.edu",
-      "gateway@business.rutgers.edu",
-      "gov_maccy@business.rutgers.edu",
-      "mfina@business.rutgers.edu",
-      "maccyaa@business.rutgers.edu",
-      "carmen.nieves@business.rutgers.edu",
-      "msca@business.rutgers.edu",
-      "msdm@business.rutgers.edu",
-      "msmai@business.rutgers.edu",
       "mscm@business.rutgers.edu",
-      "sabrina.kelley@business.rutgers.edu",
+      "msmai@business.rutgers.edu",
+      "gateway@business.rutgers.edu",
+      "carmen.nieves@business.rutgers.edu",
+      "msdm@business.rutgers.edu",
+      "gov_maccy@business.rutgers.edu",
+      "maccyaa@business.rutgers.edu",
+      "msca@business.rutgers.edu",
+      "mfina@business.rutgers.edu",
+      "mshai@business.rutgers.edu",
       "rutgersmba@business.rutgers.edu",
-      "mshai@business.rutgers.edu"
+      "zcorby@business.rutgers.edu",
+      "sabrina.kelley@business.rutgers.edu"
     ],
     "url": "https://www.business.rutgers.edu/gateway-accelerated-programs"
+  },
+  {
+    "section": "ug_contact_newark_myrbs",
+    "title": "Contact Us",
+    "emails": [
+      "RBSNWK_undergrad@business.rutgers.edu",
+      "ocm-nwk@business.rutgers.edu"
+    ],
+    "url": "https://myrbs.business.rutgers.edu/undergraduate-newark/contact-us"
+  },
+  {
+    "section": "contact_us_office_of_undergraduate_programs_newark",
+    "title": "Contact Us",
+    "emails": [
+      "RBSNWK_undergrad@business.rutgers.edu",
+      "ocm-nwk@business.rutgers.edu"
+    ],
+    "url": "https://myrbs.business.rutgers.edu/undergraduate-newark/contact-us"
   }
 ]

@@ -2,23 +2,93 @@
   {
     "title": "Calendar of Events",
     "dates_found": [
-      "Apr 06, 2026",
-      "Mar 24, 2026",
-      "Mar 28, 2026",
-      "Mar 27, 2026",
-      "Mar 23, 2026",
-      "Apr 08, 2026",
-      "Apr 16, 2026",
-      "Apr 14, 2026",
-      "Apr 07, 2026",
-      "Apr 15, 2026",
-      "Mar 25, 2026",
-      "Apr 09, 2026",
-      "Apr 04, 2026",
-      "Apr 13, 2026",
-      "Apr 10, 2026",
-      "Apr 01, 2026"
+      "Jun 03, 2026",
+      "Jul 25, 2026",
+      "May 14, 2026",
+      "May 26, 2026",
+      "Jun 02, 2026",
+      "May 12, 2026",
+      "May 13, 2026",
+      "May 04, 2026",
+      "Jun 08, 2026",
+      "May 21, 2026",
+      "May 27, 2026",
+      "May 16, 2026",
+      "May 15, 2026",
+      "May 06, 2026",
+      "May 01, 2026",
+      "May 07, 2026"
     ],
     "url": "https://www.business.rutgers.edu/events-listing"
+  },
+  {
+    "title": "Events",
+    "dates_found": [
+      "May 03, 2026",
+      "May 05, 2026",
+      "May 02, 2026",
+      "May 06, 2026",
+      "May 01, 2026",
+      "May 07, 2026"
+    ],
+    "url": "https://www.rutgers.edu/events"
+  },
+  {
+    "title": "Rutgers-Newark Events Calendar",
+    "dates_found": [
+      "Apr 30, 2026",
+      "May 1, 2026"
+    ],
+    "url": "https://events.newark.rutgers.edu/"
+  },
+  {
+    "title": "Events",
+    "dates_found": [
+      "May 26, 2026",
+      "May 05, 2026",
+      "May 17, 2026",
+      "May 06, 2026",
+      "May 02, 2026",
+      "May 07, 2026"
+    ],
+    "url": "https://newbrunswick.rutgers.edu/events"
+  },
+  {
+    "title": "Rutgers University Academic Calendar",
+    "dates_found": [
+      "May 6, 2027",
+      "May 2, 2028",
+      "May 13, 2027",
+      "May 10, 2028",
+      "May 31, 2027",
+      "May 6, 2026",
+      "May 26, 2026",
+      "May 13, 2026",
+      "May 4, 2026",
+      "May 12, 2027",
+      "May 7, 2026",
+      "May 14, 2026",
+      "May 5, 2027",
+      "May 16, 2027",
+      "May 25, 2026",
+      "May 17, 2026",
+      "May 4, 2028",
+      "May 4, 2027",
+      "May 3, 2027",
+      "May 14, 2028",
+      "May 5, 2026",
+      "May 1, 2028",
+      "May 3, 2028"
+    ],
+    "url": "https://scheduling.rutgers.edu/academic-calendar/"
+  },
+  {
+    "title": "Rutgers Commencement | Rutgers Commencement",
+    "dates_found": [
+      "May 21, 2026",
+      "May 19, 2026",
+      "May 17, 2026"
+    ],
+    "url": "https://commencement.rutgers.edu/"
   }
 ]

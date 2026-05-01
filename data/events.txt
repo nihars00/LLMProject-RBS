@@ -1,5 +1,5 @@
 # Category: events
-# Generated (UTC): 2026-03-22T03:00:36.534380+00:00
+# Generated (UTC): 2026-05-01T02:41:56.578471+00:00
 
 ========================================================================
 ## rbs_main_events_listing
@@ -31,36 +31,62 @@ Open to the Public
 Ph.D. Program
 Small Business Development
 Filter Events
-23
-Mar
-M.S. in Healthcare Analytics and Intelligence Information Session (Online)
-Mon, Mar 23, 2026
-9:00AM
+01
+May
+Master of Financial Analysis Information Session
+Fri, May 01, 2026
+8:00AM
 -
-10:00AM EDT
+9:00AM EDT
 Online
 Admissions
 Join us to learn more about the program.
-8
-Mon, Mar 23, 2026
-9:00AM
-24
-Mar
-RBS on the Road: Beijing
-Tue, Mar 24, 2026
-6:30AM
+4
+Fri, May 01, 2026
+8:00AM
+01
+May
+M.S. in Digital Marketing Information Session
+Fri, May 01, 2026
+12:00PM
 -
-8:30AM EDT
-Sunworld Dynasty Hotel | 50 Wangfujing Ave, Dongcheng, Beijing, China, 100006
+1:00PM EDT
+Online
 Admissions
-We invite you to RSVP and learn more about RBS's graduate Programs.
-0
-Tue, Mar 24, 2026
-6:30AM
-25
-Mar
+Join us to learn more about the program.
+4
+Fri, May 01, 2026
+12:00PM
+04
+May
+Master of Quantitative Finance Information Session (Online)
+Mon, May 04, 2026
+9:30AM
+-
+10:30AM EDT
+Online
+Admissions
+Join us to learn more about the program.
+11
+Mon, May 04, 2026
+9:30AM
+04
+May
+M.S. in Marketing Analytics and Insights Information Session
+Mon, May 04, 2026
+5:00PM
+-
+6:00PM EDT
+Online
+Admissions
+Join us to learn more about the program.
+15
+Mon, May 04, 2026
+5:00PM
+06
+May
 Master of Science in Business of Fashion Information Session (Online)
-Wed, Mar 25, 2026
+Wed, May 06, 2026
 6:00PM
 -
 7:00PM EDT
@@ -68,116 +94,196 @@ Online
 Admissions
 Are you ready to start an innovative Master's program at Rutgers Business School?
 2
-Wed, Mar 25, 2026
+Wed, May 06, 2026
 6:00PM
-27
-Mar
-RBS on the Road: Shanghai
-Fri, Mar 27, 2026
-6:30AM
+07
+May
+MBA Information Session (Online)
+Thu, May 07, 2026
+12:00PM
 -
-8:30AM EDT
-Park Hotel | 170 Nanjing West Road, Huangpu District, Shanghai 200003
+1:00PM EDT
+Online
 Admissions
-We invite you to RSVP and learn more about RBS's graduate Programs.
-0
-Fri, Mar 27, 2026
-6:30AM
-27
-Mar
-Master of Financial Analysis Information Session
-Fri, Mar 27, 2026
-8:00AM
+Join us to learn more about our MBA programs.
+11
+Thu, May 07, 2026
+12:00PM
+07
+May
+MBA Information Session (Online)
+Thu, May 07, 2026
+12:00PM
 -
-9:00AM EDT
+1:00PM EDT
+Online
+Admissions
+Join us to learn more about our MBA programs.
+12
+Tue, May 12, 2026
+12:00PM
+13
+May
+M.S. in Healthcare Analytics and Intelligence Information Session (Online)
+Wed, May 13, 2026
+9:00AM
+-
+10:00AM EDT
 Online
 Admissions
 Join us to learn more about the program.
-2
-Fri, Mar 27, 2026
-8:00AM
-27
-Mar
+10
+Wed, May 13, 2026
+9:00AM
+06
+May
+Master of Science in Business of Fashion Information Session (Online)
+Wed, May 06, 2026
+6:00PM
+-
+7:00PM EDT
+Online
+Admissions
+Are you ready to start an innovative Master's program at Rutgers Business School?
+3
+Thu, May 14, 2026
+6:00PM
+15
+May
 Master of Supply Chain Analytics Information Session (Online)
-Fri, Mar 27, 2026
+Fri, May 15, 2026
 10:00AM
 -
 11:00AM EDT
 Online
 Admissions
 Please join us for a presentation on the program plus question and answer session with the program director.
-2
-Fri, Mar 27, 2026
+4
+Fri, May 15, 2026
 10:00AM
-28
-Mar
-Graduate Open House (Newark Campus)
-Sat, Mar 28, 2026
+16
+May
+Project Management Professional (PMP) Certification
+Sat, May 16
+-
+Sat, Jul 25, 2026
 9:00AM
+-
+12:30PM EDT
+Online
+Featured
+Rutgers Business School (RBS), Center for Supply Chain Management (CSCM) is excited to embark on a prodigious journey with experts qualified to equip students to successfully pass the PMI®, PMP® certification exams while adding tremendous value to their professional and personal career.
+2
+Sat, May 16, 2026
+9:00AM
+07
+May
+MBA Information Session (Online)
+Thu, May 07, 2026
+12:00PM
 -
 1:00PM EDT
-1 Washington Park Newark, NJ 07102
+Online
 Admissions
-Considering an advanced degree in business? Come in person to the Newark Campus to learn about Rutgers Business School’s highly regarded graduate programs.
-0
-Sat, Mar 28, 2026
-9:00AM
-28
-Mar
-Undergraduate New Brunswick Information Session
-Sat, Mar 28, 2026
-10:00AM
+Join us to learn more about our MBA programs.
+13
+Thu, May 21, 2026
+12:00PM
+21
+May
+Rutgers Stackable Business Innovation (rSBI) Information Session
+Thu, May 21, 2026
+12:00PM
 -
-12:00PM EDT
-100 Rockafeller Road, Piscataway, NJ 08854
+1:00PM EDT
+Online
 Admissions
-Rutgers Business School – New Brunswick cordially invites you to attend a Prospective Student Info Session.
-5
-Sat, Mar 28, 2026
-10:00AM
+Upskill your knowledge. The rSBI program provides stackable graduate-level classes of your choosing to gain relevant business knowledge and skills.
+11
+Thu, May 21, 2026
+12:00PM
 01
-Apr
+May
+M.S. in Digital Marketing Information Session
+Fri, May 01, 2026
+12:00PM
+-
+1:00PM EDT
+Online
+Admissions
+Join us to learn more about the program.
+5
+Tue, May 26, 2026
+6:00PM
+27
+May
+Master of Information Technology and Analytics Information Session (Online)
+Wed, May 27, 2026
+9:00AM
+-
+10:00AM EDT
+Online
+Admissions
+Please join us for a presentation on the program.
+8
+Wed, May 27, 2026
+9:00AM
+27
+May
+Rutgers Accounting Doctoral Symposium (RADS) 2026
+Wed, May 27, 2026
+9:30AM
+-
+2:15PM EDT
+Online via Zoom
+Open to the Public
+Join us for the third annual Rutgers Accounting Doctoral Symposium (RADS) on May 27th, 2026, hosted online via Zoom. RADS provides a unique opportunity for accounting PhD students to present research, collaborate, and receive feedback to foster their academic careers.
+0
+Wed, May 27, 2026
+9:30AM
+07
+May
+MBA Information Session (Online)
+Thu, May 07, 2026
+12:00PM
+-
+1:00PM EDT
+Online
+Admissions
+Join us to learn more about our MBA programs.
+14
+Tue, Jun 02, 2026
+12:00PM
+03
+Jun
 M.S. in Supply Chain Management Information Session
-Wed, Apr 01, 2026
+Wed, Jun 03, 2026
 5:30PM
 -
 6:30PM EDT
 Online
 Admissions
 Please join us for a presentation on the program plus question and answer session with the program director and/or coordinator.
-7
-Wed, Apr 01, 2026
+9
+Wed, Jun 03, 2026
 5:30PM
 04
-Apr
-RBS on the Road: Delhi
-Sat, Apr 04, 2026
-5:30AM
--
-7:30AM EDT
-GradRight | Chime, 142, Sector 44, Gurugram, Haryana 122003, India
-Admissions
-We invite you to RSVP and learn more about RBS's graduate Programs.
-0
-Sat, Apr 04, 2026
-5:30AM
-06
-Apr
+May
 M.S. in Marketing Analytics and Insights Information Session
-Mon, Apr 06, 2026
+Mon, May 04, 2026
 5:00PM
 -
 6:00PM EDT
 Online
 Admissions
 Join us to learn more about the program.
-14
-Mon, Apr 06, 2026
+16
+Mon, Jun 08, 2026
 5:00PM
 07
-Apr
+May
 MBA Information Session (Online)
-Tue, Apr 07, 2026
+Thu, May 07, 2026
 12:00PM
 -
 1:00PM EDT
@@ -185,112 +291,8 @@ Online
 Admissions
 Join us to learn more about our MBA programs.
 15
-Tue, Apr 07, 2026
-12:00PM
-08
-Apr
-Accounting Information Session (Online)
-Wed, Apr 08, 2026
-12:00PM
--
-1:00PM EDT
-Online
-Admissions
-Join us to learn more about our accounting graduate programs.
-9
-Wed, Apr 08, 2026
-12:00PM
-25
-Mar
-Master of Science in Business of Fashion Information Session (Online)
-Wed, Mar 25, 2026
+Mon, Jun 08, 2026
 6:00PM
--
-7:00PM EDT
-Online
-Admissions
-Are you ready to start an innovative Master's program at Rutgers Business School?
-3
-Thu, Apr 09, 2026
-6:00PM
-09
-Apr
-Master of Quantitative Finance Information Session (Online)
-Thu, Apr 09, 2026
-8:00PM
--
-9:00PM EDT
-Online
-Admissions
-Join us to learn more about the program.
-10
-Thu, Apr 09, 2026
-8:00PM
-10
-Apr
-M.S. in Digital Marketing Information Session
-Fri, Apr 10, 2026
-12:00PM
--
-1:00PM EDT
-Online
-Admissions
-Join us to learn more about the program.
-3
-Fri, Apr 10, 2026
-12:00PM
-07
-Apr
-MBA Information Session (Online)
-Tue, Apr 07, 2026
-12:00PM
--
-1:00PM EDT
-Online
-Admissions
-Join us to learn more about our MBA programs.
-16
-Mon, Apr 13, 2026
-12:00PM
-27
-Mar
-Master of Financial Analysis Information Session
-Fri, Mar 27, 2026
-8:00AM
--
-9:00AM EDT
-Online
-Admissions
-Join us to learn more about the program.
-3
-Tue, Apr 14, 2026
-7:00PM
-01
-Apr
-M.S. in Supply Chain Management Information Session
-Wed, Apr 01, 2026
-5:30PM
--
-6:30PM EDT
-Online
-Admissions
-Please join us for a presentation on the program plus question and answer session with the program director and/or coordinator.
-8
-Wed, Apr 15, 2026
-5:30PM
-16
-Apr
-Rutgers Stackable Business Innovation (rSBI) Information Session
-Thu, Apr 16, 2026
-12:00PM
--
-1:00PM EDT
-Online
-Admissions
-Upskill your knowledge. The rSBI program provides stackable graduate-level classes of your choosing to gain relevant business knowledge and skills.
-10
-Thu, Apr 16, 2026
-12:00PM
 Show More
 
 ========================================================================
@@ -321,13 +323,12 @@ All Experiences
 In-Person
 Virtual
 Event Types
-Seminar (4)
 Conference (0)
 Event (0)
 Meeting (0)
+Seminar (0)
 Training & Workshops (0)
 Topics
-Management & Global Business (4)
 Accounting (0)
 Accounting & Information Systems (0)
 Analytics (0)
@@ -340,6 +341,7 @@ Global Business (0)
 Healthcare (0)
 Information Technology (0)
 Management (0)
+Management & Global Business (0)
 Management Science & Information Systems (0)
 Marketing (0)
 Real Estate (0)
@@ -347,9 +349,9 @@ Strategy & Leadership (0)
 Supply Chain (0)
 Supply Chain Management (0)
 Audience
-Doctoral Students (4)
-Faculty (4)
 Alumni (0)
+Doctoral Students (0)
+Faculty (0)
 Graduate Students (0)
 Public (0)
 Staff (0)
@@ -371,12 +373,12 @@ Departments
 Student Career Events
 Events by Department
 Events by Departments
-Accounting & Information
+Accounting & Information
                             Systems
-Finance
+Finance
                             & Economics
 Management & Global Business
-Management Science &
+Management Science &
                             Information Systems
 Marketing
 Supply Chain Management
@@ -392,44 +394,8 @@ Digest emailer
 .
 Upcoming
 Calendar View
-Management & Global Business Spring 2026 Seminar
-Wed, Mar 25 11:45am to 1:45pm EDT
-1 Washington Park, 1027
-Seminar
-I'm Interested
-Share Management & Global Business Spring 2026 Seminar
-Share Management & Global Business Spring 2026 Seminar on Facebook
-Share Management & Global Business Spring 2026 Seminar on X
-Share Management & Global Business Spring 2026 Seminar on LinkedIn
-Management & Global Business Spring 2026 Seminar
-Wed, Apr 1 11:45am to 1:45pm EDT
-1 Washington Park, 1027
-Seminar
-I'm Interested
-Share Management & Global Business Spring 2026 Seminar
-Share Management & Global Business Spring 2026 Seminar on Facebook
-Share Management & Global Business Spring 2026 Seminar on X
-Share Management & Global Business Spring 2026 Seminar on LinkedIn
-Management & Global Business Spring 2026 Seminar
-Wed, Apr 15 11:45am to 1:45pm EDT
-1 Washington Park, 1027
-Seminar
-I'm Interested
-Share Management & Global Business Spring 2026 Seminar
-Share Management & Global Business Spring 2026 Seminar on Facebook
-Share Management & Global Business Spring 2026 Seminar on X
-Share Management & Global Business Spring 2026 Seminar on LinkedIn
-Management & Global Business Spring 2026 Seminar
-Wed, Apr 22 11:45am to 1:45pm EDT
-1 Washington Park, 1027
-Seminar
-I'm Interested
-Share Management & Global Business Spring 2026 Seminar
-Share Management & Global Business Spring 2026 Seminar on Facebook
-Share Management & Global Business Spring 2026 Seminar on X
-Share Management & Global Business Spring 2026 Seminar on LinkedIn
 Show all events
-March 2026
+April 2026
 ←
 →
 Sun
@@ -440,10 +406,10 @@ Thu
 Fri
 Sat
 1
+11:45am EDT Management & Global Business Spring 2026 Seminar
 2
 3
 4
-11:45am EST Management & Global Business Spring 2026 Seminar
 5
 6
 7
@@ -451,11 +417,11 @@ Sat
 9
 10
 11
-11:45am EDT Management & Global Business PhD Student Presentations
 12
 13
 14
 15
+11:45am EDT Management & Global Business Spring 2026 Seminar
 16
 17
 18
@@ -463,21 +429,20 @@ Sat
 20
 21
 22
+11:45am EDT Management & Global Business Spring 2026 Seminar
 23
 24
 25
-11:45am EDT Management & Global Business Spring 2026 Seminar
 26
 27
 28
 29
 30
-31
-Wednesday, March 4
-11:45am EST Management & Global Business Spring 2026 Seminar
-Wednesday, March 11
-11:45am EDT Management & Global Business PhD Student Presentations
-Wednesday, March 25
+Wednesday, April 1
+11:45am EDT Management & Global Business Spring 2026 Seminar
+Wednesday, April 15
+11:45am EDT Management & Global Business Spring 2026 Seminar
+Wednesday, April 22
 11:45am EDT Management & Global Business Spring 2026 Seminar
 Show all events
 Student Career Events
@@ -517,13 +482,12 @@ All Experiences
 In-Person
 Virtual
 Event Types
-Seminar (4)
 Conference (0)
 Event (0)
 Meeting (0)
+Seminar (0)
 Training & Workshops (0)
 Topics
-Management & Global Business (4)
 Accounting (0)
 Accounting & Information Systems (0)
 Analytics (0)
@@ -536,6 +500,7 @@ Global Business (0)
 Healthcare (0)
 Information Technology (0)
 Management (0)
+Management & Global Business (0)
 Management Science & Information Systems (0)
 Marketing (0)
 Real Estate (0)
@@ -543,9 +508,9 @@ Strategy & Leadership (0)
 Supply Chain (0)
 Supply Chain Management (0)
 Audience
-Doctoral Students (4)
-Faculty (4)
 Alumni (0)
+Doctoral Students (0)
+Faculty (0)
 Graduate Students (0)
 Public (0)
 Staff (0)
@@ -567,12 +532,12 @@ Departments
 Student Career Events
 Events by Department
 Events by Departments
-Accounting & Information
+Accounting & Information
                             Systems
-Finance
+Finance
                             & Economics
 Management & Global Business
-Management Science &
+Management Science &
                             Information Systems
 Marketing
 Supply Chain Management
@@ -588,44 +553,8 @@ Digest emailer
 .
 Upcoming
 Calendar View
-Management & Global Business Spring 2026 Seminar
-Wed, Mar 25 11:45am to 1:45pm EDT
-1 Washington Park, 1027
-Seminar
-I'm Interested
-Share Management & Global Business Spring 2026 Seminar
-Share Management & Global Business Spring 2026 Seminar on Facebook
-Share Management & Global Business Spring 2026 Seminar on X
-Share Management & Global Business Spring 2026 Seminar on LinkedIn
-Management & Global Business Spring 2026 Seminar
-Wed, Apr 1 11:45am to 1:45pm EDT
-1 Washington Park, 1027
-Seminar
-I'm Interested
-Share Management & Global Business Spring 2026 Seminar
-Share Management & Global Business Spring 2026 Seminar on Facebook
-Share Management & Global Business Spring 2026 Seminar on X
-Share Management & Global Business Spring 2026 Seminar on LinkedIn
-Management & Global Business Spring 2026 Seminar
-Wed, Apr 15 11:45am to 1:45pm EDT
-1 Washington Park, 1027
-Seminar
-I'm Interested
-Share Management & Global Business Spring 2026 Seminar
-Share Management & Global Business Spring 2026 Seminar on Facebook
-Share Management & Global Business Spring 2026 Seminar on X
-Share Management & Global Business Spring 2026 Seminar on LinkedIn
-Management & Global Business Spring 2026 Seminar
-Wed, Apr 22 11:45am to 1:45pm EDT
-1 Washington Park, 1027
-Seminar
-I'm Interested
-Share Management & Global Business Spring 2026 Seminar
-Share Management & Global Business Spring 2026 Seminar on Facebook
-Share Management & Global Business Spring 2026 Seminar on X
-Share Management & Global Business Spring 2026 Seminar on LinkedIn
 Show all events
-March 2026
+April 2026
 ←
 →
 Sun
@@ -636,10 +565,10 @@ Thu
 Fri
 Sat
 1
+11:45am EDT Management & Global Business Spring 2026 Seminar
 2
 3
 4
-11:45am EST Management & Global Business Spring 2026 Seminar
 5
 6
 7
@@ -647,11 +576,11 @@ Sat
 9
 10
 11
-11:45am EDT Management & Global Business PhD Student Presentations
 12
 13
 14
 15
+11:45am EDT Management & Global Business Spring 2026 Seminar
 16
 17
 18
@@ -659,21 +588,20 @@ Sat
 20
 21
 22
+11:45am EDT Management & Global Business Spring 2026 Seminar
 23
 24
 25
-11:45am EDT Management & Global Business Spring 2026 Seminar
 26
 27
 28
 29
 30
-31
-Wednesday, March 4
-11:45am EST Management & Global Business Spring 2026 Seminar
-Wednesday, March 11
-11:45am EDT Management & Global Business PhD Student Presentations
-Wednesday, March 25
+Wednesday, April 1
+11:45am EDT Management & Global Business Spring 2026 Seminar
+Wednesday, April 15
+11:45am EDT Management & Global Business Spring 2026 Seminar
+Wednesday, April 22
 11:45am EDT Management & Global Business Spring 2026 Seminar
 Show all events
 Student Career Events
@@ -749,3 +677,827 @@ We strive to provide you with the best tools to successfully reach your career g
 For more information, please click
 here
 .
+
+========================================================================
+## rutgers_university_events
+URL: https://www.rutgers.edu/events
+Description: University-wide events listing for all Rutgers campuses
+
+Title: Events
+
+Events
+Featured Events
+All Events
+Filter
+Keyword
+Date
+Division
+All
+Rutgers University–New Brunswick
+Rutgers University–Newark
+Rutgers University–Camden
+Category
+All
+Academic
+Alumni
+America 250
+Arts
+Athletics
+Board of Governors
+Board of Trustees
+Commencement
+Community
+Fitness & Recreation
+Global & Civic Engagement
+Grand Rounds
+Health and Wellness
+Honors and Awards
+Inauguration
+Information Session
+Lectures & Meetings
+Multicultural & Diversity
+Other
+Partnerships
+President Holloway
+Religious
+Showcasing Excellence Exhibitions
+Signature Event
+Social
+Training/Workshop
+World Cup 2026
+All Events
+Apr
+30
+Information Session
+Information Sessions & Tours
+Wednesday, February 04, 2026, 2:00 p.m.-Tuesday, June 30, 2026, 10:00 a.m.
+Apr
+30
+Community
+Astronomical Observatory Public Open Viewing Nights (Thursdays)
+Thursday, April 23, 2026, 8:30 p.m.-Thursday, September 24, 2026, 10:30 p.m.
+Apr
+30
+Arts
+International Academic Conference: “Art and Dissent in the Soviet Era: The Dodge Collection and Its Global Legacy”
+Thursday, April 30, 2026, 10:00 a.m.-Friday, May 01, 2026, 5:00 p.m. | Zimmerli Art Museum, New Brunswick
+Apr
+30
+Honors and Awards
+Rutgers University-Newark 80th Anniversary Celebration
+Thursday, April 30, 2026, 3:30 p.m.-9:30 p.m.
+May
+2
+Honors and Awards
+2026 Rutgers Living History Society Annual Meeting and Stephen E. Ambrose Oral History Award Ceremony
+Saturday, May 02, 2026, 11:00 a.m.-1:30 p.m. | College Avenue Student Center Multipurpose Room, New Brunswick
+May
+3
+Arts
+NBCO @ Zimmerli: The Revolutionary War in New Jersey
+Sunday, May 03, 2026, 2:00 p.m.-4:00 p.m. | Zimmerli Art Museum, New Brunswick
+May
+5
+Academic
+I-Corps Novus at Rutgers-New Brunswick
+Tuesday, May 05, 2026, 12:00 p.m.-4:00 p.m. | Busch Student Center (The Cove), Piscataway
+May
+6
+Commencement
+Rainbow Graduation 2026
+Wednesday, May 06, 2026, 5:00 p.m.-8:00 p.m. | Livingston Student Center, Piscataway
+May
+7
+Global & Civic Engagement
+Café Democracy
+Thursday, May 07, 2026, 4:30 p.m.-6:00 p.m.
+May
+7
+Community
+SparkNight: Celebrating APIDAA Heritage Month
+Thursday, May 07, 2026, 5:00 p.m.-8:00 p.m. | Zimmerli Art Museum, New Brunswick
+Load More
+Academic Calendar Directory
+More New Brunswick Events
+More Newark Events
+More Camden Events
+Suggest an Event
+
+========================================================================
+## newark_events_calendar
+URL: https://events.newark.rutgers.edu/
+Description: Rutgers University-Newark official events calendar
+
+Title: Rutgers-Newark Events Calendar
+
+Rutgers-Newark Events Calendar
+Events
+Filter
+Filter results
+Close filter
+Hide recurring events
+Layout small
+Layout medium
+Layout big
+Sort by
+Date
+Name
+Popularity
+When
+Experience
+All Experiences
+In-Person
+Virtual
+Event Types
+Recreation (12)
+Sports (6)
+Intramural (0)
+Watch (0)
+Dates/Deadlines (4)
+Training/Workshops (2)
+Luncheon (1)
+Virtual Event (Online) (1)
+Concerts & Performances (0)
+Fitness (0)
+Fundraisers (0)
+Lectures & Presentations (0)
+Meetings & Conferences (0)
+Seminar (0)
+Target Audience
+Graduate Students (23)
+Undergraduate Students (23)
+Faculty (13)
+Staff (11)
+General Public (10)
+Prospective Students (10)
+Alumni (6)
+Topic/Interest
+Social & Entertainment (17)
+Academic (7)
+Arts & Culture (7)
+Career Information/Professional Development (0)
+Health & Wellness (0)
+Research (0)
+Science & Technology (0)
+Campus
+Rutgers University - Newark (10)
+Rutgers University - Camden (0)
+Rutgers University - New Brunswick (0)
+Subscribe to Displayed Results
+Save to Google Calendar
+Save to iCal
+Save to Outlook
+Save to RSS
+Cancel
+Apply filters
+More Options
+Calendar Links
+Close
+Calendar Links
+All Events
+Places to Go
+Departments
+Other Calendars
+Other Calendars
+Academic Calendar
+Digital Professor Events
+Homepage
+Rutgers Law Events
+Student Life
+Share Events
+Submit your own event using our simple
+event submission form
+. It only takes a minute!
+Embed events anywhere on the web with our
+Widget builder
+.
+Get a personalized list of events in your inbox with our
+Digest emailer
+.
+Baseball vs NJAC Championships
+Thu, Apr 30, 2026
+Sports
+I'm Interested
+Share Baseball vs NJAC Championships
+Share Baseball vs NJAC Championships on Facebook
+Share Baseball vs NJAC Championships on X
+Share Baseball vs NJAC Championships on LinkedIn
+Softball vs NJAC Championship
+Thu, Apr 30, 2026
+Sports
+I'm Interested
+Share Softball vs NJAC Championship
+Share Softball vs NJAC Championship on Facebook
+Share Softball vs NJAC Championship on X
+Share Softball vs NJAC Championship on LinkedIn
+Turn The Campus Teal
+Thu, Apr 30, 2026 9am to 5pm
+350 Martin Luther King Boulevard, Newark, NJ 7102
+Recreation
+I'm Interested
+Share Turn The Campus Teal
+Share Turn The Campus Teal on Facebook
+Share Turn The Campus Teal on X
+Share Turn The Campus Teal on LinkedIn
+Covidence Data Extraction 1
+Thu, Apr 30, 2026 10am to 11am
+I'm Interested
+Share Covidence Data Extraction 1
+Share Covidence Data Extraction 1 on Facebook
+Share Covidence Data Extraction 1 on X
+Share Covidence Data Extraction 1 on LinkedIn
+All Recovery Yoga
+Thu, Apr 30, 2026 12:30pm to 1:30pm
+249 University Ave., Newark, NJ 7102
+Recreation
+I'm Interested
+Share All Recovery Yoga
+Share All Recovery Yoga on Facebook
+Share All Recovery Yoga on X
+Share All Recovery Yoga on LinkedIn
+Rutgers–Newark’s 80th Anniversary Celebration
+Thu, Apr 30, 2026 3:30pm to 9:30pm
+Recreation
+Luncheon
+I'm Interested
+Share Rutgers–Newark’s 80th Anniversary Celebration
+Share Rutgers–Newark’s 80th Anniversary Celebration on Facebook
+Share Rutgers–Newark’s 80th Anniversary Celebration on X
+Share Rutgers–Newark’s 80th Anniversary Celebration on LinkedIn
+Baltimore's Black Arts Then & Now: Virtual Book Launch
+Thu, Apr 30, 2026 7pm
+Virtual Event (Online)
+0
+Register
+I'm Interested
+Share Baltimore's Black Arts Then & Now: Virtual Book Launch
+Share Baltimore's Black Arts Then & Now: Virtual Book Launch on Facebook
+Share Baltimore's Black Arts Then & Now: Virtual Book Launch on X
+Share Baltimore's Black Arts Then & Now: Virtual Book Launch on LinkedIn
+End of the Year Cookout
+Thu, Apr 30, 2026 7pm to 10pm
+91 Bleeker Street, Newark, NJ 7102
+Recreation
+I'm Interested
+Share End of the Year Cookout
+Share End of the Year Cookout on Facebook
+Share End of the Year Cookout on X
+Share End of the Year Cookout on LinkedIn
+ATS Office Hours: Hands-On Help with Canvas & Classroom Tools
+Fri, May 1, 2026 10am to 11am
+Training/Workshops
+I'm Interested
+Share ATS Office Hours: Hands-On Help with Canvas & Classroom Tools
+Share ATS Office Hours: Hands-On Help with Canvas & Classroom Tools on Facebook
+Share ATS Office Hours: Hands-On Help with Canvas & Classroom Tools on X
+Share ATS Office Hours: Hands-On Help with Canvas & Classroom Tools on LinkedIn
+Course Accessibility and Canvas Office Hours
+Fri, May 1, 2026 2pm to 3pm
+Training/Workshops
+Share Course Accessibility and Canvas Office Hours
+Share Course Accessibility and Canvas Office Hours on Facebook
+Share Course Accessibility and Canvas Office Hours on X
+Share Course Accessibility and Canvas Office Hours on LinkedIn
+Show all events
+
+========================================================================
+## new_brunswick_events
+URL: https://newbrunswick.rutgers.edu/events
+Description: Rutgers-New Brunswick events listing
+
+Title: Events
+
+Events
+Featured Events
+All Events
+Filter
+Keyword
+Date
+Division
+All
+Rutgers Health
+Rutgers University–New Brunswick
+Category
+All
+9/11 Event
+Academic
+Administration
+Alumni
+Arts
+Athletics
+Campus Life
+Careers & Entrepreneurship
+Center for Faculty Success
+Center for Faculty Success | New Brunswick Chairs and Department Leaders Program Series
+Center for Faculty Success | New Faculty Friday Series
+Chancellor
+Chancellor Academic Master Plan
+Commencement
+Community
+Disability Awareness Month at Rutgers
+Fitness & Recreation
+Global & Civic Engagement
+Graduate and Professional Studies
+Health
+IDEA
+Information Session
+Lectures & Speakers
+Multicultural & Diversity
+Office of the Vice Provost for Research | NIH Writing Academy
+Other
+Religious
+Rutgers Day Performances - Busch Campus
+Rutgers Day Performances - College Avenue Campus
+Rutgers Day Performances - Cook/Douglass Campus
+Rutgers–New Brunswick Office for Research
+ScarletWell
+Training/Workshop
+All Events
+May
+2
+Lectures & Speakers
+Writing a Life
+Saturday, May 02, 2026, 9:00 a.m.-5:30 p.m. | Rutgers Academic Building, New Brunswick
+May
+2
+Lectures & Speakers
+2026 Rutgers Living History Society Annual Meeting and Stephen E. Ambrose Oral History Award Ceremony
+Saturday, May 02, 2026, 11:00 a.m.-1:30 p.m. | College Avenue Student Center Multipurpose Room, New Brunswick
+May
+5
+Careers & Entrepreneurship
+I-Corps Novus at Rutgers-New Brunswick
+Tuesday, May 05, 2026, 12:00 p.m.-4:00 p.m. | Busch Student Center (The Cove), Piscataway
+May
+6
+Commencement
+Rainbow Graduation 2026
+Wednesday, May 06, 2026, 5:00 p.m.-8:00 p.m. | Livingston Student Center, Piscataway
+May
+7
+Training/Workshop
+Café Democracy
+Thursday, May 07, 2026, 4:30 p.m.-6:00 p.m.
+May
+17
+Commencement
+Rutgers Commencement 2026
+Sunday, May 17, 2026, 10:00 a.m.-12:00 p.m.
+May
+26
+Campus Life
+Summer Session Events
+Tuesday, May 26, 2026, 7:00 p.m.-Sunday, July 26, 2026, 12:00 p.m.
+
+========================================================================
+## academic_calendar_university
+URL: https://scheduling.rutgers.edu/academic-calendar/
+Description: Rutgers University academic calendar
+
+Title: Rutgers University Academic Calendar
+
+Rutgers University Academic Calendar
+Please note:
+Academic calendars for some schools may differ from the calendar below. More information is available from the
+Office of the Executive Vice President for Academic Affairs
+.
+Event
+2025-2026
+2026-2027
+2027-2028
+Fall Semester Begins
+Tue, September 2, 2025
+Tue, September 1, 2026
+Wed, September 1, 2027
+Fall Minicourse Dates
+First 7 Weeks
+Tue, September 2, 2025 to
+Mon, October 20, 2025
+Tue, September 1, 2026 to
+Tue, October 20, 2026
+Fall Minicourse Dates
+Second 7 Weeks
+Tue, October 21, 2025 to
+Wed, December 10, 2025
+Wed, October 21, 2026 to
+Thu, December 10, 2026
+Changes in Designation
+of Class Days
+(no classes on Labor Day)
+Tue, November 25, 2025
+(Thursday Classes)
+Wed, November 26, 2025
+(Friday Classes)
+Tue, September 8, 2026
+(Monday Classes)
+Wed, November 25, 2026
+(Friday Classes)
+Wed, September 8, 2027
+(Monday Classes)
+Mon, November 9, 2027
+(Wednesday Classes)
+Thanksgiving Recess
+(no classes)
+Thu, November 27, 2025 to
+Sun, November 30, 2025
+Thu, November 26, 2026 to
+Sun, November 29, 2026
+Wed, November 24, 2027 to
+Sun, November 28, 2027
+Regular Classes End
+Wed, December 10, 2025
+Thu, December 10, 2026
+Mon, December 13, 2027
+Reading Days
+(no classes)
+Thu, December 11, 2025
+Fri, December 12, 2025
+Fri, December 11, 2026
+Mon,  December 14, 2026
+Tue, December 14, 2027
+Wed,  December 15, 2027
+Fall Exams
+Mon, December 15, 2025 to
+Mon, December 22, 2025
+Tue, December 15, 2026 to
+Tue, December 22, 2026
+Thu, December 16, 2027 to
+Thu, December 23, 2027
+Winter Session
+Mon, December 22, 2025 to
+Fri, January 16, 2026
+Wed, December 23, 2026 to
+Fri, January 15, 2027
+Thu, December 23, 2027 to
+Fri, January 14, 2028
+January Intersession
+(early January, after the New Year and before spring semester)
+Mon, January 5, 2026 to
+Mon, January 19, 2026
+Mon, January 4, 2027 to
+Mon, January 18, 2027
+Mon, January 3, 2028 to
+Mon, January 17, 2028
+Spring Semester Begins
+Tue, January 20, 2026
+Tue, January 19, 2027
+Tue, January 18, 2028
+Spring Minicourse Dates
+First 7 Weeks
+Tue, January 20, 2026 to
+Mon, March 9, 2026
+Tue, January 19, 2027 to
+Mon, March 8, 2027
+Spring Minicourse Dates
+Second 7 Weeks
+Tue, March 10, 2026 to
+Mon, May 4, 2026
+Tue, March 9, 2027 to
+Mon, May 3, 2027
+Spring Recess
+(no classes)
+Sat, March 14, 2026 to
+Sun, March 22, 2026
+Sat, March 13, 2027 to
+Sun, March 21, 2027
+Sat, March 11, 2028 to
+Sun, March 19, 2028
+Regular Classes End
+Mon, May 4, 2026
+Mon, May 3, 2027
+Mon, May 1, 2028
+Reading Days
+(no classes)
+Tue, May 5, 2026
+Wed, May 6, 2026
+Tue, May 4, 2027
+Wed, May 5, 2027
+Tue, May 2, 2028
+Wed, May 3, 2028
+Spring Exams
+Thu, May 7, 2026 to
+Wed, May 13, 2026
+Thu, May 6, 2027 to
+Wed, May 12, 2027
+Thu, May 4, 2028 to
+Wed, May 10, 2028
+Rutgers–New Brunswick
+& Rutgers Health
+Commencement
+Sun, May 17, 2026
+Sun, May 16, 2027
+Sun, May 14, 2028
+May Intersession
+(no classes)
+(late May, after spring final exams and before summer session)
+Thu, May 14, 2026 to
+Mon, May 25, 2026
+Thu, May 13, 2027 to
+Mon, May 31, 2027
+Summer Session
+Tue, May 26, 2026 to
+Wed, August 12, 2026
+Tue, June 1, 2027 to
+Wed, August 18, 2027
+August Intersession
+(no classes)
+(late August, after summer session and before the fall semester)
+Thu, August 13, 2026 to
+Mon, August 31, 2026
+Thu, August 19, 2027 to
+Tue, August 31, 2027
+
+========================================================================
+## academic_calendar_newark
+URL: https://www.newark.rutgers.edu/office-registrar/academic-calendar
+Description: Newark Office of the Registrar academic calendar
+
+Title: Academic Calendar
+
+Academic Calendar
+The following links are provided for students, faculty and staff to plan and prepare for certain dates of events such as deadlines for changing or withdrawing from courses, grading periods, and holiday closing. Note that there are differences according to schools and some programs.
+University Academic Calendar
+View the university's scheduled semester start/end dates and other special dates
+Fall Calendar
+View Fall Semester Newark campus dates and deadlines
+Spring Calendar
+View Spring Semester Newark campus dates and deadlines
+Fall/Spring Semester Final Exam Schedules
+For group and non-standard exam times
+Newark Campus Commencement Dates
+Up-to-date information on commencement events on the Newark campus
+
+========================================================================
+## academic_calendar_directory
+URL: https://academicaffairs.rutgers.edu/academic-calendar-directory
+Description: Directory of all academic calendars by school
+
+Title: Academic Calendar Directory
+
+Academic Calendar Directory
+Academic Calendar Directory
+Rutgers–New Brunswick
+Rutgers Health
+Rutgers–Newark
+Rutgers–Camden
+Rutgers University–New Brunswick
+These schools use the
+Rutgers University Academic Calendar
+:
+Edward J. Bloustein School of Planning and Public Policy
+Mason Gross School of the Arts
+Undergraduates, Rutgers Business School–Newark and New Brunswick
+School of Arts and Sciences
+Undergraduates, School of Communication and Information
+School of Engineering
+School of Environmental and Biological Sciences
+School of Management and Labor Relations
+BASW, DSW, and Ph.D. Programs, School of Social Work
+These schools and programs use their own calendars:
+Graduate School of Applied and Professional Psychology
+Graduate School of Education (the GSE
+Graduate
+course schedule does not follow the Reading Days and Exam Week schedule shown on the New Brunswick Registrar academic calendar. The GSE Graduate academic calendar is 15 weeks)
+Rutgers Business School–Newark and New Brunswick - Graduate Programs
+Graduate Programs, School of Communication and Information
+[PDF]
+MSW Program, School of Social Work
+Rutgers–New Brunswick Commencement and Convocations
+Graduates of Rutgers–New Brunswick schools can find information about the university commencement and their school's convocation ceremonies on the
+Rutgers Commencement website
+.
+Rutgers Health
+These schools use the
+Rutgers University Academic Calendar
+:
+Ernest Mario School of Pharmacy
+School of Nursing
+These schools and programs use their own calendars:
+New Jersey Medical School
+Robert Wood Johnson Medical School
+Rutgers School of Dental Medicine
+(Rutgers NetID Required)
+School of Health Professions
+School of Public Health
+Rutgers Health Commencement and Convocations
+Graduates of Rutgers Health schools can find information about the university commencement and their school's convocation ceremonies on the
+Rutgers Commencement website
+.
+Rutgers University–Newark
+These schools and programs use the
+Rutgers University Academic Calendar
+:
+Newark College of Arts and Sciences
+Rutgers Business School–Newark and New Brunswick (Undergraduates)
+School of Criminal Justice
+School of Public Affairs and Administration
+School of Social Work (BASW, DSW, and Ph.D. Programs)
+University College–Newark
+These schools and programs use their own calendars:
+MBA Program, Rutgers Business School–Newark and New Brunswick
+Rutgers Law School
+MSW Program, School of Social Work
+Rutgers–Newark Commencement and Convocation
+Graduates of Rutgers–Newark schools can find information about commencement and their school's convocation ceremonies on the
+Rutgers–Newark Commencement website
+.
+Rutgers University–Camden
+These schools use the
+Rutgers University Academic Calendar
+:
+Camden College of Arts and Sciences
+Graduate School–Camden
+Rutgers School of Business–Camden
+School of Nursing–Camden
+BASW, DSW, and Ph.D. Programs, School of Social Work
+University College–Camden
+These schools and programs use their own calendars:
+Rutgers Law School
+MSW Program, School of Social Work
+Additional
+Camden-specific calendar information
+.
+Rutgers–Camden Commencement and Convocation
+Graduates of Rutgers–Camden schools can find information about commencement and their school's convocation ceremonies on the
+Rutgers–Camden Commencement website
+.
+
+========================================================================
+## academic_calendar_catalog
+URL: https://main.catalogs.rutgers.edu/resources/academic-calendar
+Description: Academic calendar links via Rutgers University catalog
+
+Title: Rutgers University
+
+Navigated to Academic Calendar (AC).
+ACADEMIC CALENDARS
+Academic Calendar-New Brunswick
+Academic Calendar-Newark
+Academic Calendar-Camden
+Academic Calendar-Rutgers Law School
+Academic Calendar-Rutgers School of Health Professions
+
+========================================================================
+## rutgers_day
+URL: https://newbrunswick.rutgers.edu/rutgers-day
+Description: Rutgers Day annual celebration event
+
+Title: Thank You for a Wonderful Rutgers Day!
+
+Pause Background Video
+Play Background Video
+Thank You for a Wonderful Rutgers Day!
+Thank You for a Wonderful Rutgers Day!
+Families and friends of Rutgers, both young and old, convened on Busch, College Avenue, and Cook/Douglass campuses for yet another fantastic Rutgers Day. We're so grateful for your continued participation in this event year after year.
+Save the date for next year's event:
+Saturday, April 24, 2027.
+Share Your #RutgersDay Photos
+Thank you for making Rutgers Day 2026 so memorable! Share your experiences and photos on social media using #RutgersDay. Tell us about your favorite programs and see what others enjoyed at Rutgers Day.
+Visit our Facebook page
+Visit our Instagram
+Subscribe to Rutgers Today
+Sign Up for Next Year's Updates
+Jump past social media posts
+Powered by Curator.io
+Jump back to the beginning of social media posts
+
+========================================================================
+## rbs_commencement_events
+URL: https://commencement.rutgers.edu/
+Description: Rutgers University commencement and graduation events
+
+Title: Rutgers Commencement | Rutgers Commencement
+
+Rutgers
+Commencement
+2026
+Rutgers University–New Brunswick and Rutgers Health Commencement
+Join us for Rutgers University’s 260th Anniversary Commencement on Sunday, May 17, 2026, at SHI Stadium. Tickets and parking passes for all attendees will be required.
+Rutgers University–Newark Commencement
+Get ready to celebrate at the Rutgers University–Newark 2026 Commencement on Thursday, May 21, 2026
+Rutgers University–Camden Commencement
+Celebrate the Class of 2026 at the Rutgers University–Camden Commencement Ceremony on Tuesday, May 19, 2026.
+
+========================================================================
+## graduate_open_house
+URL: https://www.business.rutgers.edu/graduate-programs/admissions-events
+Description: RBS graduate program open houses and info sessions
+
+[ERROR] HTTP 404
+
+========================================================================
+## newark_campus_events_listing
+URL: https://www.newark.rutgers.edu/news
+Description: Rutgers-Newark news and events page
+
+Title: Headlining Stories
+
+Media Contacts
+News
+Search News
+Menu
+Media Contacts
+Search
+Topics
+Close Search
+Search News
+Search
+Administration
+Campus Life
+Community
+Conklin Hall Renovation
+Faculty Excellence
+Research & Innovation
+Administration
+On a Walk Through Campus, Chancellor Tonya Smith-Jackson Meets the Rutgers-Newark Community
+Campus Life
+Two New University Leaders Welcome Students at Convocation
+Campus Life
+Officer Supports Rutgers-Newark and Its Neighbors
+Campus Life
+One-Stop Student Center Opens in Conklin Hall
+Previous Story
+1
+/
+4
+Next Story
+Headlining Stories
+Latest News
+Criminal Justice
+School of Criminal Justice Joins Newark Police and Fire Career Path Program for High Schoolers
+The School of Criminal Justice has joined a Newark  program designed to prepare high school students for future careers in public safety, including a pathway into the Newark Police and Fire Divisions, Newark Mayor Ras J. Baraka announced.
+Events
+Rutgers–Newark To Celebrate International Jazz Day on RU-N's 80th Anniversary
+April 30 is International Jazz Day, but Rutgers–Newark will be celebrating more than music. It will mark a major campus milestone: the 80th anniversary of the date that Rutgers University merged with the University of Newark to become the institution it is today.
+Achievements
+Rutgers-Newark Marks 80th Anniversary With Jazz, Celebration of History
+On April 30th, 1946, the University of Newark merged with Rutgers University, becoming the Rutgers-Newark we know today. Since then, RU-N has become a gateway to opportunity that fuels economic development and cultural vibrancy in the city, state and beyond.
+Commencement
+Pulitzer-Prize Winning Journalist Jonathan Capehart, Co-Anchor of MS NOW's The Weekend, to Speak at Rutgers-Newark Commencement
+Jonathan Capehart, Pulitzer Prize-winning journalist and co-anchor of MS NOW’s The Weekend, will be the keynote speaker for Rutgers-Newark's  commencement ceremony on May 21 at the Prudential Center in Newark.
+Student Success
+Braven Helps Rutgers-Newark Students Find Professional Success as it Expands in NJ
+The Braven career accelerator program at Rutgers-Newark continues to help students find career pathways and job opportunities as it expands statewide. Braven recently opened a new headquarters in Newark and is extending its reach across New Jersey.
+Arts & Sciences
+Rutgers Experts and Tech Industry Leaders Explore  Future of AI
+As artificial intelligence continues to evolve, human judgement will still be essential, according to tech leaders and Rutgers experts, who convened at a recent event hosted by the Institute for Data, Research and Innovation Science (IDRIS).
+Community Newark
+Chancellor Encourages Newark Girls to ‘Bring Your Very Best Self’
+At the Camden Street School in Newark, little girls in tutus and tiaras lined up to tell Rutgers-Newark Chancellor Tonya Smith-Jackson what they do to help themselves feel poised and powerful. The annual Women's History Month event was organized by the Rutgers–Newark Staff Council and the Rutgers Police Department. The chancellor was invited to be keynote speaker.
+Achievements
+Chancellor Tonya Smith-Jackson and others from Rutgers-Newark Make List of Powerful Women
+Rutgers-Newark Chancellor Tonya Smith-Jackson and others affiliated with RU-N as alumnae, students, or staff are on the list of Insider NJ’s Powerful Women of New Jersey.
+Student Success
+Rutgers-Newark Highlights Programs that Fuel Social Mobility
+Rutgers University–Newark is showcasing programs that have supported its ranking as #5 in the nation for social mobility.
+Load More
+In the Press
+Amid a Fraught Process, a Philadelphia Museum Entombs Remains of 19 Black People
+NY Times
+NJ High Schoolers Must Soon Fill Out College Aid Forms to Graduate
+NJ Spotlight
+It’s Critical to Protect Equity Investments in Minority Businesses
+Tech Crunch
+Community Partnerships
+Research
+People
+Art & Culture
+Community Newark
+Rutgers-Newark Program That Trains Parents as Classroom Support Raises Student Literacy Rates, Improves Relationships
+A  Rutgers-Newark program that helps parents provide literacy support in Newark schools has done more than improve children’s reading skills. The parents also serve as “cultural brokers,”  bridging gaps between a teaching staff of mostly white suburban women and the district’s families, who are predominately Black.
+Community Newark
+Who Owns Newark? Rutgers-Newark Study Finds Troubling Rise in Corporate Buying of City Homes
+Within three years, nearly half of Newark’s residential property was sold to corporate buyers, a model designed to enrich investors through returns from rent collection, and a nationwide trend that can displace residents and impede home ownership, according to a Rutgers University—Newark report titled
+Who Owns Newark?
+Community Newark
+Rutgers-Newark Public Safety Collaborative Strengthens Work During Pandemic
+For an organization that leans on collective work with many stakeholders, a global pandemic poses almost insurmountable difficulties. Yet the Newark Public Safety Collaborative’s (NPSC) work has not only continued to provide important resources for the greater Newark community but has added new areas of focus to its already expansive reservoir of information.
+Daily Beast: RU-N Research Collaboration with RBHS Explores Link Between Alzheimer's and COVID-19
+A collaboration between Rutgers-Newark neuroscience researcher Mark Gluck and Rutgers Biomedical and Health Sciences (RBHS) researcher Patricia Fitzgerald-Bocarsly, who studies immune systems and is RBHS provost, was featured in the Daily Beast as a potentially breakthrough study.
+School of Criminal Justice Alumna, Now a Federal Leader, Shaped by RU-N Education
+Thirty years ago, when Rutgers-Newark alumna Nancy La Vigne entered the field of criminal justice, policy makers paid little attention to data.
+Administration
+Rutgers Business School Expert in Urban Entrepreneurship Named Rutgers-Newark Provost
+Rutgers Business School professor Jeffrey Robinson, an internationally known author and co-founder of the Center for Urban Entrepreneurship and Economic Development, has been named Rutgers University—Newark’s new provost and executive vice chancellor.
+Background as Lawyer, and Dominican Immigrant, Shaped New Assistant Dean and Director of Student Compliance
+The challenges of navigating college and law school as an Afro-Latina woman have been a north star for Ednin Martinez, Rutgers-Newark’s new Assistant Dean and Director of Student Compliance.
+Administration
+Dr. Consuella Askew Named Vice President for University Libraries and University Librarian
+Rutgers University has selected Dr. Consuella Askew as its new Vice President for University Libraries and University Librarian. On July 18, 2022, she became Rutgers’ 15th University Librarian and the first person of color in the institution’s 256-year history to hold the position.
+Faculty Excellence
+Rutgers-Newark Professor Salamishah Tillet Receives Pulitzer Prize
+Rutgers University–Newark Professor Salamishah Tillet was awarded a Pulitzer Prize in criticism for her New York Times essays on race in arts and culture, the Pulitzer Prize board announced.
+Faculty Excellence
+Celebrating a Genre, and American History, at Institute of Jazz Studies
+April is Jazz Appreciation month, but Wayne Winborne can list the many reasons jazz should be appreciated every day. Winborne is executive director of the Institute of Jazz Studies at Rutgers-Newark, the world’s largest jazz archive and library, where thousands of LPs are housed along with artifacts such as Miles Davis’ green trumpet and Billie Holiday’s rhinestone jewelry.
+Collaborative Mural Celebrating Womanhood To be Unveiled June 6
+Rutgers University–Newark’s BOLD Women’s Leadership Network and Project for Empty Space will unveil a mural created by acclaimed artist Adama Delphine Fawundu and BOLD scholarship students on June 6  at 800 Broad Street in Newark from 11 a.m. to 1 p.m. The seventy-foot, four-story mural, titled Courage, celebrates the power of womanhood, female identity and ancestral power.
+Messages From the Chancellor
+See More
+
+========================================================================
+## career_fairs_handshake
+URL: https://rutgers.joinhandshake.com/login
+Description: Career fairs and recruiting events on Handshake
+
+Title: Get connected
