@@ -85,3 +85,5 @@ zstandard==0.25.0
 python-dotenv
 arize-phoenix-otel
 openinference-instrumentation-openai
+openinference-semantic-conventions
+opentelemetry-api

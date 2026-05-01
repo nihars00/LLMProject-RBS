@@ -14,8 +14,13 @@ load_dotenv()
 # --------------------------------------------------
 # Phoenix Cloud tracing setup
 # --------------------------------------------------
+tracer = None
+SpanAttributes = None
+
 try:
     from phoenix.otel import register
+    from opentelemetry import trace
+    from openinference.semconv.trace import SpanAttributes
 
     phoenix_api_key = os.getenv("PHOENIX_API_KEY") or st.secrets.get("PHOENIX_API_KEY")
     phoenix_endpoint = os.getenv("PHOENIX_COLLECTOR_ENDPOINT") or st.secrets.get(
@@ -31,6 +36,8 @@ try:
             auto_instrument=True,
             batch=True,
         )
+
+        tracer = trace.get_tracer(__name__)
 
 except Exception as e:
     print(f"Phoenix tracing not enabled: {e}")
@@ -51,7 +58,7 @@ os.environ["OPENAI_API_KEY"] = api_key
 
 
 # --------------------------------------------------
-# Optional: auto-run ingest.py if index files are missing
+# Auto-run ingest.py if index files are missing
 # --------------------------------------------------
 def ensure_indexes_exist():
     output_dir = "output"
@@ -147,10 +154,39 @@ if query:
             answer = "I don't have information about that in my current database."
             st.markdown(answer)
 
+            if tracer and SpanAttributes:
+                with tracer.start_as_current_span("RAG Question") as span:
+                    span.set_attribute(SpanAttributes.INPUT_VALUE, query)
+                    span.set_attribute("rag.intent", intent)
+                    span.set_attribute("rag.num_retrieved_chunks", 0)
+                    span.set_attribute(SpanAttributes.OUTPUT_VALUE, answer)
+
         else:
             try:
-                with st.spinner(f"Generating answer (Router detected intent: {intent})..."):
-                    answer = generator.generate_answer(query, retrieved_chunks)
+                if tracer and SpanAttributes:
+                    with tracer.start_as_current_span("RAG Question") as span:
+                        span.set_attribute(SpanAttributes.INPUT_VALUE, query)
+                        span.set_attribute("rag.intent", intent)
+                        span.set_attribute("rag.num_retrieved_chunks", len(retrieved_chunks))
+
+                        for i, chunk in enumerate(retrieved_chunks[:5], 1):
+                            span.set_attribute(
+                                f"rag.retrieved_chunk_{i}",
+                                chunk.get("text", "")[:1000],
+                            )
+                            span.set_attribute(
+                                f"rag.retrieved_source_{i}",
+                                chunk.get("metadata_prefix", ""),
+                            )
+
+                        with st.spinner(f"Generating answer (Router detected intent: {intent})..."):
+                            answer = generator.generate_answer(query, retrieved_chunks)
+
+                        span.set_attribute(SpanAttributes.OUTPUT_VALUE, answer)
+
+                else:
+                    with st.spinner(f"Generating answer (Router detected intent: {intent})..."):
+                        answer = generator.generate_answer(query, retrieved_chunks)
 
             except Exception as e:
                 answer = f"Error during answer generation: {e}"
